@@ -1,4 +1,4 @@
-# Container projet
+# Container pour XML à HTML via XSLT
 1. Recevoir une requête POST avec du XML (Content-Type: application/xml)
 2. Convertir ce XML en HTML via un fichier XSLT (script commenté dans app/main.py)
 3. Traiter un dossier complet (panel-xml) 
@@ -42,11 +42,11 @@ Extraire tous les résultats HTML dans un .zip
     
     curl -X POST http://localhost:8000/convert-folder-recursive/ \
   -H "Content-Type: application/json" \
-  -d '{"folder_path": "/app/panel-xml"}' --> Appel API de conversion
+  -d '{"folder_path": "/app/panel-xml"}'
   
   Réponse attendue : {"converted": 1251, "output_dir": "/app/converted"}
-
-4. Récupérer les fichiers en local
+  
 docker ps --> trouver <CONTAINER_id>
 docker cp <CONTAINER_id>:/app/converted ./converted --> copie en local
 zip -r output.zip converted/ --> Archiver les résultats (optionnel?)
+4. Récupérer les fichiers en local
