@@ -36,12 +36,15 @@ xml-to-html-service
 
 ## Commandes d'exécution
 1. Construction de l'image Docker
+   
     docker build -t xml-to-html-service 
 
-2. Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
+3. Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
+   
     docker run -p 8000:8000 xml-to-html-service
 
-3. Appel API de conversion
+5. Appel API de conversion
+   
     curl -X POST http://localhost:8000/convert-folder-recursive/ \
   -H "Content-Type: application/json" \
   -d '{"folder_path": "/app/panel-xml"}'
