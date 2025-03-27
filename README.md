@@ -36,18 +36,17 @@ Extraire tous les résultats HTML dans un .zip
 - `xml_to_html.xsl` — Script XSLT pour la transformation
 
 ## Commandes d'exécution
-    docker build -t xml-to-html-service --> Construction de l'image Docker
-    
-    docker run -p 8000:8000 xml-to-html-service --> Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
-    
+
 ```bash
+docker build -t xml-to-html-service --> Construction de l'image Docker
+docker run -p 8000:8000 xml-to-html-service --> Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
 curl -X POST http://localhost:8000/convert-folder-recursive/ \
   -H "Content-Type: application/json" \
   -d '{"folder_path": "/app/panel-xml"}'
   
-  Réponse attendue : {"converted": 1251, "output_dir": "/app/converted"}
+Réponse attendue : {"converted": 1251, "output_dir": "/app/converted"}
   
-docker ps --> trouver <CONTAINER_id>
+docker ps --> trouver <CONTAINER_id> 
 docker cp <CONTAINER_id>:/app/converted ./converted --> copie en local
 zip -r output.zip converted/ --> Archiver les résultats (optionnel?)
-4. Récupérer les fichiers en local
+
