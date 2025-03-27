@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42902</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42902">dodis.ch/42902</ref>
+                    <title type="main">Der Vorsteher des Handels-, Industrie- und Landwirtschaftsdepartementes, <persName ref="https://dodis.ch/P33470">A. Deucher</persName>, an den schweizerischen Gesandten in <placeName ref="https://dodis.ch/G25">Berlin</placeName>, A. de Claparède<note>Schreiben (Kopie): E VED, A +W, 1909-1955/5/1.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">34128</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">17363</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Berlin,</placeName>
+                        <date when="1904-10-12">12. Oktober 1904</date>
+                    </dateline>
+                </opener>
+                <p>Unter Bezugnahme auf unser Schreiben vom 5. dies übermitteln wir Ihnen hiemit konfidentiell je eine Abschrift der Rückäusserungen des eidgenössischen</p>
+                <p>Departements des Innern<note><orig>E VED, A + W, 1909-1955/5/1.</orig></note>, des Eisenbahndepartements<note><orig>E VED, A + W, 1909-1955/5/1.</orig></note>, sowie des Departements des Innern des Kantons <placeName ref="https://dodis.ch/G83">Basel</placeName>-Stadt<note>Nr. 44.</note>, betreffend die Rheinschiffahrt und den Hüninger-Kanal.</p>
+                <p>Wir ersuchen Sie, Hrn. von <persName ref="https://dodis.ch/P34271">Richthofen</persName>, gestützt auf die Ihnen mit unserm genannten Schreiben übermittelte Notiz<note>Nr. 43 Annex.</note>, mündlich mitzuteilen, was uns in</p>
+                <p>Luzern durch Hrn. von Körner vorläufig eröffnet worden ist, und ihm den</p>
+                <p>Wunsch auszusprechen, dass Ihnen nun, als Antwort auf die seinerzeit durch</p>
+                <p>Hrn. Minister <persName ref="https://dodis.ch/P27913">Roth</persName> schriftlich notifizierten Begehren, möglichst bald auch eine</p>
+                <p><emph>schriftliche </emph>Erklärung zugestellt werden möchte.</p>
+                <p>Wir bedürfen einer solchen selbstverständlich als Grundlage für unser ferneres</p>
+                <p>Vorgehen während oder nach den Handelsvertragsunterhandlungen, indem wir uns bekanntlich Vorbehalten, die Angelegenheit auf diplomatischem Wege weiter zu verfolgen, wenn dieselbe während den Handelsvertragsunterhandlungen keine befriedigende Lösung finden sollte. Mit Bezug auf den Hüninger-Kanal</p>
+                <p>können Sie Hrn. von <persName ref="https://dodis.ch/P34271">Richthofen</persName> einstweilen gesprächsweise und unverbindlich,</p>
+                <p>unter Vorbehalt der Stellungnahme des Bundesrates nach Erhalt der schriftlichen Äusserung des Auswärtigen Amts, bemerken, dass die Bedingung einer massgebenden Einwirkung der Reichseisenbahnverwaltung auf den Kanaltarif in hiesigen Kreisen als gleichbedeutend mit einer Ablehnung unseres Begehrens betrachtet werde, weil jene Verwaltung naturgemäss die Tendenz verfolgen</p>
+                <p>müsste, eine lohnende Konkurrenz des Kanals mit der Eisenbahn zu verunmöglichen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

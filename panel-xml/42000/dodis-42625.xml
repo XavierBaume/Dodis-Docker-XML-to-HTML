@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42625</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42625">dodis.ch/42625</ref>
+                    <title type="main">Le Ministre de Suisse à <placeName ref="https://dodis.ch/G18">Paris</placeName>, Ch. <persName ref="https://dodis.ch/P5840">Lardy</persName>, au Président de la Confédération et Chef du Département politique, <persName ref="https://dodis.ch/P31755">A. Lachenal</persName><note>Rapport politique: <orig><idno type="CH-BAR">E 2300 Paris 49</idno></orig>. Note en tête du document: <orig>1. Accuser réception. 2. En circulation. 3. reproduire pour les légations.</orig></note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">4262</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Paris,</placeName>
+<date when="1896-07-13"> 13 j uillet 1896</date>
+
+                    </dateline>
+                </opener>
+                <p>[...]<note><persName ref="https://dodis.ch/P5840">Lardy</persName> rapporte les débats et votes de la Chambre sur les questions fiscales.</note></p>
+                <p>A l’extérieur, je Vous écrivais le 1<hi>er</hi> Juin que les représentants de certaines grandes puissances prédisaient dans le courant de l’été une action énergique de la <placeName ref="https://dodis.ch/G10073">Russie</placeName> pour amener l’<placeName ref="https://dodis.ch/G14">Angleterre</placeName> à évacuer l’<placeName ref="https://dodis.ch/G216">Egypt</placeName>e, et j’ajoutais que les Anglais s’y attendaient d’autant plus que, selon eux, <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> avait besoin d’un succès pour démontrer qu’il était un meilleur Ministre des affaires étrangères que <persName ref="https://dodis.ch/P33935">MM. Berthelot</persName> et <persName ref="https://dodis.ch/P33948">Bourgeois</persName> et pour consolider sa situation quelque peu ébranlée par la mauvaise marche des affaires à <placeName ref="https://dodis.ch/G366">Madagascar</placeName>; on en concluait qu’il allait se mettre tout à fait dans les mains de la <placeName ref="https://dodis.ch/G10073">Russie</placeName>.</p>
+                <p>Cette supposition du cabinet de <placeName ref="https://dodis.ch/G55">Londres</placeName> ne s’est pas confirmée jusqu’ici. Les Ambassadeurs d’<placeName ref="https://dodis.ch/G5">Allemagne</placeName> et d’Autriche à <placeName ref="https://dodis.ch/G18">Paris</placeName> soutiennent même la thèse contraire. Ils disent que l’Impératrice-mère de <placeName ref="https://dodis.ch/G10073">Russie</placeName> est plus en faveur que jamais auprès de son fils, qu’elle excite celui-ci contre la Triple-Alliance et l’<placeName ref="https://dodis.ch/G14">Angleterre</placeName>; que la <placeName ref="https://dodis.ch/G10073">Russie</placeName> a fait de pressantes démarches auprès de <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> pour une action énergique anti-anglaise en <placeName ref="https://dodis.ch/G216">Egypt</placeName>e et qu’au contraire c’est <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> qui résiste avec fermeté et persévérance. Il paraîtrait d’après MM. de <persName ref="https://dodis.ch/P33690">Münster</persName> et de <persName ref="https://dodis.ch/P34380">Wolkenstein</persName> que la <placeName ref="https://dodis.ch/G10073">Russie</placeName> aurait traité de trop haut le gouvernement français, voulant le diriger jusque dans de petits détails. <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> aurait été frappé du fait que pendant les fêtes du couronnement à <placeName ref="https://dodis.ch/G21">Moscou</placeName>, la <placeName ref="https://dodis.ch/G13">France</placeName>, malgré toutes ses complaisances, n’aurait pas bénéficié d’une situation réellement exceptionnelle; que les amabilités de l’Empereur d’<placeName ref="https://dodis.ch/G5">Allemagne</placeName> ne sont pas sans écho en <placeName ref="https://dodis.ch/G10073">Russie</placeName>; que si la <placeName ref="https://dodis.ch/G13">France</placeName> se laissait aller à une politique très active en <placeName ref="https://dodis.ch/G216">Egypt</placeName>e, on aboutirait soit à une reculade, soit à une situation anglofrançaise tellement tendue qu’elle deviendrait périlleuse; or, la plus grosse partie du péril serait pour la <placeName ref="https://dodis.ch/G13">France</placeName> qui seule a une flotte. Il en résulte que <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> retiendrait au lieu de pousser et estime qu’en conservant à la <placeName ref="https://dodis.ch/G13">France</placeName> son individualité, il obtiendra autant et plus que par une attitude servile. Il paraît d’autre part que la <placeName ref="https://dodis.ch/G10073">Russie</placeName> cherche à émettre à <placeName ref="https://dodis.ch/G18">Paris</placeName> un ou deux emprunts, dont l’un ne serait pas moindre de 500 millions de roubles, en vue de reprendre les payements en espèce;</p>
+                <p><emph>
+                        <add type="edition">[...]</add><note>Suivent quelques considérations d’ordre technique sur le système monétaire russe.</note></emph>L’emprunt de 2 milliards que la <placeName ref="https://dodis.ch/G10073">Russie</placeName> cherche à négocier à <placeName ref="https://dodis.ch/G18">Paris</placeName> en ce moment, après avoir, paraît-il, tâté le terrain à <placeName ref="https://dodis.ch/G25">Berlin</placeName>, a une importance vitale pour la <placeName ref="https://dodis.ch/G10073">Russie</placeName>; cela permet à <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> de faire ses conditions. Il y a huit jours, j’ai entendu dire qu’un accord ne se faisait pas, et il y a quatre jours qu’on s’était rapproché et que <persName ref="https://dodis.ch/P33329">M. Alphonse de Rothschild</persName> restait à <placeName ref="https://dodis.ch/G18">Paris</placeName> pour suivre cette affaire dans laquelle serait aussi intéressé notre compatriote M. <persName ref="https://dodis.ch/P34097">Hottinguer</persName>.</p>
+                <p>[...]<note>Rumeurs sur des faits divers.</note></p>
+                <p>Il est difficile de se retrouver au milieu de toutes ces assertions, mais le fait est que jusqu’à présent il ne se dessine pas d’énergique action franco-russe contre l’<placeName ref="https://dodis.ch/G14">Angleterre</placeName> en <placeName ref="https://dodis.ch/G216">Egypt</placeName>e et qu’entre la <placeName ref="https://dodis.ch/G13">France</placeName> et l’<placeName ref="https://dodis.ch/G5">Allemagne</placeName>, la participation de ce dernier pays à l’Exposition universelle de <placeName ref="https://dodis.ch/G18">Paris</placeName> en 1900 n’a pas été vue de mauvais œil en <placeName ref="https://dodis.ch/G13">France</placeName>. Les Ambassadeurs de la Tripe-Alliance à <placeName ref="https://dodis.ch/G18">Paris</placeName> déclarent donc nettement qu’ils n’ont pas d’inquiétudes actuellement et que <persName ref="https://dodis.ch/P34082">M. Hanotaux</persName> joue un rôle modérateur.</p>
+                <p><emph>
+                        <add type="edition">[...]</add><note>Suivent des considérations sur les relations commerciales hispano-françaises et francoitaliennes.</note></emph>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

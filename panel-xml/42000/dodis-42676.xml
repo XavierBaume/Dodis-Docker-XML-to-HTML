@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42676</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42676">dodis.ch/42676</ref>
+                    <title type="main">
+                        <objectType>CONSEIL FÉDÉRAL<lb/>Procès-verbal </objectType>de la séance du 28 juin 1898<note><idno type="CH-BAR">E 1004 1/193</idno>.</note></title><title type="sub">2470. Zollermässigungen für Spirituosen in den Vereinigten Staaten</title>
+                    <unclear reason="Entity type: Person not found in section with ID:">34084</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">16328</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">32362</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">33900</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">34172</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">2943</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">1379</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">180</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">5</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">904</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">75</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">77</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">138</unclear>
+                </head>
+                <opener>
+                    <dateline>Handelsdepartement, Antrag vom 27. dies.</dateline>
+                </opener>
+                <p>In dem kürzlich abgeschlossenen Reciprozitätsabkommen zwischen den Vereinigten Staaten und <placeName ref="https://dodis.ch/G13">Frankreich</placeName> ist die Ermässigung der amerikanischen Zölle für Spirituosen und verschiedene andere Artikel, die einigermassen auch die Schweiz interessieren, vereinbart. Laut Art. 8, 9, 10 und 12 des Vertrages mit den Vereinigten Staaten vom Jahr 1850<note>Cf. <orig>RO 1857, V, pp. 189-213.</orig></note> geniesst die Schweiz in jeder Hinsicht die Meistbegünstigung. Laut Telegramm der schweizerischen Gesandtschaft in <placeName ref="https://dodis.ch/G16">Washington</placeName><note>Cf. <idno type="CH-BAR">E 13 (B)/272</idno>, daté du 26 juin 1898.</note> wird jedoch die Anwendung der genannten Zollermässigung auf nicht französische Erzeugnisse verweigert.<note>Dans un document intitulé <orig>Résumé betreffend die Handelsbeziehungen zu den Vereinigten Staaten von <placeName ref="https://dodis.ch/G11">Amerika</placeName>, 1897–1903,</orig> on trouve à ce propos: <orig>[...] Unterm 8. Juni 1898 übermittelte uns Hr. Nationalrat Louis <persName ref="https://dodis.ch/P33664">Martin</persName> eine Eingabe der Firma <persName ref="https://dodis.ch/P34429">Edouard Pernod</persName> in Couvet,</orig> cf. <orig><idno type="CH-BAR">E 13 (B)</idno> (272), worin diese unsere Verwendung nachsuchte, dass die von den Vereinigten Staaten zugunsten der französischen Spirituosen eingeräumten Zollermässigungen auch auf Spirituosen schweizerischer Provenienz (Absinth) angewendet werden möchten. Auf Grund des oberwähnten französisch-amerikanischen Übereinkommens</orig> /daté du 28 mai 1898], <orig>entrichteten nämlich die Spirituosen französischer Herkunft seit dem 1. des genannten Monats nur noch $1,75 per Gallone (3,75 Liter) während die nämlichen Artikel nichtfranzösischer Herkunft dem ursprünglichen Ansatz von $2,25 per Gallone unterworfen blieben. [...] ( <idno type="CH-BAR">E 13 (B)/273</idno>.v</orig> A <orig><idno type="CH-BAR">E 13 (B)/272</idno></orig></note></p>
+                <p>Nach Antrag des Handelsdepartements wird folgendes Telegramm an die schweizerische Gesandtschaft in <placeName ref="https://dodis.ch/G16">Washington</placeName> erlassen:</p>
+                <p>«Reçu télégramme. Réclamez en toute forme application concessions francoaméricaines à nos produits. Refus constituerait violation notre traité, articles 8, 9, 10, 12. Notre clause nation la plus favorisée est absolument illimitée. Demandez que instructions soient immédiatement données aux douanes. Câblez succes.»<note>Cette réclamation fut présentée au gouvernement américain par le Ministre de Suisse à <placeName ref="https://dodis.ch/G16">Washington</placeName> le 29 juin 1898. L’interprétation de la clause de la nation la plus favorisée donna lieu à un échange de notes entre le gouvernement suisse et celui des Etats-Unis d’<placeName ref="https://dodis.ch/G11">Amérique</placeName>, dont deux sont reproduites en annexe 1 et 2 au présent document.</note></p>
+                <p>Das Departement wird auch den Gesandten der Vereinigten Staaten von dieser Reklamation in Kenntnis setzen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42097</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42097">dodis.ch/42097</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 15. Juni 1877<note><idno type="CH-BAR">E 1004 1/109</idno>. Abwesend: Heer.</note></title><title type="sub">3203. <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahnkonferenz</title>
+                </head>
+                <opener>
+                    <dateline>Eisenbahn- und Handelsdepartement. Bericht vom <date when="1877-06-14">14. Juni 1877</date>
+                    </dateline>
+                </opener>
+                <p>Nachdem die <emph><placeName ref="https://dodis.ch/G985">Gotthard</placeName>-Konferenz in <placeName ref="https://dodis.ch/G531">Luzern</placeName> am </emph>13. diess. ihre Endschaft erreicht hat und die herwärtige Delegation<note>Nr. 117, Anm 3.</note> nach Bern zurükgekehrt ist erstattet Namens lezterer Hr. <emph>Bundesrath <persName ref="https://dodis.ch/P15817">Schenk</persName> Bericht über den weitern Verlauf der </emph></p>
+                <p><emph>Verhandlungen seit Erlass der nachträglichen Instruktion</emph><note>Vgl. <orig><idno type="CH-BAR">E 1004 1/109, Nr. 3088</idno>.</orig></note>, wie sie unterm 9. diess. hierseits festgestellt worden. Er bespricht dabei hauptsächlich das Schlussprotokoll<note><idno type="CH-BAR">E 53/201</idno>.</note> über die Verhandlungen der Konferenz, das in der 8. Sizung vom 12. diess. angenommen worden und das diejenigen Propositionen zusammenfasst, welche die Zustimmung aller Delegirten oder einer Mehrheit derselben erhalten haben und zugleich die Modifikationen und Zusäze präzisirt, welche die Annahme obiger Propositionen zu dem Vertrage vom 15. Oktober 1869<note><orig>AS 1869-1872, X, S. 555-577.</orig></note> nothwendig macht.</p>
+                <p>Der wesentliche Inhalt desselben ist folgender:</p>
+                <p>Von den noch nicht eröffneten Linien des <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahnnezes werden zunächst die Streken <placeName ref="https://dodis.ch/G4514">Immensee</placeName>-<placeName ref="https://dodis.ch/G9321">Göschenen</placeName>, <placeName ref="https://dodis.ch/G9320">Airolo</placeName>-<placeName ref="https://dodis.ch/G8812">Biasca</placeName> und <placeName ref="https://dodis.ch/G10141">Cadenazzo</placeName>-Pino in Angriff genommen und auf den muthmasslichen Zeitpunkt der Eröffnung des grossen Tunnels (Ende September 1881) vollendet.</p>
+                <p>Der Bau der Linien <placeName ref="https://dodis.ch/G531">Luzern</placeName>–<placeName ref="https://dodis.ch/G4514">Immensee</placeName>, <placeName ref="https://dodis.ch/G1261">Zug</placeName>–<placeName ref="https://dodis.ch/G10381">Arth</placeName> und <placeName ref="https://dodis.ch/G12004">Giubiasco</placeName>–<placeName ref="https://dodis.ch/G736">Lugano</placeName> wird bis zu dem Zeitpunkt der Eröffnung der Linie <placeName ref="https://dodis.ch/G4514">Immensee</placeName>-Pino verschoben. Will die <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahnunternehmung die eine oder andere dieser Linien vorher bauen, so hat sie hiefür dem Bundesrath einen besondern Finanzausweis zu leisten, der die für den Bau der Linie <placeName ref="https://dodis.ch/G4514">Immensee</placeName>–Pino bestimmten Mittel unberührt lässt.</p>
+                <p>Nach Eröffnung der Linie <placeName ref="https://dodis.ch/G4514">Immensee</placeName>–Pino ist die <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahn-Unternehmung verpflichtet, den Bau der aufgeschobenen Linien so bald in Angriff zu nehmen, als ihre finanziellen Verhältnisse es erlauben. Über diese Voraussezung sowie über die Reihenfolge des Baues der drei Linien entscheidet der Bundesrath.</p>
+                <p>Die in dem Vertrage vom 15. Oktober 1869 auf 85 Millionen festgestellte Subvention wird von den drei Staaten um 28 Millionen Franken vermehrt, von welcher Summe schweizerischerseits 8 Millionen und von <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und Italien je 10 Millionen übernommen werden.</p>
+                <p>Neben der in dem Vertrage von 1869 enthaltenen Verpflichtung, alle Vorschriften dieses Vertrages durch die Bahngesellschaft ausführen zu lassen, macht sich die Eidgenossenschaft im besondern anheischig, die Baupläne und Kostendevise zu prüfen und zu genehmigen und wenigstens alle drei Monate von der Gesellschaft einen Ausweis über die den Voranschlägen gemässe Verwendung der Mittel zu verlangen.</p>
+                <p>Die Repräsentanten der drei Staaten verpflichten sich, das Protokoll ihren Regierungen in empfehlendem Sinne vorzulegen. Die Regierungen werden bis zum 31. Julid. Js. den schweizerischen Bundesrath davon in Kenntnis sezen, ob sie das Protokoll genehmigen, in welchem Falle das Schlussprotokoll als Nachtragsvertrag zu der Konvention vom 15. Oktober 1869 unterzeichnet und den Kammern der drei Staaten zur Ratifikation unterlegt werden soll.</p>
+                <p>Sollte die Genehmigung des Schlussprotokolls von einer der drei Regierungen beanstandet werden, so hat der schweizerische Bundesrath ohne Verzug eine neue Konferenz zu berufen.</p>
+                <p>Mit dieser Berichterstattung verbindet die Delegation folgende Anträge:</p>
+                <p>1. Der Bundesrath nimmt von dem Schlussprotokoll sammt Bericht und Konferenzprotokollen vorläufig Kenntniss.</p>
+                <p>2. Den Regierungen der Kantone und den Direktionen der Eisenbahngesellschaften, welche sich an der Subvention von 20 Millionen betheiligt haben, wird von den Ergebnissen der Konferenz Kenntniss gegeben mit der Einladung, Delegirte zu bezeichnen zu einer vom Bundesrathe in der ersten Hälfte Juli einzuberufenden Konferenz behufs Besprechung der Frage, in welcher Weise die durch das Schlussprotokoll der Schweiz zugewiesene neue Subvention von 8 Millionen Frkn. aufgebracht werden könne.</p>
+                <p>3. Der <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahngesellschaft wird das Schlussprotokoll sammt zudienenden Konferenzprotokollen zur Vernehmlassung zugestellt namentlich bezüglich des nach dem Konferenzprojekte noch aufzubringende Privatkapitals.</p>
+                <p>Nach gepflogener Berathung werden diese Anträge genehmigt. Der dritte mit dem Zusaze, dass die <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahndirektion mit Rüksicht auf die Bestimmung der IX Konferenz eine bindende Erklärung darüber abzugeben habe, dass sie ohne Zustimmung des Bundesrathes an dem zwischen ihr und Hrn. Tunnelbauunternehmer <persName ref="https://dodis.ch/P33000">Favre</persName> bestehenden Rechtsverhältniss bezüglich der Installationen zum Tunnel nichts ändern werde.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

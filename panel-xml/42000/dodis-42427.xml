@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42427</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42427">dodis.ch/42427</ref>
+                    <title type="main">Le Ministre de Suisse à <placeName ref="https://dodis.ch/G18">Paris</placeName>, Ch. <persName ref="https://dodis.ch/P5840">Lardy</persName>, au Chef du Département des Affaires étrangères, <persName ref="https://dodis.ch/P15816">N. Droz</persName><note>Rapport politique: <idno type="CH-BAR">E 2300 Paris 43</idno>.</note></title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Paris,</placeName>
+                        <date when="1890-03-03">3 mars 1890</date>
+                    </dateline>
+                </opener>
+                <p>L’opinion publique française suit avec un intérêt passionné la question de la Conférence ouvrière de <placeName ref="https://dodis.ch/G25">Berlin</placeName>, non à cause de cette conférence même qui intéresse fort peu les classes laborieuses et <emph>le clan socialiste français, </emph>s’il faut s’en rapporter aux déclarations des chefs de ce parti à <placeName ref="https://dodis.ch/G18">Paris</placeName>, mais à cause de la lutte engagée entre l’Empereur et le Chancelier.</p>
+                <p>Voici, d’une source que j’ai toujours trouvée <emph>parfaitement renseignée, </emph>mais que j’ai le devoir de ne pas indiquer, quelle serait la situation à cet égard:</p>
+                <p>«Le Chancelier désapprouve absolument l’attitude de l’Empereur dans l’affaire des rescrits<note>Le texte des rescrits est reproduit en annexe au n<hi>o</hi> 5.</note> et de la Conférence ouvrière. Il est inexact qu’il y ait eu réconciliation entre eux. Le Chancelier ne reste en fonctions que pour contrecarrer l’Empereur et faire échouer ses projets. Il se prépare une coalition formidable d’anciens conservateurs, de militaires, de mécontents, de vaincus de toutes sortes, y compris les plus haut placés, dans le but de précipiter la chute du Chancelier. Quant au Comte <persName ref="https://dodis.ch/P33380">Herbert</persName>, il ne restera pas en fonctions une demiheure après la chute de son père.»</p>
+                <p>Tel est le résumé authentique de la situation, d’après mon interlocuteur, dont la source est si haute que j’avais le devoir de Vous en faire part, malgré ce que ces déclarations ont d’absolu et partant de suspect.</p>
+                <p><emph><add type="edition">[...]</add></emph><note>Suivent des considérations sur la question de la Bulgarie et de la Crète, les relations russo-serbes et le remplacement du Ministre de l’Intérieur français, Constans, par Bourgeois.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

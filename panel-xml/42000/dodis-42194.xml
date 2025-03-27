@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42194</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42194">dodis.ch/42194</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 21. Februar 1882<note><idno type="CH-BAR">E 1004 1/128</idno>. Abwesend: <persName ref="https://dodis.ch/P16326">Bavier</persName>, <persName ref="https://dodis.ch/P15816">Droz</persName>.</note></title><title type="sub">914. Revision des Handelsvertrages und der Annexverträge</title>
+                </head>
+                <opener>
+                    <add>Mündlich</add><dateline></dateline>
+                </opener>
+                <p>Mit 3 Telegrammen vom 20. ds. Mts.<note><idno type="CH-BAR">E 13 (B)/175</idno>.</note> teilen die herwärtigen <emph>Vertreterîm </emph>die <emph>Revision des Handelsvertrages </emph>mit Frankreich und der <emph>Annexverträge </emph>/zu vergl. auch Prot, vom 20. ds. N<hi>o</hi> . 876<note>Nicht abgedruckt.</note> /</p>
+                <p>mit: In der offiziellen Sizung vom 20. seien folgende Tarifansäze definitiv festgestellt worden:</p>
+                <p>Hinsichtlich der Einfuhr nach Frankreich, für die Stikereien 4 Fr.50 Rp., auf Messerwaaren sei gegenüber dem belgischen Tarif eine Ermässigung von 24%, wie auch eine Reduktion für Eisenwaaren und für Holzschuhriemen zugestanden worden. Für die Einfuhr nach der Schweiz sei der Weinzoll auf Fr. 3.50 herabgesezt worden. Der Zoll für Leder sei ohne Unterschied auf 8 Fr. angesezt, für Lederarbeiten und Schuhwaaren in Leder auf 30 Fr. ohne Unterschied; für Wollengarne auf 5,8 &amp; 9 Fr., für rohe Wollengewebe auf 12 Fr., für die anderen Wollgewebe auf 25 Fr., für die Deken ohne Unterschied auf 16 Fr., für die Teppiche auf 12 &amp; 30 Fr., für Strumpfwaaren (bonneterie) auf 25 Fr., für Posamentierwaaren und Seidenbänder und Schals etc. auf 30 Fr., für andere Konfektionsartikel 40 Fr. Da diese Tarife eine ansehnliche Vermehrung der herwärtigen Einnahmen ergeben, so haben die herwärtigen Vertreter erklärt, sie definitiv annehmen zu wollen. Bezüglich des <placeName ref="https://dodis.ch/G225">Pays de Gex</placeName> sei das dem Bundesrat zur Einfuhr vorgelegte Projekt<note><idno type="CH-BAR">E 13 (B)/175</idno>.</note> ohne eine weitere wesentliche Abänderung angenommen worden, mit der Ausnahme, dass <persName ref="https://dodis.ch/P33260">Tirard</persName> die Forderung stellte 2000 Zentner Wein zollfrei in die Schweiz einführen zu können. Sie empfehlen dem Bundesrate Angesichts der Zugeständnisse Frankreichs auf Wolle, Leder und Konfektionen, sich hiemit einverstanden zu erklären. Im übrigen seien von ihnen für das Reglement betr. die Landschaft Gex noch einige weitere kleine Zugeständnisse sowie die Aufhebung des Viertels des Zolles für die betreffenden Artikel eingeräumt worden. Sie wünschen bezüglich der 2000 Zentner Wein für die zollfreie Einfuhr aus dem <placeName ref="https://dodis.ch/G225">Pays de Gex</placeName> noch Dienstag Abends Weisung zu erhalten, so dass dann die Unterzeichnung der Verträge Mittwochs oder Donnerstags stattfinden könne. Sie ersuchen um Einsendung von Vollmachten zur Prorogation der bisherigen Verträge bis 15. Mai<note><orig>Vgl. BBl 1882, 1, S. 393.</orig></note>, und zur Unterzeichnung der neuen Verträge, insbesondere auch einer Vollmacht für Herrn Legationsrat Dr. <persName ref="https://dodis.ch/P5840">Lardy</persName>.</p>
+                <p>Nach gewalteter Beratung wird <emph>beschlossen:</emph></p>
+                <p>1. Die hierseitigen Delegirten seien ermächtigt die Verträge auf Grundlage der Verhandlungen vom Montag zu unterzeichnen<note>Die Botschaft des Bundesrates und der Text der Verträge sind abgedruckt in: <orig>BBl 1882, 1, S. 525–691.</orig> Vgl. auch die NR-Protokolle vom 18.–24.4.1882 <orig>(<idno type="CH-BAR">E 1001 (C) d 1/79</idno>, Nrn. 203, 206, 210, 217, 222 und 224 f.)</orig> und die StR-Protokolle vom 25. und 26.4.1882 <orig>(<idno type="CH-BAR">E 1001 (D) d 1/74</idno>, Nrn. 183–183 II</orig> und <orig>192–194 B)</orig> sowie die Berichte der Mehrheit der NR-Kommission vom 12.4.1882 <orig>(BBl 1882, 2, S. 493–514),</orig> der Minderheit vom 6./14.4.1882 <orig>(BBl 1882, 2, S. 520–566),</orig> von Nationalrat <persName ref="https://dodis.ch/P32652">Philippin</persName>
+                        <orig>(Feuille fédérale 1882, 2, S. 188–210)</orig> sowie den Bericht der Mehrheit der StR-Kommission vom 25.4.1882 <orig>(BBl 1882, 3, S. 33–76).</orig> Vgl. auch die Eingaben und Beschwerden <orig>(<idno type="CH-BAR">E 13 (B)/176</idno></orig> bis <orig>178)</orig> und die gedruckten Verhandlungsprotokolle <orig>(<idno type="CH-BAR">E 13 (B)/177</idno>).</orig></note>;</p>
+                <p>2. Insbesondere ist auch der Vertrag betreffend die Landschaft Gex unter Einräumung der französischen Forderung bezüglich der zollfreien Einfuhr nach der Schweiz von 2000 Hektoliter Wein genehmigt.<note>Vgl. <orig>BBl 1882, 1, S. 572. f</orig> und <orig>683-681</orig>. Vgl. auch Nr. 214, Anm. 3.</note></p>
+                <p>3. Herr Dr. <persName ref="https://dodis.ch/P5840">Lardy</persName> wird ermächtigt, die Verträge mit Herrn Dr. <persName ref="https://dodis.ch/P19415">Kern</persName> zu unterzeichnen.</p>
+                <p>4. Die Delegirten werden um Auskunft ersucht über den Zoll für Einfuhr nach der Schweiz von Seife, Liqueurs und Wein in Flaschen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/16014</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/16014">dodis.ch/16014</ref>
+                    <title type="main">Le Chef du Département politique, <persName ref="https://dodis.ch/P5">M. Petitpierre</persName>, au <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName><note>Exposé: <idno type="CH-BAR">E 2800(-)1990/106/1</idno>.</note></title><title type="sub">Questions évoquées dans l’exposé fait par le Chef du Département politique au cours de la séance du <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName> du 23 mai 1958<note>Pour un résumé de l’exposé de <persName ref="https://dodis.ch/P5">M. Petitpierre</persName>, cf. PVCF-D du 23 mai 1958, <orig><idno type="CH-BAR">E 1003(-)1970/344/2</idno> (R 3107),</orig> dont voici un extrait: <orig>Herr <persName ref="https://dodis.ch/P5">Petitpierre</persName> orientiert den Rat in einem einstündigen Vortrag über seine Beurteilung der internationalen Lage. Die grössten Gefahrenherde sind z. Zt. <placeName ref="https://dodis.ch/G901">Nordafrika</placeName> und <placeName ref="https://dodis.ch/G483">Libanon</placeName>. Die Lage in <placeName ref="https://dodis.ch/G13">Frankreich</placeName> ist verworren. Obwohl die Situation weniger gefährlich scheint als noch vor einer Woche, ist festzustellen, dass bisher keine der bestehenden Differenzen geregelt werden konnte. Was die internationalen Auswirkungen betrifft, so besteht wohl keine unmittelbare Kriegsgefahr, aber doch grosse Risiken. Allgemein ist eine Schwächung des <placeName ref="https://dodis.ch/G1858">Westen</placeName>s gegenüber dem Osten festzustellen, wobei aber auch im östlichen Lager Schwächezeichen erkennbar sind. Herr <persName ref="https://dodis.ch/P5">Petitpierre</persName> zieht aus seiner Beurteilung der Lage die Folgerungen für das Verhalten unseres Landes, die hier nicht im Einzelnen dargestellt werden sollen, weil der Vorsteher des <orgName ref="https://dodis.ch/R27">EPD</orgName> es übernimmt, die wichtigsten Punkte seines Referates schriftlich niederzulegen in Form von Thesen, die als Grundlage für eine Aussprache dienen sollen.</orig></note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">7036</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">17767</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">75</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">311</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">347</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">806</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">967</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">1108</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">1116</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">95</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">1851</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">155</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">180</unclear>
+                </head>
+                <opener>
+                    <add>Conﬁdentiel</add>
+                    <dateline>
+                        <placeName><add type="edition">[Berne]</add>,</placeName>
+                        <date when="1958-05-23">23 mai 1958<note>Le document a été envoyé aux membres du Conseil fédéral le 30 mai 1958.</note></date>
+                    </dateline>
+                </opener>
+                <p>La situation est dominée par:</p>
+                <p>– les événements de <placeName ref="https://dodis.ch/G13">France</placeName> et d’<placeName ref="https://dodis.ch/G896">Algérie</placeName>,</p>
+                <p>– les événements du <placeName ref="https://dodis.ch/G483">Liban</placeName>,</p>
+                <p>– la politique des États-Unis et de l’<placeName ref="https://dodis.ch/G30">Union soviétique</placeName>.</p>
+                <p>Perte de prestige et d’inﬂuence des Etats-Unis.</p>
+                <p>L’<placeName ref="https://dodis.ch/G30">URSS</placeName> a l’initiative politique sur presque tous les fronts. Ainsi elle a proposé: a) la conférence au sommet, b) l’arrêt des essais nucléaires.</p>
+                <p>La guerre froide bat son plein. Il pourrait y avoir des foyers de guerre en</p>
+                <p><placeName ref="https://dodis.ch/G900">Afrique</placeName> du Nord, dans le <placeName ref="https://dodis.ch/G854">Proche-Orient</placeName>, éventuellement en <placeName ref="https://dodis.ch/G281">Extrême-Orient</placeName>
+                </p>
+                <p>(<placeName ref="https://dodis.ch/G32">Formose</placeName>, <placeName ref="https://dodis.ch/G49">Indonésie</placeName>).</p>
+                <p>La situation intérieure en <placeName ref="https://dodis.ch/G13">France</placeName> ne paraît pas réglée. Il est vraisemblable que le Gouvernement Pﬂimlin ne pourra pas rétablir son autorité en <placeName ref="https://dodis.ch/G896">Algérie</placeName>
+                 et devra se retirer. Deux possibilités s’ouvriraient: Gouvernement présidé par le <persName ref="https://dodis.ch/P460">Général de Gaulle</persName> ou Gouvernement de front populaire. Les deux éventualités ne s’excluent pas. Après un échec du <persName ref="https://dodis.ch/P460">Général de Gaulle</persName>, un front populaire pourrait accéder au pouvoir. Cette évolution pourrait conduire à la guerre civile, l’armée et les Français d’<placeName ref="https://dodis.ch/G896">Algérie</placeName> paraissant décidés à agir dans la métropole.</p>
+                <p>Une guerre civile en <placeName ref="https://dodis.ch/G13">France</placeName> ni les événements d <hi>’ </hi><placeName ref="https://dodis.ch/G896">Algérie</placeName>, si inquiétants qu’ils soient, ne paraissent devoir provoquer une guerre générale. Ce risque existerait cependant si l’armée française essayait de reconquérir la <placeName ref="https://dodis.ch/G362">Tunisie</placeName>, éventualité peu probable pour le moment.</p>
+                <p>Dans le <placeName ref="https://dodis.ch/G854">Proche-Orient</placeName> également, il ne semble pas y avoir de danger de guerre immédiat. Une aggravation soudaine de la situation n’est toutefois pas exclue; la politique panarabe du Président Nasser a été formellement approuvée par <persName ref="https://dodis.ch/P14485">M. Khrouchtchev</persName>.</p>
+                <p>Le danger le plus grave auquel l’<placeName ref="https://dodis.ch/G1858">Occident</placeName> est exposé n’est probablement pas un danger militaire mais celui résultant de l’inﬁltration économique de l’<placeName ref="https://dodis.ch/G30">URSS</placeName>
+                 en <placeName ref="https://dodis.ch/G47">Asie</placeName> et en <placeName ref="https://dodis.ch/G900">Afrique</placeName>. C’est sur ce plan surtout que va continuer à se dérouler la lutte entre le <placeName ref="https://dodis.ch/G1858">monde occidental</placeName> et le monde communiste. L’<placeName ref="https://dodis.ch/G30">Union soviétique</placeName>
+                 a un avantage sur les <placeName ref="https://dodis.ch/G1858">Occident</placeName>aux en ce sens que ses dirigeants disposent de toute l’économie nationale et peuvent s’en servir comme d’un instrument politique. Elle peut ainsi accorder son aide à n’importe quelles conditions.</p>
+                <p>L’<placeName ref="https://dodis.ch/G1858">Occident</placeName>, avec son économie libre, est dans une situation désavantageuse par rapport à l’<placeName ref="https://dodis.ch/G30">URSS</placeName> dans cette lutte. L’aide aux pays sous-développés est un problème politique fondamental. A longue échéance, il est plus important que les problèmes posés par le désarmement ou par des conﬂits locaux.</p>
+                <p>D’une manière générale, la situation continue à évoluer en faveur de l’<placeName ref="https://dodis.ch/G30">URSS</placeName>
+                 au détriment de l’<placeName ref="https://dodis.ch/G1858">Occident</placeName> et de l’<placeName ref="https://dodis.ch/G12">Europe</placeName> que les événements d’<placeName ref="https://dodis.ch/G896">Algérie</placeName> et la situation intérieure en <placeName ref="https://dodis.ch/G13">France</placeName> affaiblissent encore.</p>
+                <p><emph>Problèmes intéressant la Suisse</emph>
+                </p>
+                <p><emph>Défense nationale </emph>
+                </p>
+                <p>Nous devons maintenir notre effort pour renforcer notre défense nationale, sans que les événements actuels obligent à l’accentuer.</p>
+                <p>Le <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName> devrait avoir une doctrine sur la question de l’emploi d’armes atomiques tactiques<note>Sur cette question, cf. N<hi>os</hi> 10, 15, 25, 72 et 73 dans le présent volume.</note> par l’armée suisse. Sinon il court le risque d’être placé dans une situation difﬁcile par des actions comme celle du comité qui vient de se constituer sous la présidence du Conseiller national <persName ref="https://dodis.ch/P469">Giovanoli</persName><note>Le Mouvement suisse contre l’armement atomique a été créé à Berne, le 18 mai 1958.</note>. Le</p>
+                <p>Département militaire devrait nous faire connaître son point de vue. <emph>Subversion </emph></p>
+                <p>Il n’y a pas de doute que la propagande communiste, inspirée de la peur de la guerre, de la crainte provoquée par les essais nucléaires et une éventuelle guerre atomique, agit sur l’opinion publique occidentale. La Suisse n’est pas exposée actuellement à un risque de subversion communiste. Les pays voisins de la Suisse paraissent aussi être à l’abri, quelle que soit l’importance du parti communiste en <placeName ref="https://dodis.ch/G13">France</placeName> et en <placeName ref="https://dodis.ch/G77">Italie</placeName>. Il est peu probable qu’un Gouvernement de front populaire en <placeName ref="https://dodis.ch/G13">France</placeName> aurait pour effet une extension du communisme en Suisse. Il convient néanmoins de rester vigilants, de continuer à surveiller de près l’activité des communistes dans notre pays et de lutter contre le communisme aussi sur le plan psychologique et moral.</p>
+                <p>Un problème se pose: celui de nos relations avec les pays communistes. Il y a une certaine grandeur dans l’attitude d’hostilité absolue de notre opinion publique à l’égard de l’<placeName ref="https://dodis.ch/G30">URSS</placeName> et des démocraties populaires à la suite des événements de <placeName ref="https://dodis.ch/G20">Hongrie</placeName><note>Cf. DDS, vol. 20, doc. 93, <ref target="https://dodis.ch/12323">dodis.ch/12323</ref><orig>(<ref target="https://dodis.ch/12323">dodis.ch/12323</ref>).</orig></note>. Toutefois c’est une erreur de vouloir supprimer tout contact avec des représentants des pays communistes. On ne doit pas oublier que, dans les démocraties populaires, derrière le Gouvernement il y a la population. On ne doit pas donner à celle-ci l’impression que l’<placeName ref="https://dodis.ch/G1858">Occident</placeName> se désintéresse d’elle et l’abadonne à son sort (cette observation ne vaut pas pour l’<placeName ref="https://dodis.ch/G30">URSS</placeName> mais pour les démocraties populaires auxquelles l’<placeName ref="https://dodis.ch/G30">URSS</placeName> a imposé des régimes communistes).</p>
+                <p>En outre, une des seules chances de voir la situation internationale s’améliorer est une évolution à l’intérieur de l’<placeName ref="https://dodis.ch/G30">URSS</placeName> dans le sens d’un certain libéralisme.</p>
+                <p>Il est probable que la classe moyenne en formation (intellectuels, hommes de science, ingénieurs, techniciens, etc. qui peuvent constituer les éléments d’une classe moyenne) souhaite plus de liberté. Il est utile que des représentants de cette classe puissent entrer en contact avec l’<placeName ref="https://dodis.ch/G1858">Occident</placeName>, en particulier avec un pays comme le nôtre. Nous ne devons pas craindre ces contacts mais croire à la valeur persuasive de nos institutions. La plupart des pays occidentaux parmi lesquels les Etats-Unis et la République fédérale d’Allemagne, ont modiﬁé leur attitude et favorisent aujourd’hui les relations économiques, culturelles et scientiﬁques avec l’<placeName ref="https://dodis.ch/G30">URSS</placeName>. Seuls les <placeName ref="https://dodis.ch/G78">Pays-Bas</placeName> paraissent avoir adopté une attitude aussi intransigeante que la Suisse. A la longue, cette attitude, surtout si elle est isolée, peut présenter des inconvénients du point de vue de notre politique de neutralité, bien qu’elle mette en cause la neutralité morale aussi bien que la neutralité politique. Il ne s’agit pas d’ouvrir nos portes à la propagande soviétique, mais d’admettre des contacts qui devraient être strictement limités à certains domaines: économie, science, technique, beaux-arts, etc. Il y a aussi un intérêt à ce que nos savants entrent en relation avec des savants soviétiques puisqu’il n’y a pas de doute qu’aujourd’hui, dans certains domaines, la science soviétique est à l’avant-garde. Le <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName> pourrait d’ailleurs difﬁcilement prendre une initiative dans ce domaine pour essayer d’inﬂuencer notre opinion publique.</p>
+                <p><emph>Mesures à envisager </emph>
+                </p>
+                <p>Les événements actuels doivent nous engager à nous préparer à toute éventualité. En revanche, il n’y a pas de raison de prendre des mesures immédiates de caractère général, ni sur le plan militaire, ni sur celui de la police. Il est préférable d’agir dans des cas individuels ou à titre d’exemple, comme le</p>
+                <p>Département de Justice et Police l’a fait lorsqu’il a expulsé du territoire suisse le journaliste belge <persName ref="https://dodis.ch/P28738">Joly</persName><note>Expulsé en mai 1958 pour avoir tenu des conférences de presse sur de soi-disant préparatifs de soulèvement militaire en <placeName ref="https://dodis.ch/G13">France</placeName>. Cf. <orig><idno type="CH-BAR">E 2001(E)1972/33/279</idno>.</orig></note>.</p>
+                <p>Il n’y a pas non plus de mesures économiques spéciales à prendre. On peut se demander si les méthodes appliquées jusqu’à présent pour la constitution de réserves de ménage sont encore efﬁcaces où s’il ne faudrait pas trouver de nouveaux moyens d’action, par exemple recourir à l’intermédiaire d’associations où de groupements qui pourraient attirer l’attention de leurs membres sur l’importance de ces réserves pour la défense du pays en cas d’événements graves.</p>
+                <p>D’une manière générale, le <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName> doit éviter de compromettre par des mesures précipitées son autorité. Il aura besoin de celle-ci au cas où la situation deviendrait réellement dangereuse pour le pays.</p>
+                <p><emph>Politique générale </emph>
+                </p>
+                <p>Le <orgName ref="https://dodis.ch/R6">Conseil fédéral</orgName> n’a aucune raison de s’écarter de la ligne politique qu’il a suivie depuis la ﬁn de la guerre. La neutralité reste entièrement valable. Elle a sans doute perdu en grande partie sa raison d’être sur le plan européen, en raison de la division actuelle du continent, entre une <placeName ref="https://dodis.ch/G12">Europe</placeName> occidentale dont la Suisse fait partie et une <placeName ref="https://dodis.ch/G12">Europe</placeName> orientale. En revanche, elle a trouvé de nouvelles raisons d’être sur le plan mondial. Nous devons la renforcer en rendant des services chaque fois que nous en avons l’occasion.</p>
+                <p>Il serait inopportun de participer activement à une intégration de l’<placeName ref="https://dodis.ch/G12">Europe</placeName>
+                 sur le plan politique ou dans le domaine économique. Notre réserve à cet égard est plus justiﬁée aujourd’hui qu’elle ne l’a jamais été par l’état politique du continent. En revanche, nous devons coopérer dans le domaine économique et nous montrer peut-être plus actifs et imaginatifs que nous ne l’avons été jusqu’ici. Ce serait d’ailleurs une erreur de considérer la collaboration économique européenne comme une affaire de nature purement technique. Nous devons continuer à faire notre possible en vue de la création d’une zone de libre échange<note>Cf. DDS, vol. 20, table méthodique: <orig>III.2. La Suisse et l’<placeName ref="https://dodis.ch/G12">Europe</placeName>.</orig></note>.</p>
+                <p>Un autre problème qui doit retenir notre attention est celui de l’aide aux pays sous-développés<note>Cf. DDS, vol. 21, doc. 63 et doc. 119.</note>. Nos possibilités d’action sont limitées. Toutefois nous devons chercher à faire dans ce domaine plus que nous n’avons fait jusqu’à présent.</p>
+                <p>Pour le reste, on ne voit pas quelles initiatives la Suisse pourrait prendre maintenant dans le domaine politique. Elle doit rester indépendante et disponible.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

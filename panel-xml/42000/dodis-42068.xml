@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42068</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42068">dodis.ch/42068</ref>
+                    <title type="main">Der Bundesrat an die italienische Gesandtschaft in Bern<note>Note (Kopie): <idno type="CH-BAR">E 13 (B)/211</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">5653</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Berne,</placeName>
+                        <date when="1876-02-18">18 février 1876</date>
+                    </dateline>
+                </opener>
+                <p>Par note du 9 de ce mois<note>Nicht abgedruckt.</note>, Son Exc. M. le Ministre d’<placeName ref="https://dodis.ch/G77">Italie</placeName> a bien voulu transmettre au Conseil féd. copie d’une dépêche du Ministère des Affaires étrangères du Royaume d’<placeName ref="https://dodis.ch/G77">Italie</placeName><note>In diesem Schreiben erklärte <persName ref="https://dodis.ch/P32812">Visconti-Venosta</persName> zu den Verhandlungen in Bern im Oktober 1875: <orig>[...] Après une discussion, qui a pris quelques jours seulement, mais où tous les points, intéressant les deux pays, ont été l’objet d’un examen soigneux et approfondi, l’entente a pu se faire entre Mr <persName ref="https://dodis.ch/P31538">Luzzatti</persName> et Mr Koechlin, notamment, en ce qui concerne le tarif italien pour le régime des fromages et des cotons, deux articles qui paraissaient avoir pour la Suisse, une importance tout à fait spéciale. [...] ( <idno type="CH-BAR">E 13 (B)/211</idno>).</orig> Vgl. auch Nr. 79.</note>, par laquelle S. Exc. a été chargée d’inviter le Cons. féd. à envoyer à <placeName ref="https://dodis.ch/G361">Rom</placeName>e, conformément aux engagements pris dans la note du 23 juin 1875<note><orig><idno type="CH-BAR">E 13 (B)/210</idno>.</orig></note>, un délégué pour négocier le traité de commerce sur la base des préliminiaires convenus à Berne entre Monsieur <persName ref="https://dodis.ch/P31538">Luzzatti</persName> et Monsieur Koechlin.</p>
+                <p>Le Cons. féd. a l’honneur de répondre à S. Exc. qu’il donnera suite à l’invitation qui lui a été adressée et qu’il prendra de son côté, sans retard, toutes les dispositions nécessaires pour reprendre &amp; continuer les négociations entamées à Berne pour la conclusion d’un traité de commerce.</p>
+                <p>En reprenant la continuation de l’œuvre commencée, l’Autorité féd. est heureuse de pouvoir constater que le Gouvernement du Roi s’est déclaré d’accord de soumettre à un nouvel examen les points désignés à cet effet par elle, dans le but de diminuer, autant que cela était en son pouvoir, les difficultés que le nouveau traité pourrait rencontrer dans l’appréciation de l’Assemblée fédérale.</p>
+                <p>En témoignant au Gou1/1 de Sa Majesté sa vive satisfaction de cet assentiment, le C. féd. n’hésite pas à reconnaître que – pour ce qui concerne les rapports entre les différentes négociations qui ont pour objet la conclusion de traités de commerce entre l’<placeName ref="https://dodis.ch/G77">Italie</placeName> et les Etats limitrophes – il n’y a effectivement entre ces diverses négociations aucune connexité de forme. D’autre part, le C. féd. se plaît à croire que le Gouv' du Roi, en examinant le fond des choses et en se rappelant la marche historique des faits, arrivera volontiers à reconnaître la connexité, quant au fond, qui existe entre les différents traités qui sont en voie de négociation, ainsi que tout l’intérêt que peut avoir le C. féd. à ne pas ignorer les résultats généraux auxquels ces négociations ont abouti et l’ensemble de la nouvelle situation qu’elles auront contribué à créer à l’industrie et au commerce suisses.</p>
+                <p>En ce qui concerne la reprise des négociations à <placeName ref="https://dodis.ch/G361">Rom</placeName>e, le C. féd. regrette vivement que son délégué, M. Koechlin, soit empêché, par des affaires privées urgentes, de se rendre à <placeName ref="https://dodis.ch/G361">Rom</placeName>e d’ici à quelque temps. Toutefois, pour ne pas apporter, dans cet intervalle, de retard à la continuation de l’œuvre entamée, il munira son Ministre à <placeName ref="https://dodis.ch/G361">Rom</placeName>e des pleins pouvoirs et des instructions nécessaires pour continuer les négociations, tout en se réservant de lui adjoindre à l’occasion un second délégué, qui sera également accrédité aux conférences.</p>
+                <p>En priant S. Exc. M. le Sénateur <persName ref="https://dodis.ch/P33128">Melegari</persName> de bien vouloir transmettre à Son Gouv<hi>t</hi>. le contenu de la présente note et en attendant les communications ultérieures qu’il sera dans le cas de lui faire, <emph><add type="edition">[...]</add></emph><note>Es folgt die Grussformel.</note>.<note>Vgl. auch Nr. 102.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

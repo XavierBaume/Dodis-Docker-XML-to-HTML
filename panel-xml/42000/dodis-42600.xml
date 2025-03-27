@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42600</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42600">dodis.ch/42600</ref>
+                    <title type="main">Le Chef du Département des Affaires étrangères, <persName ref="https://dodis.ch/P31755">A. Lachenal</persName>, au Ministre de Suisse à <placeName ref="https://dodis.ch/G18">Paris</placeName>, Ch. <persName ref="https://dodis.ch/P5840">Lardy</persName><note>Lettre: <idno type="CH-BAR">E 2200 Paris 1/287</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">16311</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Berne,</placeName>
+                        <date when="1895-12-05">5 décembre 1895</date>
+                    </dateline>
+                </opener>
+                <p>Le Conseil fédéral a répondu à <persName ref="https://dodis.ch/P14721">M. Ilg</persName>, comme vous savez, que la demande du roi Ménélik ne pouvait être accueillie pour la raison qu’elle n’a pas été présentée par la voie diplomatique et selon la forme prescrite par l’art. XXIV chiffre 2 de l’Union postale et la lettre du roi a été retournée à <persName ref="https://dodis.ch/P14721">M. Ilg</persName>.</p>
+                <p>Or celui-ci est revenu à la charge; il demande le 19 novembre à mon collègue <persName ref="https://dodis.ch/P19507">Frey</persName><note>Cf. <idno type="CH-BAR">E 2/1053</idno>.</note> en sa qualité de président de 1894 de lui faire accuser réception de la lettre de Ménélik qui accompagnait le gobelet d’or qu’il nous a envoyé; la lettre du chancelier du 18 janvier 1893 chargeait seulement <persName ref="https://dodis.ch/P14721">Ilg</persName> de remercier le roi de ce cadeau.<note>Cf. PVCF u 18 janvier 1895, <idno type="CH-BAR">E 1004 1/180</idno>, n<hi>o</hi>
+                        <orig>254.</orig></note></p>
+                <p>Le 3 octobre <persName ref="https://dodis.ch/P14721">Ilg</persName> écrit à <persName ref="https://dodis.ch/P33742">M. Ringier</persName><note><persName ref="https://dodis.ch/P33742">Ringier</persName>, Chancelier de la Confédération; Cf. <idno type="CH-BAR">E 2/1053</idno>.</note> et le 19 novembre à moi<note>Ibid.</note> pour nous demander une interprétation des mots «par la voie diplomatique». Nous n’avons rien répondu jusqu’à présent et je suis assez embarrassé de savoir si et comment nous devons le faire.</p>
+                <p>Nous avons avisé l’<placeName ref="https://dodis.ch/G77">Italie</placeName> de notre décision du 10 septembre<note>Cf. lettre du CF à <persName ref="https://dodis.ch/P14721">Ilg</persName> du 10 septembre 1895, ibid.</note> de renvoyer à Ménélik sa lettre de demande d’adhésion et nous lui avons accusé réception (le 18 sept.)<note>Lettre du DFAE à la légation d’<placeName ref="https://dodis.ch/G77">Italie</placeName> à Berne du 18 septembre 1895, ibid.</note> de la communication officielle qu’elle nous a faite du Traité d’Ucciali du 2 mai 1889 et de la convention additionnelle du 1<hi>er</hi> octobre, même année.</p>
+                <p>Notre office du 21 septembre aux légations<note>I. Cette circulaire renouvelle, suite à une nouvelle démarche de l'ambassade d’<placeName ref="https://dodis.ch/G77">Italie</placeName>, les demandes de renseignement soumises par le Département le 25 avril 1892 et le 22 mai 1895, cf. doc. nos 83 et 167 annexe.</note> vous renseigne à ce sujet; les légations ont répondu comme suit.</p>
+                <p><emph>
+                        <placeName ref="https://dodis.ch/G25">Berlin</placeName>: </emph>L’<placeName ref="https://dodis.ch/G5">Allemagne</placeName> a pris acte de la notification de l’<placeName ref="https://dodis.ch/G77">Italie</placeName> et le gouvernement allemand sans s’être engagé à se conformer à l’art. 17 du Traité d’Ucciali pour ses rapports avec l’<placeName ref="https://dodis.ch/G219">Ethiopie</placeName>, en fait use de l’intermédiaire du gouvernement italien. La légation ajoute que la <placeName ref="https://dodis.ch/G10073">Russie</placeName> se serait bornée à prendre acte de la notification refusant ainsi de reconnaître l’art. 17 en question.<note>Cf. les lettres du chargé d’affaires Ch. <persName ref="https://dodis.ch/P27981">Tavel</persName> du 25 septembre et du 10 octobre 1895, cf. <orig><idno type="CH-BAR">E 2/1053</idno></orig>.</note></p>
+                <p><emph>
+                        <placeName ref="https://dodis.ch/G238">Vienne</placeName>: </emph>Le gouvernement autrichien a pris acte de la notification. Relations nulles avec l’<placeName ref="https://dodis.ch/G219">Ethiopie</placeName>. Le cas échéant, il se servirait de l’intermédiaire de l’<placeName ref="https://dodis.ch/G77">Italie</placeName>, reconnaissant ainsi l’art. 17.</p>
+                <p>Le gouvernement autrichien a pris en réponse au mémoire italien de mai dernier (voir notre circulaire du 21 mai<note>Cf. n<hi>o</hi> 167 annexe.</note>) une ordonnance interdisant l’importation des armes à feu en <placeName ref="https://dodis.ch/G219">Ethiopie</placeName> notamment; cette disposition aurait été prise par la plupart des Etats signataires de l’Acte de Bruxelles. La légation croit que la <placeName ref="https://dodis.ch/G75">Belgique</placeName> est dans le même cas que nous, c’est-à-dire qu’on lui a demandé de reconnaître le Traité<note>Cf. la lettre du chargé d’affaires F. Du <persName ref="https://dodis.ch/P19420">Martheray</persName> du 28 septembre 1895, cf. <idno type="CH-BAR">E 2/1053</idno>.</note>.</p>
+                <p><emph>
+                    <placeName ref="https://dodis.ch/G55">Londres</placeName>: </emph>La légation nous écrit le 25 sept.<note>Lettre signée par le chargé d’affaires C. Bourcart, ibid.</note> que le gouvernement de la reine se conforme strictement à l’art. 17 et se sert en tout de l’intermédiaire de l’<placeName ref="https://dodis.ch/G77">Italie</placeName>.</p>
+                <p><emph>Bruxelles: </emph>
+                    <persName ref="https://dodis.ch/P16371">M. Rivier</persName> nous écrit le 25 octobre<note>Ibid.</note> que la <placeName ref="https://dodis.ch/G75">Belgique</placeName> a pris acte de la notification du Traité d’Ucciali et que ce gouvernement n’a vraisemblablement pas de motifs pour ne pas se conformer à l’art. 17. En outre le gouvernement italien a demandé et la <placeName ref="https://dodis.ch/G75">Belgique</placeName> a accordé qu’on surveillât à Liège les agissements d’un Arménien qui avait acheté des armes destinées à Ménélik.</p>
+                <p><emph>
+                        <placeName ref="https://dodis.ch/G18">Paris</placeName>: </emph>M. <persName ref="https://dodis.ch/P21425">Duplan</persName> nous a répondu par la lettre du 26 septembre<note>Ibid.</note> que vous connaissez.</p>
+                <p>Il faut envisager les diverses éventualités.</p>
+                <p>1° Nous ne répondons rien à <persName ref="https://dodis.ch/P14721">Ilg</persName>. Cela ne l’empêchera guère, je crois, de pousser sa pointe et nous verrons revenir l’an prochain une demande présentée ou par un Etat européen autre que l’<placeName ref="https://dodis.ch/G77">Italie</placeName> ou par un envoyé diplomatique directement accrédité par le roi Ménélik. Dans ce dernier cas, devrons-nous, Suisses, donner l’exequatur à cet envoyé? La question de l’art. 17 se posera nette <add type="edition">[ment.]</add>Comment la résoudre?</p>
+                <p>Et si l’adhésion à l’Union est présentée par un autre Etat, par voie diplomatique, nous aurons à aviser les divers membres de l’Union qui se prononceront sur la forme et sur le fond, nous aussi aurons à nous prononcer et comment?</p>
+                <p>2° Nous répondrions à <persName ref="https://dodis.ch/P14721">Ilg</persName>. C’est assez délicat. Peut-on lui dire que par voie diplomatique on entend soit l’entremise d’un Etat européen, soit la présence d’un envoyé direct? C’est toujours résoudre la question, la préjuger et nous exposer aux reproches de l’<placeName ref="https://dodis.ch/G77">Italie</placeName>.</p>
+                <p>J’aimerais beaucoup connaître votre sentiment sur ces points et la manière dont vous pensez que nous devons agir ou ne pas agir.</p>
+                <p>Y aurait-il un inconvénient à dire que nous reconnaissons l’art. 17 et que c’est à l’<placeName ref="https://dodis.ch/G77">Italie</placeName> de présenter la demande. C’est l’opinion de <persName ref="https://dodis.ch/P17394">M. Graffina</persName><note>Secrétaire du DFAE; voir à ce propos une notice de <persName ref="https://dodis.ch/P17394">Graffina</persName> reproduite en annexe au N<hi>o</hi> 193.</note> qui dit qu’il y a intérêt à sortir du vague et de l’équivoque et que nous ne risquons rien à faire comme tous les pays sauf la <placeName ref="https://dodis.ch/G13">France</placeName>, laquelle a ses raisons pour faire différemment. Mais la <placeName ref="https://dodis.ch/G10073">Russie</placeName> aussi.</p>
+                <p>Faut-il faire venir <persName ref="https://dodis.ch/P14721">Ilg</persName> et le prier de nous laisser tranquille avec cette affaire et de laisser entendre que l’adhésion ne serait pas admise?</p>
+                <p>Vous m’obligeriez beaucoup en me donnant vos sages et précieux avis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

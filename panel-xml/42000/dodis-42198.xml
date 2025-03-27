@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42198</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42198">dodis.ch/42198</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 11. Juli 1882<note><idno type="CH-BAR">E 1004 1/130</idno>.</note></title><title type="sub">3519. Jurisdiction der schweizer. Konsulate in <placeName ref="https://dodis.ch/G45">Japan</placeName></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">33369</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">800</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">8897</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">35</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">9092</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">1243</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">28</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">12986</unclear>
+                </head>
+                <opener>
+                    <dateline>Politisches Departement. Antrag vom <date when="1882-06-08">8. Juni 1882 Justiz- und Polizeidepartement. Mitbericht vom 8. Juli 1882</date>
+                    </dateline>
+                </opener>
+                <p>Das schweizerische Generalkonsulat in <placeName ref="https://dodis.ch/G45">Japan</placeName> hat wiederholt auf das <emph>Ungenügende der Bestimmungen </emph>des §. 5 der Instruktionen<note>Artikel 5 des betreffenden Bundesratsbeschlusses vom 14.2.1866 lautet: <orig>Bei Ausübung der Jurisdiction soll der H. Generalkonsul sich jedesmal einige seiner Landsleute als Gerichtsbeisitzer beiordnen und die in der Schweiz geltenden allgemeinen Rechtsgrundsätze sowie die Platzusancen zur Richtschnur nehmen (<idno type="CH-BAR">E 2/1510</idno>).</orig> Vgl. auch DDS 2, Nr. 2 und den GBer. 1881 <orig>(BBl 1882, 2, S. 11-13)</orig>.</note> aufmerksam gemacht, welche der Bundesrat demselben am 14. Februar 1866 erteilt hat, in Bezug auf die Ausübung der Jurisdiction, die durch die Art. 5, 6 u. 7 des am 6. Februar 1864 in Yeddo zwischen der Schweiz und <placeName ref="https://dodis.ch/G45">Japan</placeName> abgeschlossenen Freundschafts- und Handelsvertrages (a.S. III, 683) den Schweiz. Konsularbeamten eingeräumt ist.</p>
+                <p>Das politische Departement hat im Einverständnis mit dem Justiz- und Polizeidepartement, mit Vortrag vom 8. vor. Mts. den Entwurf<note><orig><idno type="CH-BAR">E 2/1510</idno></orig>.</note> eines Kreisschreibens an die beiden schweizer. Konsulate in <placeName ref="https://dodis.ch/G45">Japan</placeName> vorgelegt, in welchen in Erläuterung der genannten Instruktion einige Andeutungen gegeben werden.</p>
+                <p>Nachdem der Bundesrat in seiner Sizung vom 7.ds. Mts. einen Antrag, dahin gehend; Es sei auf die Vorlage des politischen Departements wegen Mangels an Kompetenz nicht einzutreten, und es sei, im Fall dies sich als notwendig herausstelle, der Bundesversammlung eine bezügliche Vorlage zu machen, abgelehnt hat, sind die Akten dem Justiz- und Polizeidepartement zugewiesen worden, mit der Einladung, das Schreiben in dem Sinne umzuarbeiten, dass den Konsulaten für die Ausübung der Strafgerichtsbarkeit ein anerkannt gutes Handbuch (statt dem Strafgesez eines bestimmten schweizer. Kantons, wie dies vom politischen Departement vorgeschlagen worden ist) oder ein <emph>Gesezesentwurf als </emph>Wegleitung zu empfehlen sei.</p>
+                <p>Das Justiz- &amp; Polizeidepartement legt nun seine Abänderungsvorschläge vor, und es wird hierauf der Schreibensentwurf des politischen Departements in Verbindung mit den lezteren genehmigt.<note>Vgl. den Annex.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

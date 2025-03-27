@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42899</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42899">dodis.ch/42899</ref>
+                    <title type="main">Der Vorsteher des Departementes des Innern des Kantons <placeName ref="https://dodis.ch/G83">Basel</placeName>-Stadt, E. <persName ref="https://dodis.ch/P33858">Wullschleger</persName>, an den Vorsteher des Handels-, Industrie- und Landwirtschaftsdepartementes, <persName ref="https://dodis.ch/P33470">A. Deucher</persName><note>Schreiben: E VED, A + W,.</note></title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Basel,</placeName>
+                        <date when="1904-10-03">3. Oktober 1904</date>
+                    </dateline>
+                </opener>
+                <p>i- y 1</p>
+                <p>In der Tat erachten wir mit Ihnen die von der deutschen Delegation vorläufig mündlich abgegebene Erklärung als eine sehr wenig befriedigende.</p>
+                <p>Was den <emph>Hüningerkanal </emph>betrifft, so kann in dieser Erklärung ein ernsthaftes Entgegenkommen von Seite Deutschlands nicht erblickt werden. Über die eine Bedingung, wonach die zwischen dem Hafen in Grosshüningen und dem Güterbahnhof St. Johann zu erstellende Geleiseverbindung, statt von den Schweiz. Bundesbahnen, von den deutschen Reichseisenbahnen in Betrieb zu nehmen wäre, liesse sich schliesslich diskutieren, immerhin nur in der Voraussetzung, dass dabei die Interessen der Schweiz und <placeName ref="https://dodis.ch/G83">Basel</placeName>s in jeder Hinsicht ausdrücklich gewahrt blieben. Dagegen ist jede massgebende Mitwirkung der deutschen Bahnen bei der Aufstellung des Kanaltarifs absolut unannehmbar. Denn sie wäre gleichbedeutend mit der Konkurrenzunfähigkeit der Kanalschiffahrt. Dabei stimmen wir mit Ihnen vollständig überein.</p>
+                <p>Immerhin müssten wir es tief bedauern, wenn wegen der vorläufigen Stellungnahme Deutschlands die Unterhandlungen jetzt schon als gescheitert würden betrachtet werden. Denn die Ausgestaltung des Hüningerkanals ist im Hinblick auf den Anschluss der Schweiz an das französisch-belgische Kanalnetz - ein Motiv, das allerdings gegenüber Deutschland nicht ins Feld geführt werden kann - von volkswirtschaftlich so hervorragender Bedeutung, dass unseres Erachtens nichts sollte unversucht gelassen werden, um mit dem Deutschen Reiche zu einer Einigung zu gelangen<note>In einem weiteren Schreiben des Departements des Innern des Kantons <placeName ref="https://dodis.ch/G83">Basel</placeName>-Stadt vom 29. Oktober 1904 wird das gesamteidgenössische Interesse hervorgehoben: <orig>Obschon wir uns wohl bewusst sind, dass diese Interessen bei Ihrem verehrlichen Departement und bei dem hohen Bundesrate in vollem Masse die verdiente Würdigung finden, erachten wir den Hinweis nicht ganz für überflüssig, da immer wieder da und dort die ganz unrichtige Meinung laut wird, es seien ausschliesslich oder vorwiegend die Interessen <placeName ref="https://dodis.ch/G83">Basel</placeName>s im Spiel. Ihnen gegenüber bedarf es zweifellos keines besondern Nachweises dafür, dass ausser <placeName ref="https://dodis.ch/G83">Basel</placeName> weitere, und zwar grosse Landesteile, ebenso die Schweiz. Bundesbahnen an der Reduktion der Transportspesen durch den Anschluss an das mitteleuropäische Kanalnetz und die Rheinschiffahrt in hohem Grade interessiert sind. Mit einem Wort: es handelt sich vom Standpunkte der ganzen Schweiz. Volkswirtschaft aus um eine nationale Frage allerersten Ranges (E VED, A + W, 1909-1955/5/1).</orig></note>. Wir möchten Sie daher dringend bitten, die Unterhandlungen im angegebenen Sinne weiterführen zu wollen.</p>
+                <p>Was die <emph>Rheinschiffahrt </emph>anbelangt, so gehen wir mit den Bemerkungen, mit denen die Erklärung der deutschen Delegation von Ihnen vorläufig entgegengenommen worden ist, im allgemeinen einig. Immerhin, scheint es uns, könnte im äussersten Notfall die Erledigung der Frage einer förmlichen Aufnahme der Schweiz in die revidierte Rheinschiffahrtsakte von 1868 einstweilen vertagt werden, sofern es ohnedies gelänge, eine befriedigende Einigung mit dem Deutschen Reiche zu erzielen. Wir gehen dabei von zwei Gesichtspunkten aus.</p>
+                <p>Erstens leitet sich das grundsätzliche und ursprüngliche Recht der Schweiz zur ungehemmten Benützung des Rheins für die Schiffahrt, und zwar auf seiner ganzen schiffbaren Strecke bis zur Mündung, nicht von der Rheinschiffahrtsakte, sondern von der Wiener Kongressakte von 1815 her. Ein Umstand, auf den wir schon früher mit Nachdruck hinzu weisen uns erlaubt haben und der auch im Gutachten des Herrn Professors <persName ref="https://dodis.ch/P34755">Reichel</persName>, Abteilungschef im eidg. Justiz- und Polizeidepartement, ausdrücklich hervorgehoben ist. Gerade im Hinblick auf die zu Tage tretende Tendenz, die Rheinschiffahrtsakte in einschränkendem Sinne auszulegen, erscheint uns die Berufung auf die in der Wiener Kongressakte niedergelegten völkerrechtlichen Grundsätze, die auch gegenüber der Schweiz jede Einschränkung der Rheinschiffahrt verbieten, gegenüber Deutschland doppelt geboten.</p>
+                <p>Zweitens haben die stattgefundenen Probefahrten nicht allein bewiesen, dass die Schiffahrt innerhalb gewisser Schranken bis <placeName ref="https://dodis.ch/G83">Basel</placeName> jetzt schon, ohne Verbesserungen des Strombettes und sonstige Massnahmen, wodurch sich die Bedingungen für die Schiffahrt noch bedeutend vorteilhafter gestalten Hessen, technisch sehr wohl möglich ist, sondern dass der Schiffahrt bis <placeName ref="https://dodis.ch/G83">Basel</placeName> tatsächlich auch keine ändern unüberwindlichen Schwierigkeiten, bis jetzt wenigstens, im Wege stehen. Die gleiche deutsche Firma, die bisher die Probefahrten durchgeführt, hat sich denn auch im Princip bereit erklärt, nächstes Jahr eine mehr oder weniger regelmässige Schiffahrt bis <placeName ref="https://dodis.ch/G83">Basel</placeName> einzurichten, und der hierseitige Regierungsrat ist grundsätzlich geneigt, hiefür einen passenden Landungsplatz zur Verfügung zu stellen. Beiläufig bemerkt, hat diese Firma der Überzeugung Ausdruck gegeben, dass die Fahrt nach <placeName ref="https://dodis.ch/G83">Basel</placeName>, namentlich bei Erbauung eines geeigneten, den besondern Verhältnissen des Oberrheins Rechnung tragenden Bootes, gerade so lange aufrecht erhalten werden kann wie diejenige nach <placeName ref="https://dodis.ch/G2361">Strassburg</placeName>, und dass sich die Schiffahrt ab <placeName ref="https://dodis.ch/G3561">Rotterdam</placeName> und Antwerpen nach <placeName ref="https://dodis.ch/G83">Basel</placeName> ebenso rasch abwickeln liesse wie die kombinierte Fahrt von jenen Plätzen zu Wasser bis Mannheim oder <placeName ref="https://dodis.ch/G2361">Strassburg</placeName> und von da mittelst der Bahn nach <placeName ref="https://dodis.ch/G83">Basel</placeName>. Wahrscheinlich ist es eben diese Möglichkeit, welche die deutschen Bahnverwaltungen zu Gegnern der Schiffahrt nach <placeName ref="https://dodis.ch/G83">Basel</placeName> gemacht hat.</p>
+                <p>Es erscheint jedoch als eine starke Kurzsichtigkeit der deutschen Reichsregierung, wenn sie den vom Augenblicksinteresse diktierten Standpunkt der Bahnverwaltungen zu dem ihrigen erhebt und dadurch grössere, weiter reichende Interessen preisgiebt. Einerseits liegt es nämlich zweifellos im zukünftigen Interesse einer gesunden Weiterentwicklung der Bahnen selbst, wenn ihnen eine ausgedehnte Schiffahrt eine Reihe wenig rentabler Massentransporte abzunehmen vermag. Andererseits sollte Deutschland das hervorragende Interesse nicht aus den Augen verlieren, das es oder doch seine zunächst beteiligten Einzelstaaten an einer späteren Weiterführung der Rheinschiffahrt zum Bodensee haben muss. Die Erreichung dieses Zieles setzt aber notwendig die einstweilige Durchführung der Schiffahrt bis <placeName ref="https://dodis.ch/G83">Basel</placeName> voraus.</p>
+                <p>Wir wären Ihnen sehr dankbar, wenn Sie im Sinne unserer Darlegung Ihre Bemühungen für das Zustandekommen einer befriedigenden Vereinbarung mit dem Deutschen Reiche mit Bezug auf die beiden Projekte fortsetzen und, wenn irgend tunlich, den Abschluss eines neuen Handelsvertrages hinausschieben wollten, bis eine solche Vereinbarung erzielt sein wird.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

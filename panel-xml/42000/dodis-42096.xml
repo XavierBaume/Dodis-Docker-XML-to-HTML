@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42096</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42096">dodis.ch/42096</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 18. Mail877<note><orig><idno type="CH-BAR">E 1004 1/109</idno></orig>. Abwesend: Anderwert, Heer und Schenk.</note></title><title type="sub">2643. <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahnkonferenz</title>
+                    <unclear reason="Entity type: Place not found in section with ID:">1408</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">2083</unclear>
+                </head>
+                <opener>
+                    <dateline>Politisches Departement. Antrag vom <date when="1877-05-18">18. Mai 1877</date>
+                    </dateline>
+                </opener>
+                <p>Laut Telegramm des Gesandten in <placeName ref="https://dodis.ch/G361">Rom</placeName> v. 15. dies.<note><idno type="CH-BAR">E 53/196</idno>.</note> ist auch die italien. Regierung einverstanden, dass die Konferenz für Verhandlungen über die Wiederherstellung des <placeName ref="https://dodis.ch/G985">Gotthard</placeName>bahnunternehmens und zutreffenden Falles für den Abschluss einer neuen bezüglichen Übereinkunft vom 25. dies, an einberufen werde, und auf Anfrage des Depts., ob der Zusammentritt der Konferenz in Bern auf den 28. dies, genehm sei, ist von <placeName ref="https://dodis.ch/G25">Berlin</placeName> und <placeName ref="https://dodis.ch/G361">Rom</placeName> bejahende Antwort eingegangen.</p>
+                <p>Mit Rüksicht auf diese Mittheilungen wird gemäss Antrag beschlossen:</p>
+                <p>1. Den Zusammentritt der Konferenz auf Montag den 28. Mai, Nachmittags 3 Uhr, in Bern (Bundesrathshaus) festzusezen.<note>Auf Ersuchen der italienischen Regierung wurde der Konferenzbeginn in der Folge auf den 4. Juni verschoben. Vgl. das <orig>BR-Prot. vom 24.5.1877 (<idno type="CH-BAR">E 1004 1/109</idno>, Nr. 2762)</orig>. </note></p>
+                <p>2. Die schweizer. Gesandten in <placeName ref="https://dodis.ch/G25">Berlin</placeName> und <placeName ref="https://dodis.ch/G361">Rom</placeName> telegraphisch anzuweisen, den Regierungen, bei denen sie beglaubigt sind, hievon Kenntnis zu geben und damit die Einladung zu verbinden, ihre Bevollmächtigten auf genannten Tag nach Bern abordnen zu wollen. Das politische Departement wird in Betreff der hierseitigen Abordnung und der ihr zu ertheilenden Instruktion zu nächster Sizung Bericht und Antrag bereit stellen.<note>In der Sitzung vom 23.5.1877 ernannte der Bundesrat die Mitglieder der Schweizer Delegation (<persName ref="https://dodis.ch/P27912">Heer</persName>, <persName ref="https://dodis.ch/P15817">Schenk</persName>, <persName ref="https://dodis.ch/P19001">Welti</persName> und <persName ref="https://dodis.ch/P32515">Koller</persName>), und in jener vom 24.5.1877 erliess er die bezüglichen, als Annex teilweise abgedruckten, Instruktionen <orig>(<idno type="CH-BAR">E 1004 1/109</idno>, Nrn. 2742 bzw. 2762).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

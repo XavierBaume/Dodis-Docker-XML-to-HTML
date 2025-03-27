@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42854</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42854">dodis.ch/42854</ref>
+                    <title type="main">Le Ministre de Suisse à <placeName ref="https://dodis.ch/G18">Paris</placeName>, Ch. <persName ref="https://dodis.ch/P5840">Lardy</persName>, au Chef du Département de Justice et Police, E. <persName ref="https://dodis.ch/P33952">Brenner</persName><note>Lettre: <idno type="CH-BAR">E 22/1973, Bd. 1</idno>.</note></title>                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Paris,</placeName>
+                        <date when="1903-12-29">29 décembre 1903</date>
+                    </dateline>
+                </opener>
+                <p>Das hiesige Auswärtige Amt hat allerdings von der niederländischen Regierung die Anzeige erhalten, dass <placeName ref="https://dodis.ch/G45">Japan</placeName> den Wunsch ausgesprochen habe, sich an der <emph>IV. Conferenzfür internationales Privatrecht im Haag </emph>zu beteiligen. Ein Entschluss über die Antwort welche auf dieses Gesuch zu machen sei, ist noch nicht gefasst. Der Juris-consulte du Ministère des Affaires étrangères Professor <persName ref="https://dodis.ch/P34264">Louis Renault</persName> sagte mir aber gestern abend, dass er sein Gutachten dahin geben werde, «die europäischen Vertragsmächte hätten, alles erwogen, mehr Interesse, die Vertreter <placeName ref="https://dodis.ch/G45">Japan</placeName>s zuzulassen, als <placeName ref="https://dodis.ch/G45">Japan</placeName> zu beseitigen; es sei wahrscheinlich, dass es mehr Angehörige der Vertragsstaaten in <placeName ref="https://dodis.ch/G45">Japan</placeName> gebe als umgekehrt; es sei ferner wünschbar, vom Momente an wo die europäischen Staaten die japanische Jurisdiction auch für Europäer anerkannt haben, dass man mittelbar und auf dem Vertragswege die <placeName ref="https://dodis.ch/G45">Japan</placeName>er dazu bringe den Europäern gegenüber soviel als möglich europäisches Recht in verschiedenen Gebieten wie Ehe, Scheidung, Erbrecht etc. anwenden zu müssen; wenn man die <placeName ref="https://dodis.ch/G45">Japan</placeName>er beiseite lasse so werden sie eben meistens japanisches Recht an wenden, weil die <placeName ref="https://dodis.ch/G45">Japan</placeName>er ungefähr das deutsche Einführungsgesetz zum deutschen bürgerlichen Gesetzbuch abgeschrieben haben.»</p>
+                <p>Ich habe keinen Grund anzunehmen, dass das französische Auswärtige Amt dem Rate des hier in diesen Sachen ziemlich allmächtigen Kronjuristen <persName ref="https://dodis.ch/P34264">Louis Renault</persName> nicht folgen wird.</p>
+                <p>Beiläufig bemerkt, äussert sich Prof. <persName ref="https://dodis.ch/P34264">Renault</persName> ziemlich abschätzend dem deutschen Einführungsgesetz gegenüber und hofft sehr, dass der internationale Teil des künftigen Eidgenössischen Civilgesetzbuches sich eher dem belgischen projet de Code civil anschliessen wird. Prof. <persName ref="https://dodis.ch/P34137">Laîné</persName> in <placeName ref="https://dodis.ch/G18">Paris</placeName> hat vor ca. 10 Jahren in der Société de Législation comparée eine sehr bemerkenswerthe Studie über den belgischen Entwurf erscheinen lassen.</p>
+                <p>Wie mir Prof. <persName ref="https://dodis.ch/P34264">Renault</persName> sagte, ist es anzunehmen dass, vom Momente an wo <placeName ref="https://dodis.ch/G45">Japan</placeName> den Wunsch auspricht <emph><add type="edition">[an </add></emph>der IV. Haager Conferenz für Privatrecht teilzunehmen, <placeName ref="https://dodis.ch/G45">Japan</placeName> verlangen wird, die drei schon unerschriebenen Übereinkünfte betreffend Ehe, Scheidung und Vormundschaft der Minderjährigen, nachträglich unterzeichnen zu dürfen. Bekanntlich ist keine Accession im eigentlichen Sinne zulässig. Die Genehmigung aller Vertragstaaten ist unentbehrlich. Bevor man auf diesen leicht wahrscheinlichen Wunsch <placeName ref="https://dodis.ch/G45">Japan</placeName>s eintreten kann, sollte man, in der Meinung des Hrn. <persName ref="https://dodis.ch/P34264">Renault</persName>, von <placeName ref="https://dodis.ch/G35">Tokio</placeName> aus amtliche Auskunft erhalten über die dortige Gesetzgebung speziell über Civilstand, Ehe und Scheidung.<add type="edition">[...]</add><note>Suivent des indications concernant les travaux préparatoires du Ministère des Affaires étrangères pour la IV<hi>ème</hi> Conférence de droit international privé de <placeName ref="https://dodis.ch/G88">La Haye</placeName> de 1904. On relève.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

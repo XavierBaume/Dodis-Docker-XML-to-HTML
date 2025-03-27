@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42315</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42315">dodis.ch/42315</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 12. April 1887<note><idno type="CH-BAR">E 1004 1/149</idno>. Abwesend: <persName ref="https://dodis.ch/P19001">Welti</persName>.</note></title><title type="sub">1850. Neutralität <placeName ref="https://dodis.ch/G1139">Savoie</placeName>ns</title>
+                    <unclear reason="Entity type: Person not found in section with ID:">33035</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">3822</unclear>
+                </head>
+                <opener>
+                    <dateline>Politisches Departement. Antrag vom <date when="1887-04-11">11. April 1887</date>
+                    </dateline>
+                </opener>
+                <p>Herr Minister <persName ref="https://dodis.ch/P27913">Roth</persName> in <placeName ref="https://dodis.ch/G25">Berlin</placeName> erstattet mit Schreiben vom 7. d.<note><orig><idno type="CH-BAR">E 2/1643</idno>.</orig> Vgl. auch Nr. 370, Anm. 3.</note> Bericht über eine vertrauliche Unterredung, welche er am 6. dies. Abends, mit dem in hohem Masse das Vertrauen des Fürsten Bismark besizenden ersten Vortragenden Rate der politischen Abteilung des auswärtigen Amtes, Baron von H.<note>von <persName ref="https://dodis.ch/P33569">Holstein</persName>.</note>, hatte, und welche ausser einem kleinen Vorgänge an der badischen Grenze betreffend einen eventuellen Truppentransport (Reservisten) im Falle einer Kriegsmobilisation durch schweizerisches Gebiet, dessen Unzulässigkeit von den Deutschen Behörden anerkannt worden war, die <placeName ref="https://dodis.ch/G1139">Savoie</placeName>rfrage zum Gegenstände hatte. Dieser Bericht enthält folgende zwei Stellen:</p>
+                <p>1. .... «Dann ging Baron v.H. auf die <placeName ref="https://dodis.ch/G1139">Savoie</placeName>r-Frage über und sprach sich diesbezüglich wie folgt aus:</p>
+                <p>«Als Sie mir vor einiger Zeit, anlässlich unserer Unterhaltung über die sogen, politischen Verhandlungen mit <placeName ref="https://dodis.ch/G77">Italien</placeName>, von <placeName ref="https://dodis.ch/G1139">Savoyen</placeName> sprachen, war ich nicht in der Lage, hierüber mich zu äussern. Wir hatten uns bis dahin mit dieser Frage noch gar nicht befasst. Seither sind wir aber derselben näher getreten und nunmehr zu dem Schlüsse gelangt, dass, mit Rüksicht auf unser Verhältnis zu <placeName ref="https://dodis.ch/G77">Italien</placeName>, für den Fall eines Krieges mit <placeName ref="https://dodis.ch/G13">Frankreich</placeName> für uns die Besezung <placeName ref="https://dodis.ch/G1139">Savoyen</placeName>s durch schweizerische Truppen <emph>nicht </emph>erwünscht wäre. Hievon haben wir bereits auch Herrn von <persName ref="https://dodis.ch/P33409">Bülow</persName> Mitteilung gemacht. Wir stüzen uns hiebei einfach auf das Präcedens von 1870. Damals hat sich <placeName ref="https://dodis.ch/G13">Frankreich</placeName> gegen die Besezung <placeName ref="https://dodis.ch/G1139">Savoyen</placeName>s durch die Schweiz ausgesprochen und, so viel mir bekannt, u. A. geltend gemacht, dass durch die Annexion <placeName ref="https://dodis.ch/G1139">Savoyen</placeName>s an <placeName ref="https://dodis.ch/G13">Frankreich</placeName> die für die Schweiz in Frage kommenden Bestimmungen der frühem Verträge gegenstandslos geworden seien. Die Schweiz hat denn auch damals auf die Besezung <placeName ref="https://dodis.ch/G1139">Savoyen</placeName>s verzichtet. Sollte nun im Falle eines Krieges zwischen <placeName ref="https://dodis.ch/G13">Frankreich</placeName> einer- und <placeName ref="https://dodis.ch/G5">Deutschland</placeName>-<placeName ref="https://dodis.ch/G77">Italien</placeName> andrerseits die Schweiz <placeName ref="https://dodis.ch/G1139">Savoyen</placeName> dennoch besezen wollen, so hätte dies nach unserer Auffassung den Effekt einer zu unserem Nachteil <placeName ref="https://dodis.ch/G13">Frankreich</placeName> gewährten Vergünstigung, auf welche es nach seinem Verhalten von 1870 zudem nicht den geringsten Anspruch erheben kann.»</p>
+                <p>2. .... «Dieser Gegenstand führte uns, für mich erwünschtermassen, wieder auf die allgemeine Situation und speziell auf das sogen, italienische Bündnis. Ohne Umschweife stellte ich dann auch sofort die Frage, ob wirklich in diesen Abmachungen eventuelle Kompensationen vorgesehen und wenn ja, ob etwa einzelne dieser Kompensations-Objekte in unserer Interessensphäre gelegen seien.»</p>
+                <p>Hierauf gab mir Baron v.H. folgende kategorische Antwort:</p>
+                <p>«Ich gebe Ihnen, ohne jede reservatio mentalis, die bestimmteste Versicherung, dass in diesen Abmachungen auch nicht mit einer Silbe von derartigen Kompensationen die Rede ist. Ich selbst habe bei den Verhandlungen mitgearbeitet und kenne die Abmachungen in ihrem vollen Umfange. Seien Sie also vollkommen beruhigt.» etc. Nach Antrag des politischen Departements wird Herrn Minister <persName ref="https://dodis.ch/P27913">Roth</persName> ein von jenem über die Neutralität <placeName ref="https://dodis.ch/G1139">Savoie</placeName>ns verfasstes Promemoria übermittelt, mit der Einladung, dasselbe dem Baron v.H., der von dem, was sich im Jahre 1870 zutrug, nicht unterrichtet zu sein scheine, zur Kenntnis zu bringen und ihm auf seinen Wunsch Abschrift davon zu belassen.</p>
+                <p>Dieses Promemoria lautet: </p>
+                <p></p>
+                <p>– 1 –</p>
+                <p></p>
+                <p>Art. XCII de l’acte final du Congrès de Vienne: «Les provinces de Chablais et du Faucigny, et tout le territoire de Savoie au nord d’Ugine, appartenant à S.M. le Roi de Sardaigne, feront partie de la neutralité de la Suisse, telle qu’elle est reconnue et garantie par les Puissances. En conséquence, toutes les fois que les Puissances voisines de la Suisse se trouveront en état d’hostilité ouverte ou imminente, les troupes de S.M. le Roi de Sardaigne qui pourraient se trouver dans ces provinces, se retireront, et pourront à cet effet passer par le Valais, si cela devient nécessaire; aucunes autres troupes armées d’aucune autre Puissance ne pourront traverser ni stationner dans les provinces et territoires susdits, sauf celles que la Confédération suisse jugerait à propos d’y placer; bien entendu que cet état de choses ne gêne en rien l’administration de ces pays, où les agents civils de S.M. le Roi de Sardaigne pourront aussi employer la garde municipale pour le maintien du bon ordre.»</p>
+                <p></p>
+                <p>– 2 –</p>
+                <p></p>
+                <p>Acte de Paris du 20 novembre 1815: «Les Puissances reconnaissent et garantissent également la neutralité des parties de la Savoie, désignées par l’acte du Congrès de Vienne du 29 mars mil huit cent quinze, et par le traité de Paris de ce jour, comme devant jouir de la neutralité de la Suisse de la même manière que si elles appartenaient à celle-ci. Les Puissances signataires de la déclaration du 20 mars reconnaissent authentiquement, par le présent Acte, que la neutralité et l’inviolabilité de la Suisse, et son indépendance de toute influence étrangère, sont dans les vrais intérêts de la politique de l’Europe entière.»</p>
+                <p></p>
+                <p>– 3 –</p>
+                <p></p>
+                <p>Traité de Turin du 24 mars 1860 (Art. 2): «Il est entendu que Sa Majesté le Roi de Sardaigne ne peut transférer les parties neutralisées de la Savoie qu’aux conditions auxquelles il les possède lui-même, et qu’il appartient à Sa Majesté l’Empereur des Français de s’entendre à ce sujet, tant avec les Puissances représentées au Congrès de Vienne qu’avec la Confédération helvétique, et de leur donner les garanties qui résultent des stipulations rappelées dans le présent article.»</p>
+                <p></p>
+                <p>– 4 –</p>
+                <p></p>
+                <p>Déclaration de neutralité du Conseil fédéral<note>Vollständig abgedruckt in: DDS 2, Nr. 252.</note> (18 juillet 1870): «Relativement aux parties de la Savoie qui, aux termes de la déclaration des grandes Puissances du 29 mars 1815, de l’acte final de Vienne du 9 juin 1815, du traité de Paris du 20 mai 1815, art. Ill, et de l’acte de reconnaissance et de garantie de la neutralité suisse, portant la même date, doivent jouir d’une neutralité identique à celle de la Suisse, disposition que la France et la Sardaigne ont confirmée à l’art. 2 du traité de Turin précité, du 24 mars 1860,1e Conseil fédéral croit devoir rappeler que la Suisse a la droit d’occuper ce territoire. Le Conseil fédéral ferait usage de ce droit si les circonstances lui paraissaient l’exiger pour la défense de la neutralité suisse et de l’intégrité du territoire de la Confédération; toutefois il respectera scrupuleusement les restrictions que les traités apportent à l’exercice du droit dont il s’agit, et il s’entendra à cet égard avec le gouvernement impérial français.»</p>
+                <p></p>
+                <p>– 5 –</p>
+                <p></p>
+                <p>Le Ministre des Affaires étrangères de France ayant cru pouvoir admettre que la phrase finale cidessus signifiait que la Suisse n’adopterait aucune mesure sans une entente préalable avec le gouvernement de l’Empereur<note>Vgl. DDS 2, Nr. 260.</note>, M. Kern fut chargé de faire savoir que «le Conseil fédéral ne saurait restreindre l’exercice de son droit par un défaut éventuel d’entente sur le mode d’occupation.» Une note fut remise partant: «C’est avec satisfaction que le Conseil fédéral a pris acte du fait que le gouvernement Impérial ne conteste pas les droits de la Suisse. Mais une erreur qui s’est glissée dans la note de M. le Duc de Grammont lui paraît devoir être rectifiée. M. de Grammont semble partir de l’idée que le Conseil fédéral aurait promis de ne prendre aucune mesure sans une entente préalable avec le gouvernement Français. Le gouvernement fédéral n’a cependant nullement exprimé cette pensée dans la déclaration de neutralité et il se réfère pour cela aux termes mêmes de cette déclaration. Ce n’est point sur le droit lui-même ou sur l’usage de ce droit, dans un cas spécial, que le Conseil fédéral a fait mention d’une entente préalable, mais sur le mode de procéder relatif à l’exécution de ce droit, comme les mots ‹à cet égard› le donnent clairement à entendre. S’il eût été autrement, le Conseil fédéral aurait placé son droit entre les mains du gouvernement Français. Le Conseil fédéral entend se réserver, comme cela est dans la compétence de tout ayant-droit, la faculté d’apprécier, suivant les circonstances, s’il y a lieu de faire usage de son droit. Si ce cas devait se présenter, il s’empresserait d’en informer à temps le gouvernement Français, afin que celui-ci pût éventuellement retirer ses troupes et afin de faciliter une entente sur l’exercice des Pouvoirs civils et militaires, auxquels la Suisse ne saurait prétendre en ce qui la concerne.<note>Vgl. das Telegramm des Bundesrates an Kern vom 12.8.1870 <orig>(<idno type="CH-BAR">E 2/1641</idno>).</orig></note>»</p>
+                <p></p>
+                <p>– 6 –</p>
+                <p></p>
+                <p>Le 9 novembre 1870, le Conseil fédéral, considérant que les troupes allemandes se rapprochaient de la Savoie, décida qu’il y aurait lieu, le cas échéant, de faire occuper ce pays, et résolut en même temps d’envoyer un délégué à Tours.<note>Beschluss des Bundesrates vom 9.11.1870 <orig>(<idno type="CH-BAR">E 1004 1/83</idno>, Nr. 4716).</orig> Vgl. auch DDS 2, Nrn. 300, 301.</note> Les instructions<note>DDS 2, Nr. 301.</note> ci-jointes furent adoptées pour lui être remises. La marche ultérieure des troupes allemandes n’ayant pas rendu ces mesures nécessaires, le délégué ne partit pas.</p>
+                <p></p>
+                <p>– 7 –</p>
+                <p></p>
+                <p>En février 1871, les Conseils municipaux de la Savoie transmirent au Conseil fédéral une délibération prise sur l’initiative du Comité républicain de Bonneville et portant ce qui suit: «Considérant que les armées ennemies se rapprochent de nos contrées et n’en sont plus qu’à une faible distance; que notre pays peut être envahi d’un moment à l’autre; Considérant que l’absence de toutes les forces vives du pays nous prive de tous nos moyens de défense; Considérant que les traités de 1815 garantissent la neutralité de notre territoire et donnent à la Suisse le droit de l’occuper militairement;
+                </p>
+                <p>Délibère de demander l’exécution des traités de 1815 en ce qui concerne cette neutralité, et de faire instance auprès de la Confédération suisse pour occuper immédiatement le territoire neutralisé.<note>Vom 16–27.2.1871 wurden in Hochsavoyen 39 derartige Entschliessungen von Gemeinderäten und zahlreiche Volkspetitionen durchgeführt <orig>(<idno type="CH-BAR">E 2/1641</idno>).</orig></note>»</p>
+                <p></p>
+                <p>– 8 –</p>
+                <p></p>
+                <p>A la même époque, des pourparlers eurent lieu à Berne entre le Président de la Confédération, M. Schenk, et le Ministre de France, M. de Châteaurenard<note>Vgl. DDS 2, Nr. 343.</note>, à la suite desquels ce dernier annonça que M. Jules Favre était disposé à entrer en négociation, aussi vite que les circonstances le permettraient, pour régler les questions de détail qui se rapportent à l’exercice du droit de la Suisse. En date du 13 mars, des instructions<note><orig><idno type="CH-BAR">E 2/1641.</idno></orig></note> furent envoyées à M. Kern, mais les événements (proclamation de la Commune, etc.) ne permirent pas de donner suite à ces pourparlers.</p>
+                <p></p>
+                <p>– 9 –</p>
+                <p></p>
+                <p>En 1883, la question de Savoie fit l’objet d’une correspondance diplomatique entre le Conseil fédéral et le gouvernement français. Il s’agissait du projet attribué au génie militaire français d’élever des fortifications sur le Mont Vuache. A la note écrite du Conseil fédéral<note>Vgl. Nr. 252.</note>, M. Jules Ferry répondit en date du 14 décembre 1883: «Nous ne voyons aucune difficulté à faire connaître qu’il n’entre pas dans nos intentions d’établir un ouvrage de fortification au Mont Vuache et que dans les études pour la mobilisation, l’état major français s’est attaché à respecter complètement le territoire neutralisé.»<note>Nr. 255, Annex.</note> Ainsi, en aucun temps et en aucun cas, la Suisse n’a renoncé à l’occupation de la Savoie, en tant que celle-ci résulte des stipulations internationales ci-dessus rappelées.</p>
+                <p></p>
+                <p></p>
+                <p>II.</p>
+                <p></p>
+                <p>Von Herrn Minister <persName ref="https://dodis.ch/P5840">Lardy</persName> ist betreffend die <placeName ref="https://dodis.ch/G1139">Savoie</placeName>r-Neutralitätsfrage ein weiterer Bericht dd. 7. d. M.<note><orig><idno type="CH-BAR">E 2/1643</idno>.</orig></note> eingelangt. Er wünscht, dass die Stelle, welche in der vom Bundesrat am 30. März genehmigten, an das französische Ministerium der Auswärtigen Angelegenheiten zu richtenden Note<note>Ibid.</note> gestrichen wurde: «bien que’une telle convention / qu’un tel acte bilatéral / ne soit pas prévu(e) par les traités», belassen werde.</p>
+                <p>Herr <persName ref="https://dodis.ch/P5840">Lardy</persName> übermittelt sodann die von Herrn Oberst <persName ref="https://dodis.ch/P33712">Pfyffer</persName> redigirte Beschreibung der Grenzlinie der neutralen Zone, welche dieser Note nebst einer Karte mit eingezeichneter Linie beigegeben werden soll.</p>
+                <p>Diese Grenzbeschreibung lautet:</p>
+                <p><emph><add type="edition">[...]</add></emph>.<note>Die detaillierte Grenzbeschreibung ist weggelassen.</note></p>
+                <p>Herr <persName ref="https://dodis.ch/P5840">Lardy</persName> beabsichtigt, da das Ministerium <persName ref="https://dodis.ch/P33542">Goblet</persName> für mehr als einen Monat wieder als gesichert erscheint, bei Herrn <persName ref="https://dodis.ch/P33513">Flourens</persName>, Minister der auswärtigen Angelegenheiten, etwa in 14 Tagen auf eine Erledigung dieser Frage zu dringen und je nach der Antwort sofort oder nach einigen Tagen die Note zu übergeben.</p>
+                <p>Nach Antrag des politischen Departements erklärt sich der Bundesrat mit der Belassung des obenerwähnten Sazes einverstanden, genehmigt die vorgelegte Grenzbeschreibung und heisst das von Herrn <persName ref="https://dodis.ch/P5840">Lardy</persName> beabsichtigte Verfahren gut.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

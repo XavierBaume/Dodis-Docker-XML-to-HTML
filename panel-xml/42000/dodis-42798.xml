@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42798</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42798">dodis.ch/42798</ref>
+                    <title type="main">Le Ministre de Suisse à Berlin, <persName ref="https://dodis.ch/P27913">A. Roth</persName>, au Président de la Confédération et Chef du Département politique, <persName ref="https://dodis.ch/P28812">J. Zemp</persName><note>Lettre: <idno type="CH-BAR">E 2001 (A) 627</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">4262</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">33878</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Berlin,</placeName>
+                        <date when="1902-03-27">27. März 1902</date>
+                    </dateline>
+                </opener>
+                <p>In Erwiderung auf Ihre Depesche vom 25ten d.Mts<note>Cf. n<hi>o</hi> 386.</note> betreffend die Differenzen mit <placeName ref="https://dodis.ch/G77">Italien</placeName> wegen des das Andenken an König Humbert beschimpfenden Artikels des in <placeName ref="https://dodis.ch/G28">Genf</placeName> erscheinenden Blattes «Risveglio» bestätige ich Ihnen mein soeben an Ihre Adresse abgesandtes chiffriertes Telegramm, lautend:</p>
+                <p>«Habe Inhalt Ihrer Depesche betreffend Differenzen mit <placeName ref="https://dodis.ch/G77">Italien</placeName> soeben Staatssekretär von <persName ref="https://dodis.ch/P34271">Richthofen</persName> mündlich, aber unter Überreichung vertraulicher schriftlicher Notizen über die Sachlage mitgetheilt. Er erwiderte, Auswärtiges Amt kenne die Angelegenheit annähernd aus Berichten der Gesandtschaft in Bern, aus <placeName ref="https://dodis.ch/G77">Italien</placeName> seien ihm noch keinerlei Mittheilungen zugegangen und man habe sich daher mit der Frage hier noch nicht befasst. Er sei mithin auch nicht in der Lage, mir irgend einen materiellen Bescheid zu ertheilen.»</p>
+                <p>Diesen Mittheilungen beehre ich mich, streng vertraulich folgendes beizufügen:</p>
+                <p>Nachdem ich Freiherr von <persName ref="https://dodis.ch/P34271">Richthofen</persName> Ihre Depesche, dem Hauptinhalte nach, vorgelesen, frug ich ihn, ob er vielleicht in der Lage sei, mir irgend einen Bescheid zu ertheilen, den ich Ihnen zur Kenntnis bringen könnte. Darauf antwortete er vorerst, er sei, wie ich Ihnen also bereits berichtet habe, durch die Kaiserliche Gesandtschaft in Bern annähernd über die Sachlage unterrichtet, aus <placeName ref="https://dodis.ch/G361">Rom</placeName> habe aber das Auswärtige Amt noch keinerlei sachbezügliche Mittheilungen erhalten; er sei daher auch nicht im Falle gewesen, mit der Frage sich irgendwie zu befassen. Würde ich jetzt auf eine Antwort dringen, so wäre er <persName ref="https://dodis.ch/P34271">Richthofen</persName>, genöthigt, hiefür an den Kaiser zu gelangen, und da S. M. den Anarchisten sehr schroff gegenüberstehe, müsste mit der grossen Wahrscheinlichkeit gerechnet werden, dass eine uns wenig befriediegende Vernehmlassung erfolgen würde. Es sei also für uns entschieden vortheilhafter, wenn ich mich bis auf weiteres damit begnüge, ihm, <persName ref="https://dodis.ch/P34271">Richthofen</persName>, die fraglichen Mittheilungen gemacht zu haben. Damit erklärte ich mich dann auch einverstanden, mit dem Beifügen jedoch, ich möchte ihn aber sehr bitten, mich in Sachen auf dem laufenden zu erhalten und, falls die italienische Regierung die Angelegenheit hier wirklich in der bewussten Weise zur Sprache bringen sollte, mir Gelegenheit zu geben, mit ihm weiter zu conferieren.</p>
+                <p>Im fernen Verlaufe unserer Unterredung äusserte Freiherr von <persName ref="https://dodis.ch/P34271">Richthofen</persName> sich dann noch wie folgt:</p>
+                <p>Man anerkenne hier vollkommen die Schwierigkeiten, die sich uns nach der Lage unserer Gesetzgebung, in solchen Fragen entgegenstellen. Auf der anderen Seite theile man aber natürlich auch den Wunsch der anderen Regierungen, diese, unsere Gesetzgebung möchte in der Weise den Bedürfnissen der heutigen Sachlage angepasst werden, dass es uns möglich gemacht würde, den anarchistischen Umtrieben wirksamer entgegenzutreten, als es jetzt der Fall sei. Sollte <placeName ref="https://dodis.ch/G77">Italien</placeName> den vorliegenden Fall hier wirklich anhängig machen, so würde derselbe jedenfalls nach allen Richtungen sorgfältig geprüft und insbesondere auch dem Reichsjustiz-Amt und dem Preussischen Justiz-Ministerium zur Begutachtung überwiesen werden müssen; es dürfte also unter allen Umständen geraume Zeit verstreichen, ehe und bevor ein Entscheid erfolgen könnte.</p>
+                <p>Selbstverständlich beschränkte ich mich nicht auf ein stummes Entgegennehmen obiger Mittheilungen des Staatssekretärs. Ich legte vielmehr besondere Betonung darauf, wie verletzend die bewussten Noten <persName ref="https://dodis.ch/P34308">Silvestrelli</persName>s auf den Bundesrath wirken mussten, sei doch derselbe seit Jahren den an ihn ergangenen Wünschen und Anregungen auf Bekämpfung der anarchistischen Umtriebe aufs Loyalste und so weit, als es nach Lage unserer Gesetzgebung nur immer möglich gewesen, entgegengekommen; ich erinnere z.B. an unsere Vernehmlassung betreffend die letzte Collectiv-Demarche von <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und <placeName ref="https://dodis.ch/G10073">Russland</placeName><note>Cf. <orig><idno type="CH-BAR">E 2001 (A) 83</idno>.</orig></note>; die Gründe, die für die Weigerung einen Strafantrag zu stellen und die Reziprocität zu garantieren aufgeführt worden seien, können unmöglich ernst genommen werden und die Form der Beweisführung sei verletzend; das ganze Vorgehen der italienischen Regierung in casu sei überhaupt wenig dazu angethan, den Bundesrath zu bestimmen, auf diesem Gebiete ein weiteres Entgegenkommen in Aussicht zu nehmen und es liege im wohlverstandenen Interesse der Sache, dass die anderen Regierungen auf die von <placeName ref="https://dodis.ch/G77">Italien</placeName> angeblich beabsichtigte Anregung einer gemeinsamen Aktion in bewusster Richtung nicht eingehen.</p>
+                <p>Freiherr von <persName ref="https://dodis.ch/P34271">Richthofen</persName> bemerkte dann noch beiläufig, <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und <placeName ref="https://dodis.ch/G10073">Russland</placeName> werden im Verfolge ihrer frühem, von mir oben erwähnten Collektiv-Demarche nunmehr in allernächster Zeit mit bestimmten Vorschlägen an die betreffenden Regierungen gelangen.</p>
+                <p>Bei diesem Anlasse will ich doch noch erwähnen, dass man im Preussischen Ministerium des Innern vor dem Anarchistenblatt «Risveglio» einen wahren Horror hat und dass <placeName ref="https://dodis.ch/G77">Italien</placeName> bei diesem Ressort muthmasslich ein ganz besonderes Verständnis für seine Recriminationen finden dürfte.</p>
+                <p>Ich gewärtige gerne Ihre weiteren Mittheilungen über den Verlauf der Angelegenheit und behalte mir also vor, Freiherr von <persName ref="https://dodis.ch/P34271">Richthofen</persName> im gegebenen Moment behufs erneuerter Besprechung derselben wieder aufzusuchen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

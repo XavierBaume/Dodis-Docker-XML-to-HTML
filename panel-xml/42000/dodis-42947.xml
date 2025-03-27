@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42947</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42947">dodis.ch/42947</ref>
+                    <title type="main">Die schweizerische Handelsvertragsdelegation<note><persName ref="https://dodis.ch/P33619">A.Künzli</persName>, A. Frey, <persName ref="https://dodis.ch/P3660">E. Laur</persName>.</note> an den Vorsteher des Handels-, Industrie- und Landwirtschaftsdepartementes, <persName ref="https://dodis.ch/P33470">A. Deucher</persName><note>Schreiben: <idno type="CH-BAR">E 13 (B) / 242</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">34561</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Wien,</placeName>
+                        <date when="1905-11-14">14. November 1905</date>
+                    </dateline>
+                </opener>
+                <p>In Ergänzung unseres Berichtes <persName ref="https://dodis.ch/P34762">von</persName> heute Nachmittag<note>Nicht abgedruckt.</note> gestatten wir uns Ihnen noch über die im Anschluss an die Tarifberatung stattgehabte allgemeine Diskussion zu referieren.</p>
+                <p>Am Schluss der zweiten Lesung erklärte Sektionschef v. <persName ref="https://dodis.ch/P34762">Roessler</persName>, dass er vom Ergebnis dieser zweiten Beratung den Eindruck erhalten habe, es werde nicht möglich sein, in nächster Zeit zu einem Abschluss des Vertrages zu gelangen. Man müsse deshalb daran denken, durch ein Provisorium den vertragslosen Zustand zu verhindern. Dabei komme zunächst die Zeit vom 1. Januar bis zum 28. Februar 1906 in Betracht. Hiefür könnte Ö.-U. den Status quo auf seinem Tarif offerieren. Der neue schweizerische Gebrauchstarif sei jedoch dafür kein Äquivalent. Selbst wenn es diesen, ergänzt durch die bis anhin eröffneten Konzessionen auf dem schweizerischen Tarif akzeptieren würde, käme es im Hinblick auf die Holz- und die Keltertraubenzölle zu kurz. - Sodann sei aber auch die Zeit nach dem 1. März 1906 in Betracht zu ziehen. Wenn die Verhandlungen mit der Schweiz jetzt abgebrochen werden, so könne Ö.-U. diese in Rücksicht auf seine Verhandlungen mit anderen Staaten in den Monaten Januar und Februar nicht mehr aufnehmen. Es müsse also auch für die Zeit nach dem 1. März ein provisorisches Verhältnis eintreten, wenn ein vertragsloser Zustand vermieden werden solle. Das würde nun Gelegenheit bieten, um die schweizerischen Bedenken gegen die ö.-u. Tarifvorschläge dadurch zu beseitigen, dass man sie provisorisch an wendete. So könnte den Interessenten ad oculos bewiesen werden, dass diese Zölle erträglich seien.</p>
+                <p>Wir erwiderten, dass wir zum Abschluss eines Provisoriums über den 28. Februar hinaus keine Instruktion hätten. Irgendwelche Beweiskraft könnte aber einer solchen versuchsweisen Anwendung der Zollerhöhungen nicht zugesprochen werden, da die Interessenten, in der Hoffnung, später Ermässigung der Zölle während einer solchen Versuchszeit ihre Handelsbeziehungen nicht unterbrechen würden, auch wenn sie mit Opfern verbunden wären.</p>
+                <p>Auf die Frage des Vorsitzenden (Hofrat v. <persName ref="https://dodis.ch/P34706">Mihalovich</persName>), wie man sich das fernere Vorgehen denke, meinte Herr v. <persName ref="https://dodis.ch/P34762">Roessler</persName>, eine weitere Verhandlung über den definitiven Vertrag biete keine Aussicht mehr auf Erfolg. Sein Kollege, Baron <persName ref="https://dodis.ch/P34481">Beck</persName>, unterbrach ihn jedoch und meinte, man solle doch weiter verhandeln. Auf eine etwas zurückhaltende Antwort unsererseits frug der Vorsitzende an, ob wir etwa schon die Instruktion hätten, hier abzubrechen. Als wir dies verneinten, empfahl auch er, fortzufahren. Man einigte sich schliesslich, dass beide Delegationen ihren Regierungen die Situation darlegen und neue Instruktionen einholen sollen. Die nächste Sitzung wurde auf Ende der Woche in Aussicht genommen. Unsere Anträge zu dem Tarif werden wir Ihnen telegraphisch übermitteln und werden Sie wohl vor Ankunft dieses Schreibens in deren Besitz sein.</p>
+                <p>Betreffend Provisorium gestatten wir uns, Ihnen nachfolgend unsere Ansichten darzulegen.</p>
+                <p>Bei der Beurteilung der Sachlage müssen folgende Verhältnisse mit berücksichtigt werden:</p>
+                <p>1. <emph>Die Lage in Ungarn: </emph>Die neue ungarische Regierung soll beabsichtigen, das Parlament im Dezember aufzulösen und die Neuwahlen auf nächstes Frühjahr anzuordnen. Eine bis jetzt unbestätigte und wenig wahrscheinliche Zeitungsnachricht spricht allerdings vom Januar als Zeitpunkt der Neuwahl. Jedenfalls ist die Ratifikation der Verträge durch das jetzige Parlament in nächster Zeit ausgeschlossen. Wenn sich die ausländischen Staaten nicht mit einer blossen Sanktion der Verträge durch die ungarische Regierung begnügen, so ist Ö.-U. wahrscheinlich nicht in der Lage, seine Verträge am 1. März in Kraft zu setzen.</p>
+                <p>2. <emph>Der deutsch-ö.-u. Vertrag: </emph>Laut einer Zeitungsnotiz soll der deutsche Reichskanzler erklärt haben, dass er eine blosse Regierungssanktion für die Inkraftsetzung eines so langfristigen Vertrags als nicht genügend erachte. Sollte sich diese Meldung bestätigen, so müsste auch Deutschland zur Vermeidung des Zollkriegs mit Ö.-U. ein Provisorium abschliessen. Es ist denkbar, dass dieses in einer provisorischen Anwendung des neuen Vertrags besteht. Herr Minister du <persName ref="https://dodis.ch/P19420">Martheray</persName> hat unsere Gesandtschaft in <placeName ref="https://dodis.ch/G25">Berlin</placeName> ersucht, uns hierüber Näheres mitzuteilen.</p>
+                <p>3. <emph>Die Annahme des ö.-u. Tarifgesetzes: </emph>Solange das ungarische Parlament den neuen Tarif nicht angenommen hat, kann dieser nicht Gesetz werden. Es ist sehr fraglich, dass die parlamentarische Erledigung des Tarifs vor dem l.März in Ungarn möglich sei. - Dagegen wäre es denkbar, dass die Regierung vielleicht sogar mit Zustimmung des jetzigen Parlamentes den Tarif provisorisch, z. B. bis Mitte oder Ende 1906, in Kraft setzt und die Regierung mit oder ohne Ermächtigung des Parlamentes provisorische Verträge bis zu diesem Zeitpunkt abschliessen will.</p>
+                <p><emph>4. Die übrigen Vertragsunterhandlungen <persName ref="https://dodis.ch/P34762">von</persName> Ö.-U.: </emph>Nach Mitteilung, die Herr Minister du <persName ref="https://dodis.ch/P19420">Martheray</persName> vom bulgarischen Gesandten erhalten hat, soll das Zustandekommen eines neuen Vertrags zwischen Ö.-U. und <placeName ref="https://dodis.ch/G284">Bulgarien</placeName> ziemlich gesichert sein. Der italienische Geschäftsträger hat Herrn du <persName ref="https://dodis.ch/P19420">Martheray</persName> ausdrücklich erklärt, dass am italienisch-ö.-u. Vertrag nur noch einige Punkte formeller Natur zu erledigen seien. Dagegen sind die Verhandlungen mit <placeName ref="https://dodis.ch/G10073">Russland</placeName> unterbrochen worden und werden erst nach Neujahr wieder aufgenommen werden. Die Verhandlungen mit <placeName ref="https://dodis.ch/G564">Serbien</placeName> sollen in diesen Tagen beginnen; <placeName ref="https://dodis.ch/G234">Rumänien</placeName> und <placeName ref="https://dodis.ch/G75">Belgien</placeName> werden nach Neujahr folgen.</p>
+                <p>Wir glauben, aus allen diesen Verhältnissen den Schluss ziehen zu dürfen, dass Ö.-U. kaum in der Lage ist, auf 1. März definitive Verträge abzuschliessen, und dass, wenn am 1. März nicht ein vertragsloser Zustand beginnen soll, die Schweiz mit der Möglichkeit eines zweiten Provisoriums rechnen muss. - Wäre der definitive Vertrag bis dann zwischen den Delegationen erledigt und <persName ref="https://dodis.ch/P34762">von</persName> diesen unterzeichnet, so könnte natürlich dieser provisorisch angewendet werden. Wenn sich Ö.-U. auf seine innere Lage und die Unmöglichkeit, vor dem 1. März definitive Verträge zu ratifizieren, beruft, so könnte die Schweiz einen solchen Wunsch kaum ablehnen. - Viel schwieriger wird sich die Situation gestalten, wenn es nicht gelingt, bis zum l.März den Wortlaut des definitiven Vertrags zwischen den Delegationen zu vereinbaren. <emph>Der ö.-u. Vorschlag, vom l.März 1906 ab gegenseitig die Tarife so anzuwenden, wie sie aus den bisherigen Offerten der beiden Delegationen hervor gegangen sind, d. h. also, dass wir für das Provisorium in Bausch und Bogen die letzten Offerten <persName ref="https://dodis.ch/P34762">von</persName> Ö.-U. annehmen sollen, halten wir als unannehmbar und undiskutabel. </emph>Ohne weiteres akzeptabel würde uns dagegen die Verlängerung des <persName ref="https://dodis.ch/P34762">von</persName> uns für die Zeit vom 1. Januar bis 28. Februar empfohlenen Provisoriums (s. unten) über den l.März hinaus erscheinen. Der deutsche Vertrag, bezw. das Inkrafttreten des deutschen Zolltarifs wird aber Ö.-U. hindern, auf eine solche Offerte einzutreten. Dagegen scheint es unserer Delegation, die Schweiz könnte ein Provisorium annehmen, in welchem Ö.-U. der Schweiz diejenigen Konzessionen, die wir für den definitiven Vertrag als äusserste festhalten müssen, eventuell zunächst provisorisch gewähren würde. Als Gegenleistung würde die Schweiz Ö.-U. die gleichen Begünstigungen offerieren, die Ö.-U. laut Provisorium vom 1. Januar bis 28. Februar 1906 bei uns genösse. Es ist nicht undenkbar, dass Ö.-U., um dem Zollkrieg auszuweichen, unsere allerdings zum Teil noch zu modifizierenden und zu reduzierenden Begehren für die Zeit des Provisoriums genehmigen würde, trotzdem auch ihm nicht entgehen dürfte, dass das provisorische Abkommen den definitiven Vertrag stark präjudizieren wird.</p>
+                <p>In Erwägung aller Verhältnisse gestatten wir uns, Sie um die Ermächtigung zu ersuchen, der ö.-u. Delegation folgende Erklärung abzugeben:</p>
+                <p>1. Die Schweiz ist bereit, ein provisorisches Handelsabkommen mit Ö.-U. vom 1. Januar bis 28. Februar 1906 zu schliessen, nach welchem Ö.-U. in der Schweiz die Meistbegünstigung und ausserdem alle die Konzessionen geniesst, die ihm in den gegenwärtigen Verhandlungen <persName ref="https://dodis.ch/P34762">von</persName> der schweizerischen Delegation bis zum Tag der Unterzeichnung des Abkommens zugestanden wurden, die Schweiz aber in Ö.-U. den Status quo aus dem Vertrag des Jahres 1891 erhält.</p>
+                <p>2. Ein provisorisches Abkommen vom 1. März 1906 an, bei dem die Schweiz die ö.-u. Offerten zum ö.-u. Tarif, wie sie heute vorliegen, provisorisch akzeptieren würde, uns unannehmbar und undiskutabel.</p>
+                <p>3. Der Bundesrat macht aufmerksam, dass die schweizerische Delegation in nächster Zeit die Unterhandlungen in <placeName ref="https://dodis.ch/G18">Paris</placeName> beginnen muss. Sollte der Abschluss eines Vertrages mit Ö.-U. demnächst nicht möglich sein, so stellt er die Wiederaufnahme der Verhandlungen nach Neujahr in Aussicht.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42226</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42226">dodis.ch/42226</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 28. September 1883<note><idno type="CH-BAR">E 1004 1/134</idno>. Abwesend: <persName ref="https://dodis.ch/P19001">Welti</persName>, <persName ref="https://dodis.ch/P15817">Schenk</persName>.</note></title><title type="sub">4774. Erwerb von Grundeigentum in der <placeName ref="https://dodis.ch/G122">Türkei</placeName></title>
+                    <unclear reason="Entity type: Place not found in section with ID:">1885</unclear>
+                </head>
+                <opener>
+                    <dateline>Politisches Departement. Antrag vom <date when="1883-09-22">22. September 1883</date>
+                    </dateline>
+                </opener>
+                <p>Das politische Departement erstattet ausführlichen Bericht über die bisherigen Verhandlungen über die <emph>Frage des Erwerbes von Grundeigentum in der <placeName ref="https://dodis.ch/G122">Türkei</placeName>duxch </emph>Schweiz. Angehörige. Der Bundesrat beschäftigte sich mit dieser Angelegenheit zulezt im Jahre 1875 (Prot, vom 20. August N<hi>o</hi> 4671<note>Nr. 76.</note> und 30. August N<hi>o</hi> 4869).</p>
+                <p>Damals wurden die Verhandlungen abgebrochen und es verblieb beim status quo, jedoch wurde die schweizer. Gesantschaft in <placeName ref="https://dodis.ch/G18">Paris</placeName> eingeladen, anher zu berichten sobald sich eine günstige Gelegenheit für die Wiederaufnahme der Verhandlungen in <placeName ref="https://dodis.ch/G18">Paris</placeName> zeige.</p>
+                <p>Durch Rescript des türkischen Sultans vom 18. Juni 1867 ist nämlich den Fremden die Befugnis eingeräumt, gleich wie die türkischen Untertanen, zu Stadt und Land im ganzen Reich, mit Ausnahme der Provinz <placeName ref="https://dodis.ch/G9132">Hedjaz</placeName> Grundeigentum zu besizen, mit der Verpflichtung, alle jezt oder in Zukunft dem Grundeigentum auferlegten Lasten und Steuern zu entrichten. Artikel 5 des erwähnten Rescriptes fügt bei, dass jeder fremde Untertan die Vorteile des gegenwärtigen Gesezes geniesse, sobald die Macht, zu welcher er gehöre (de laquelle il relève), den Übereinkommen beigetreten sein werde, welche von der hohen Pforte für die Ausübung des Eigentumsrechtes vorgeschlagen sind. Ein Protokoll regelt die in Art. 5 des Gesezes in Aussicht genommenen Übereinkommen und bestimmt, dass das Gesez den Freiheiten keinen Eintrag tue, die durch die Verträge, welche auch fernerhin die Person und das bewegliche Gut der Grundeigentümer gewordenen Fremden schüzen werden, eingeräumt seien.<note>Vgl. <idno type="CH-BAR">E 13 (B)/270</idno>.</note></p>
+                <p>Diejenigen Mächte, deren Schuz unsere Angehörigen in der <placeName ref="https://dodis.ch/G122">Türkei</placeName> gewöhnlich wählen, sind alle diesem Protokoll beigetreten. Während jedoch <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und <placeName ref="https://dodis.ch/G31">Österreich</placeName> die Schuzgenossen sowohl als auch die eigenen Angehörigen an den Vorteilen des Protokolls teilhaftig werden lassen, haben die diplomatischen und konsularischen Vertreter <placeName ref="https://dodis.ch/G13">Frankreich</placeName>s bis jezt, troz der Bestimmungen des türkischen Gesezes selbst und der völkerrechtlichen Gebräuche nicht eingewilligt, dasselbe zu tun; sie sind der Ansicht, dass <placeName ref="https://dodis.ch/G13">Frankreich</placeName>s Beitritt zum Protokoll vom Jahre 1867 nur für die Franzosen Geltung habe.</p>
+                <p>Die Frage blieb dann namentlich wegen des türkisch-russichen Krieges und anderer politischer Verhältnisse unerledigt.</p>
+                <p>Im Jahre 1882 wurde dieselbe jedoch wieder durch die Glarner Handelskammer angeregt.<note><orig><idno type="CH-BAR">E 13 (B)/271</idno>.</orig></note></p>
+                <p>Nach einem Berichte des Herrn <persName ref="https://dodis.ch/P5840">Lardy</persName>, damaligen interimistischen Geschäftsträgers in <placeName ref="https://dodis.ch/G18">Paris</placeName>, vom 10. August 1882<note><orig><idno type="CH-BAR">E 13</idno> (BJ/271.</orig></note>, erklärte sich der damalige Minister der auswärt. Angelegenheiten, Herr <persName ref="https://dodis.ch/P33463">Decrais</persName><note><persName ref="https://dodis.ch/P33463">Decrais</persName> war Direktor für politische Angelegenheiten.</note>, dahin, <emph><placeName ref="https://dodis.ch/G13">Frankreich</placeName> sei, sobald der Bundesrat darum nachsuche, bereit, seine Botschaft in <placeName ref="https://dodis.ch/G1847">Konstantinopel</placeName> zu beauftragen, über den Beitritt der Schweiz zu dem erwähnten Protokoll zu unterhandeln, und zwar allgemein und zu Gunsten aller Schweizer, unter welchen Schuz sie sich in der <placeName ref="https://dodis.ch/G122">Türkei</placeName> gestellt haben mögen. </emph></p>
+                <p>Unterm 9. Juli ds.Js. endlich lud die Bundesversammlung den Bundesrat durch Postulat ein, die nötigen Schritte zu tun, dass den in der <placeName ref="https://dodis.ch/G122">Türkei</placeName> niedergelassenen Schweizerbürgern gestattet werde, daselbst Grundeigentum zu erwerben.<note><orig><idno type="CH-BAR">E 1001 (C)</idno> d 1/83, Nr. 751.</orig></note></p>
+                <p>Das politische Departement erachtet es für angezeigt, von jenem Anerbieten des Herrn <persName ref="https://dodis.ch/P33463">Decrais</persName><note><persName ref="https://dodis.ch/P33463">Decrais</persName> war Direktor für politische Angelegenheiten.</note> Gebrauch zu machen und dem gestellten Antrage gemäss wird <emph>beschlossen: </emph></p>
+                <p>Die schweizer. Gesantschaft in <placeName ref="https://dodis.ch/G18">Paris</placeName> wird beauftragt, die Regierung der französ. Republik zu ersuchen, sie wolle gefälligst, wie sie es s. Z. anerboten habe<note>Vgl. Nr. 61, Anm. 6.</note>, ihre Botschaft in <placeName ref="https://dodis.ch/G1847">Konstantinopel</placeName> beauftragen, den Beitritt der Schweiz zum Protokoll vom 18. Juni 1867, betr. das Recht zum Erwerb von Grundstüken in der <placeName ref="https://dodis.ch/G122">Türkei</placeName>, und zwar allgemein und zu Gunsten aller Schweizer, und unter welchen Schuz sie sich in der <placeName ref="https://dodis.ch/G122">Türkei</placeName> gestellt haben mögen, zu vermitteln.<note>Zwar lehnt die türkische Regierung am <orig>7.</orig> 7.1884 das französische Gesuch ab, jedoch duldete sie die Weisung der französischen Botschaft in <placeName ref="https://dodis.ch/G1847">Konstantinopel</placeName> an die Konsulate: <orig>[...] die unter französischem Schuze stehenden Schweizer in dieser Beziehung auf dem gleichen Fusse zu behandeln, wie die Angehörigen <placeName ref="https://dodis.ch/G13">Frankreich</placeName>s. [...] ( <idno type="CH-BAR">E 1004 1/139</idno>, Nr. 5748).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

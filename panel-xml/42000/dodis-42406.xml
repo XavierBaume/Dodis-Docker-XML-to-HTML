@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42406</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42406">dodis.ch/42406</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 22. November 1889<note><idno type="CH-BAR">E 1004 1/159</idno>. Abwesend: Hammer.</note></title><title type="sub">4699. Handelsvertrag mit der <placeName ref="https://dodis.ch/G122">Türkei</placeName></title>
+                </head>
+                <opener>
+                    <dateline>Departement des Auswärtigen. Antrag vom <date when="1889-11-21">21. November 1889</date>
+                    </dateline>
+                </opener>
+                <p>Am 13. März nächsten Jahres läuft der Handelsvertrag ab, welcher am 29. April 1861 zwischen <placeName ref="https://dodis.ch/G13">Frankreich</placeName> und der <placeName ref="https://dodis.ch/G122">Türkei</placeName> abgeschlossen und nebst dem dazu gehörenden Tarif auch auf die Schweiz ausgedehnt wurde.</p>
+                <p>Die Unterhandlungen über den Abschluss eines neuen Vertrages und Tarifs dauern schon seit 1882. Die Pforte hatte damals allen interessirten Mächten den Wunsch geäussert, ihren Zolltarif zu erhöhen, um ihre Finanzlage zu verbessern. Zur Wahrnehmung der schweizerischen Interessen während den speziell französisch-türkischen Unterhandlungen die alsdann eröffnet wurden und deren Resultate wiederum auch für die Schweiz Gültigkeit haben sollten, bezeichnete der Bundesrat auf Vorschlag des Handels- und Landwirtschaftsdepartements eine Anzahl schweizerischer Kaufleute in <placeName ref="https://dodis.ch/G1847">Konstantinopel</placeName>, welche den Tarifkonferenzen mit beratender Stimme beizuwohnen hatten und sich dieser Aufgabe in der Folge in verdankenswerter Weise entledigten.<note>Vgl. <idno type="CH-BAR">E 13 (B)/270</idno>.</note> Diese Unterhandlungen über den Tarif gelangten im Jahr 1887 zum Abschluss, nachdem unter vielen Bemühungen für den Hauptartikel des Schweiz. Exports nach der <placeName ref="https://dodis.ch/G122">Türkei</placeName>, bedrukte baumwollene Kopftücher (Kalankiars), die Herabsezung des projektirten Zolles von 570 Piastern auf 400 Piaster per 100 kg (gleich zirka 121/2% vom Werte) gelungen war. Der textliche Teil des Vertrages ist zur Stunde noch nicht endgültig festgesezt, obschon uns nur noch wenige Monate vom Ablauf des alten Vertrages trennen. Dies und die Möglichkeit oder Wahrscheinlichkeit, dass die französischen Kammern, bei ihrer prinzipiellen Tendenz gegen alle neuen Handelsverträge, den neuen Vertrag ablehnen würden, auch wenn er rechtzeitig zu Stande käme, hat das Departement veranlasst, den Abschluss eines selbständigen Handelsvertrages mit der Pforte durch Vermittlung der französischen Regierung ins Auge zu fassen.</p>
+                <p>Der Text dieses Vertrages könnte sich nach Ansicht des Departements auf wenige Artikel beschränken, durch welche der Schweiz im Wesentlichen die Behandlung auf dem Fusse der meistbegünstigten Nation zugesichert würde; der dem Vertrage beizufügende Tarif wäre der bereits zwischen <placeName ref="https://dodis.ch/G13">Frankreich</placeName> für sich und im Namen der Schweiz mit der Pforte vereinbarte.</p>
+                <p>In den massgebenden französischen Ministerien erklärte man sich auf bezügliche offiziöse Eröffnungen des Herrn Minister <persName ref="https://dodis.ch/P5840">Lardy</persName> hin bereit, einen solchen Separatvertrag für die Schweiz zu vermitteln.</p>
+                <p>Das Departement teilte Herrn Minister <persName ref="https://dodis.ch/P5840">Lardy</persName> mit, dass es mit dem von lezterem vorgelegten Vertragsenwurf<note>Vgl. die Beilage zum Schreiben von <persName ref="https://dodis.ch/P5840">Lardy</persName> an Droz vom 16.11.1889 <orig>(<idno type="CH-BAR">E 13 (B)/271</idno>).</orig></note> einverstanden sei; falls der Bundesrat anderer Meinung wäre, so würde ihm hievon beförderlich Mitteilung gemacht.<note>Vgl. das Schreiben des Departements des Auswärtigen an die Gesandtschaft in <placeName ref="https://dodis.ch/G18">Paris</placeName> vom 19.11.1889 <orig>(<idno type="CH-BAR">E 13 (B)/271</idno>).</orig></note> Um keinen vertragslosen Zustand eintreten zu lassen, hätte der Abschluss des Vertrages und dessen Ratifizirung noch während der nächsten Bundesversammlung zu erfolgen und es sei aus diesem Grunde nötig, dass der franz. Botschaft in <placeName ref="https://dodis.ch/G1847">Konstantinopel</placeName> beförderlichst seitens der französ. Regierung die nötigen instruktionen erteilt werden.</p>
+                <p>Antragsgemäss wird beschlossen:</p>
+                <p>Der Bundesrat erklärt sich mit dem vorgelegten Vertragsentwurf als Grundlage für die Unterhandlungen mit der <placeName ref="https://dodis.ch/G122">Türkei</placeName> einverstanden.<note>Zu den Verhandlungen vgl. den <orig>GBer. 1890 (BBl 1891, 1, S. 800–803).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

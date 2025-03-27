@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42898</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42898">dodis.ch/42898</ref>
+                    <title type="main">Der Vorsteher des Handels-, Industrie- und Landwirtschaftsdepartementes, A. Deucher, an den Vorsteher des Departementes des Innern des Kantons <placeName ref="https://dodis.ch/G83">Basel</placeName>-Stadt, <persName ref="https://dodis.ch/P33858">E. Wullschleger</persName><note>Schreiben (Kopie): E VED, A +W,.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">34128</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">27913</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">820</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">11094</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">2361</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">78</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">819</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern,</placeName>
+                        <date when="1904-09-29">29. September 1904</date>
+                    </dateline>
+                </opener>
+                <p>Wir beehren uns, Ihnen ergebenst mitzuteilen, dass anlässlich der zurzeit in <placeName ref="https://dodis.ch/G531">Luzern</placeName> stattfindenden Handelsvertragsunterhandlungen mit Deutschland vom Chef der deutschen Delegation vorläufige Erklärungen betreffend den Hüningerkanal und die Rheinschiffahrt abgegeben worden sind, welche Sie in heiligender Notiz<note>Annex.</note> wiedergegeben finden. Sie werden denselben entnehmen, dass sich die Reichsbehörde mit Bezug auf die gewünschte Aufnahme der Schweiz in die Rheinschiffahrtsakte als unkompetent erklärt, und dass sie ein Entgegenkommen hinsichtlich der Verbindung mit dem Hüningerkanal von Bedingungen abhängig macht, welche mit einer Ablehnung auch dieses Begehrens ziemlich gleichbedeutend sind.</p>
+                <p>Wir beabsichtigen nun zunächst, unsere Gesandtschaft in <placeName ref="https://dodis.ch/G25">Berlin</placeName> zu ersuchen, das Auswärtige Amt auch zu einer <emph>schriftlichen </emph>Antwort zu veranlassen und demselben die Gründe mitzuteilen, aus welchen wir uns mit der in <placeName ref="https://dodis.ch/G531">Luzern</placeName> erhaltenen Auskunft nicht als befriedigt erklären können.</p>
+                <p>Haben Sie die Güte, uns auf Anfang nächster Woche Ihre Ansicht hierüber, sowie über das weitere Vorgehen mitzuteilen, und genehmigen Sie, Herr Regierungsrat, den Ausdruck unserer vorzüglichen Hochachtung.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

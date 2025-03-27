@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/16005</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/16005">dodis.ch/16005</ref>
+                    <title type="main">Interne <objectType>Notiz </objectType>des Politischen Departements<note><idno type="CH-BAR">E 2808(-)1974/13/50</idno>. Paraphe: KI. Die Notiz wurde von <persName ref="https://dodis.ch/P97">R. Kohli</persName> verfasst.</note></title><title type="sub">Besprechung mit dem Departementschef</title>
+                    <unclear reason="Entity type: Place not found in section with ID:">11</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">14</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">75</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">743</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">900</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">6601</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">825</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">5640</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern,</placeName>
+                        <date when="1961-06-26">26. Juni 1961</date>
+                    </dateline>
+                </opener>
+                <p><emph>1. Vertretung der südafrikanischen Interessen in der <placeName ref="https://dodis.ch/G216">RAU</placeName>
+                   </emph><note>Zur Frage der Übernahme der Interessen <placeName ref="https://dodis.ch/G204">Südafrika</placeName>s in der Vereinigten Arabischen Republik vgl. das Telegramm von J.- <persName ref="https://dodis.ch/P145">L. Pahud</persName> an <persName ref="https://dodis.ch/P5">M. Petitpierre</persName> vom 15. Juni 1961, <orig><idno type="CH-BAR">E 2001(E)1976/17/256</idno> (<ref target="https://dodis.ch/16006">dodis.ch/16006</ref>).</orig></note></p>
+                <p>Der Departementschef zieht zu der Besprechung die HH. Minister <persName ref="https://dodis.ch/P2430">Burckhardt</persName> und Dr. <persName ref="https://dodis.ch/P11">Probst</persName> bei. Wir diskutieren nochmals alle Argumente für oder gegen eine ablehnende Antwort an <placeName ref="https://dodis.ch/G204">Südafrika</placeName>.</p>
+                <p>Gegen die Übernahme der Interessen sprechen namentlich: a) Die Politik der Apartheid, die die <placeName ref="https://dodis.ch/G204">Südafrika</placeName>nische Union gegenüber der schwarzen Rasse befolgt. Die Konsequenz war der Austritt <placeName ref="https://dodis.ch/G204">Südafrika</placeName>s aus dem Commonwealth. b) Die Reaktionen, die die Übernahme der südafrikanischen Interessen in der <placeName ref="https://dodis.ch/G216">RAU</placeName>, namentlich aber in den jungen afrikanischen Staaten hervorrufen müssten. Die Tatsache, dass das Vereinigte Königreich an der <orgName ref="https://dodis.ch/R202">UNO</orgName>-Generalversammlung in <placeName ref="https://dodis.ch/G23">New York</placeName> nicht gegen <placeName ref="https://dodis.ch/G127">Portugal</placeName> gestimmt hat, veranlasste</p>
+                <p><placeName ref="https://dodis.ch/G4568">Ghana</placeName> bereits die Frage aufzuwerfen, ob nicht das Vereinigte Königreich aus dem Commonwealth ausgeschlossen werden solle! Jede vernünftige Erklärung, die wir gleichzeitig mit der Übernahme der südafrikanischen Interessen abgeben könnten, würde in allen jenen Staaten ohne jede Wirkung bleiben. Wir dürfen nicht ausser acht lassen, dass wir es heute nicht mehr mit einer «Völkerrechtsgemeinschaft» oder, wenn man will, mit den Staaten des christlichen</p>
+                <p>Kulturkreises zu tun haben, sondern dass sich die Mehrheit der unabhängigen</p>
+                <p>Staaten heute aus Gebilden zusammensetzt, die ausserhalb des antik-christlichen Kulturkreises und damit der völkerrechtlichen Tradition stehen. c) Es ist richtig, dass die Schweiz bis anhin nie die Übernahme der Vertretung der Interessen eines fremden Staates abgelehnt hat. So haben wir während des letzten Weltkrieges die Interessen des nationalsozialistischen <placeName ref="https://dodis.ch/G5">Deutschland</placeName>
+                 vertreten<note>Zur Frage der Interessenvertretung des nationalsozialistischen <placeName ref="https://dodis.ch/G5">Deutschland</placeName> vgl. DDS, Bd. 13, Dok. 146, <ref target="https://dodis.ch/46903">dodis.ch/46903</ref>; DDS, Bd. 14, Dok. 85, <ref target="https://dodis.ch/47271">dodis.ch/47271</ref> mit Beilage und DDS, Bd. 16, Dok. 1, <ref target="https://dodis.ch/195">dodis.ch/195</ref><orig>(<ref target="https://dodis.ch/195">dodis.ch/195</ref>).</orig></note>. Heute haben wir aber bereits insofern ein gestörtes Gleichgewicht in der Übernahme der Mandate, als wir einzig und allein westliche Staaten vertreten<note>Die wichtigsten Interessenvertretungen durch die Schweiz waren 1961, die französischen Interessen in <placeName ref="https://dodis.ch/G216">Ägypten</placeName>, <placeName ref="https://dodis.ch/G2761">Jordanien</placeName>, <placeName ref="https://dodis.ch/G482">Irak</placeName> und <placeName ref="https://dodis.ch/G485">Syrien</placeName>, vgl. DDS, Bd. 20, Dok. 117, <ref target="https://dodis.ch/13159">dodis.ch/13159</ref>, den Bericht von <persName ref="https://dodis.ch/P10060">G. Bucher</persName> vom 24. November 1956, <orig><idno type="CH-BAR">E 2001(E)1976/17/431</idno> (<ref target="https://dodis.ch/12737">dodis.ch/12737</ref>)</orig> und die Notiz von <persName ref="https://dodis.ch/P5">M. Petitpierre</persName> vom 26. November 1956, <orig><idno type="CH-BAR">E 2800(-)1967/60/8</idno> (<ref target="https://dodis.ch/12909">dodis.ch/12909</ref>);</orig> die irakischen Interessen in <placeName ref="https://dodis.ch/G13">Frankreich</placeName>, vgl. DDS, Bd. 20, Dok. 89, <ref target="https://dodis.ch/12047">dodis.ch/12047</ref>; die iranischen Interessen in <placeName ref="https://dodis.ch/G1761">Israel</placeName>, vgl. den Bericht von <persName ref="https://dodis.ch/P140">A. Ganz</persName> vom 30. Januar 1958, <orig><idno type="CH-BAR">E 2001(E)1980/83/492</idno> (<ref target="https://dodis.ch/16141">dodis.ch/16141</ref>),</orig> das BR-Prot. Nr. 264 vom 11. Februar 1958, <orig><idno type="CH-BAR">E 1004.1(-)1000/9/610</idno> (<ref target="https://dodis.ch/16137">dodis.ch/16137</ref>)</orig> und die Notiz von J. de <persName ref="https://dodis.ch/P844">Rham</persName> an <persName ref="https://dodis.ch/P5">M. Petitpierre</persName> vom 13. Februar 1959, <orig><idno type="CH-BAR">E 2001(E)1976/17/72</idno> (<ref target="https://dodis.ch/16213">dodis.ch/16213</ref>);</orig> die Interessen der Vereinigten Staaten in <placeName ref="https://dodis.ch/G190">Kuba</placeName>, vgl. Nrn. 116 und 124 in diesem Band und die belgischen Interessen in <placeName ref="https://dodis.ch/G216">Ägypten</placeName>, vgl. den politischen Bericht von J.- <persName ref="https://dodis.ch/P145">L. Pahud</persName> an <persName ref="https://dodis.ch/P5">M. Petitpierre</persName> vom 8. März 1961, <orig><idno type="CH-BAR">E 2300(-)1000/716/175</idno> (<ref target="https://dodis.ch/15554">dodis.ch/15554</ref>).</orig></note>. Dieses Ungleichgewicht würde durch eine Zusage an <placeName ref="https://dodis.ch/G204">Südafrika</placeName>
+                 noch wesentlich verstärkt. d) Die südafrikanischen Interessen in der <placeName ref="https://dodis.ch/G216">RAU</placeName> sind ausserordentlich klein</p>
+                <p>(20–30 Staatsangehörige, etwa 6–7 Mio. Schweizerfranken Ausstände aus dem laufenden Warenverkehr). Der Schaden, der uns aus der Übernahme der südafrikanischen Interessen erwachsen würde, wäre in keinem Verhältnis zu dem geringen Nutzen für <placeName ref="https://dodis.ch/G204">Südafrika</placeName>. e) Es hat den Anschein, als hätte <placeName ref="https://dodis.ch/G204">Südafrika</placeName> bereits bei einem andern Staat angefragt und eine negative Antwort erhalten. Jedenfalls ist die <placeName ref="https://dodis.ch/G204">Südafrika</placeName>nische</p>
+                <p>Union erst 14 Tage nach Abbruch der Beziehungen an uns herangetreten. f) Wenn wir die südafrikanischen Interessen übernehmen wollten, müssten wir gleichzeitig eine Erklärung abgeben, mit der wir uns von der südafrikanischen Politik distanzieren würden. Dieses Vorgehen ist unbefriedigend, namentlich im Verhältnis zu <placeName ref="https://dodis.ch/G204">Südafrika</placeName>, während die Erklärung uns bei den afrikanischen Staaten nichts nützen würde.</p>
+                <p>Für die Annahme des Mandats sprechen: a) Die Notwendigkeit, im Falle der Ablehnung eine bewährte Praxis aufgeben zu müssen. b) Dass mit der Ablehnung ein Präzedenzfall geschaffen würde, der uns auch rein praktisch in Schwierigkeiten führen könnte. Es wäre zum Beispiel kaum denkbar, dass wir die Wahrung der Interessen eines Drittstaates in <placeName ref="https://dodis.ch/G204">Südafrika</placeName> übernehmen könnten. Ebenso wäre es wohl schwer zu rechtfertigen, die</p>
+                <p>Interessen <placeName ref="https://dodis.ch/G127">Portugal</placeName>s (d. h. eines <orgName ref="https://dodis.ch/R10096">EFTA</orgName>-Mitgliedes!) in einem afrikanischen</p>
+                <p>Staat anzunehmen.</p>
+                <p>Der Departementschef beschliesst, die Frage nochmals dem <orgName ref="https://dodis.ch/R6">Bundesrat</orgName>
+                 vorzulegen<note>Schon an der <orgName ref="https://dodis.ch/R6">Bundesrat</orgName>ssitzung vom 19. Juni 1961 wurde die Vertretung der südafrikanischen Interessen in der <placeName ref="https://dodis.ch/G216">VAR</placeName> diskutiert, vgl. das <orig>Verhandlungsprotokoll der 46. Sitzung des <orgName ref="https://dodis.ch/R6">Bundesrat</orgName>es vom 19. Juni 1961, <idno type="CH-BAR">E 1003(-)1994/26/1</idno> (<ref target="https://dodis.ch/16007">dodis.ch/16007</ref>)</orig> und das <orig>Verhandlungsprotokoll der 48. Sitzung des <orgName ref="https://dodis.ch/R6">Bundesrat</orgName>es vom 27. Juni 1961,</orig> ibid.</note>. Eine ablehnende Antwort sollte möglichst bald erfolgen und zwar im Sinne einer Empfehlung an die südafrikanische Regierung, das Gesuch zurückzuziehen, um eine Absage zu vermeiden. Begründet könnte die Absage auch damit werden, dass wir in der <placeName ref="https://dodis.ch/G216">RAU</placeName> bereits die französischen und belgischen Interessen vertreten und schon wegen der materiellen Voraussetzung</p>
+                <p>(Personalmangel) das neue Mandat nicht mit der Zuverlässigkeit ausführen könnten, zu der wir gewohnt sind<note>Die ablehnende Antwort wurde den schweizerischen Botschaften in Kairo und Pretoria am 28. Juni 1961 übermittelt, cf. das Telegramm vom 28. Juni 1961, <orig><idno type="CH-BAR">E 2001(E)1976/17/256</idno></orig>. Das Gesuch wurde von der südafrikanischen Botschaft in Bern zurückgezogen, cf. die Notiz von <persName ref="https://dodis.ch/P11">R. Probst</persName> vom 3. Juli 1961, ibid.</note>.</p>
+                <p><emph>
+                        <add type="edition">[…]</add>
+                   </emph><note>Weitere besprochene Themen waren der Besuch des Aussenministers von Nord-Vietnam beim Departementschef und der Auslandschweizertag.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42134</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42134">dodis.ch/42134</ref>
+                    <title type="main">Der schweizerische Gesandte in <placeName ref="https://dodis.ch/G361">Rom</placeName>, <persName ref="https://dodis.ch/P16328">G. B. Pioda</persName>, an den Bundespräsidenten und Vorsteher des Politischen Departements, <persName ref="https://dodis.ch/P27911">B. Hammer</persName><note>Bericht: <idno type="CH-BAR">E 22/1665</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">33102</unclear>
+                </head>
+                <opener>
+                    <add>Très-confidentielle</add>
+                    <dateline>
+                        <placeName>Rome,</placeName>
+                        <date when="1879-02-07">7 février 1879</date>
+                    </dateline>
+                </opener>
+                <p>Je regrette de n’avoir pu répondre plus tôt à la lettre<note>Nr. 140.</note> confidentielle de M. le Président <persName ref="https://dodis.ch/P15817">Schenk</persName> du 16 Novembre dr. concernant les rapports entre la Suisse et le <placeName ref="https://dodis.ch/G712">Vatican</placeName>. Mais comme <persName ref="https://dodis.ch/P15817">M. Schenk</persName> le prévoyait, ce n’est pas la chose la plus aisée que d’avoir des renseignements précis sur ce qui se passe dans la Chancellerie papale.</p>
+                <p>J’ai maintenant l’honneur de vous transmettre ci-joint les informations<note>Als Annex abgedruckt.</note> que j’ai enfin obtenues et qui ont été puisées, j’ai lieu de le croire, à une bonne source.</p>
+                <p>On agite, comme vous saurez, depuis quelque temps au sein du clergé tessinois et dans les sphères oficielles du Canton, la question de l’institution d’un évêché tessinois. <persName ref="https://dodis.ch/P33873">Léon XIII</persName> doit s’en être occupé aussi. Je me réserve de vous faire part en son temps des renseignements que j’aurai recueillis à ce sujet.<note>Vgl. Nr. 157.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

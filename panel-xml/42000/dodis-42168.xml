@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42168</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42168">dodis.ch/42168</ref>
+                    <title type="main">Der schweizerische Gesandte in <placeName ref="https://dodis.ch/G18">Paris</placeName>, <persName ref="https://dodis.ch/P19415">J. K. Kern</persName>, an den Bundespräsidenten und Vorsteher des Politischen Departements, <persName ref="https://dodis.ch/P15816">N. Droz</persName><note>Bericht: <idno type="CH-BAR">E 13 (B)/173</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">33820</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Paris,</placeName>
+                        <date when="1881-04-16">16 avril 1881</date>
+                    </dateline>
+                </opener>
+                <p>Ainsi que Vous l’annonçait mon rapport du 13 Avril n<hi>o</hi> 60<note>Nicht abgedruckt.</note>, j’ai demandé au Ministre du Commerce une audience pour connaître son opinion à l’égard des négociations à engager entre les deux pays en vue de la révision <emph>du traité de commerce. </emph></p>
+                <p><persName ref="https://dodis.ch/P33260">M. Tirard</persName>, qui devait quitter <placeName ref="https://dodis.ch/G18">Paris</placeName> pour quelques jours, m’a reçu hier.</p>
+                <p>Il a déclaré que le tarif général français allait être très prochainement promulgué &amp; que cette promulgation entraînait, <emph>ipso facto, </emph>la dénonciation de la plupart des traités de commerce conclus par la <placeName ref="https://dodis.ch/G13">France</placeName>; pour le traité franco-suisse, qu’il faudrait une dénonciation spéciale, qui interviendrait de manière à coïncider avec la promulgation du tarif général.<note>Die Kündigung erfolgte am 8. 5.1881 <orig>(<idno type="CH-BAR">E 13 (B)/173</idno>).</orig></note> – Par suite, a continué <persName ref="https://dodis.ch/P33260">M. Tirard</persName>, il y a lieu de commencer sans retard les négociations pour arriver à la conclusion d’un nouveau traité.</p>
+                <p>J’ai demandé alors à <persName ref="https://dodis.ch/P33260">M. Tirard</persName> s’il n’y aurait pas lieu de procéder comme en 1860, c’est à dire successivement, d’abord avec l’<placeName ref="https://dodis.ch/G14">Angleterre</placeName> puis avec les autres Etats; il semblerait fort difficile, pour ne pas dire impossible, de mener de front des négociations aussi délicates et aussi importantes avec une série d’Etats en même temps.<note>MitNote vom27. 5.1881 wurde der schweizerischen Gesandtschaft in <placeName ref="https://dodis.ch/G18">Paris</placeName> eröffnet: <orig>Le Gouvernement français désire, comme le Gouvernement helvétique, engager le plus tôt possible la négociation d’un nouveau traité de commerce entre les deux Pays. Il lui paraît, toutefois, nécessaire d’attendre que la négociation de même nature qui vient de s’ouvrir à <placeName ref="https://dodis.ch/G55">Londres</placeName>, soit, sinon terminée, au moins très avancée. [...] ( <idno type="CH-BAR">E 2200 Paris 1/147</idno>).</orig></note></p>
+                <p><persName ref="https://dodis.ch/P33260">M. Tirard</persName> a répliqué qu’en effet, cela serait extrêmement lourd pour lui comme travail, mais que deux motifs principaux l’y obligeaient; d’une part, une loi française stipule formellement que les traités de commerce cesseront six mois après la promulgation du tarif général; la loi impose donc au Gouvernement l’obligation ou d’arriver à la conclusion de nouveaux traités, ou d’appliquer le tarif général dans six mois. – D’autre part, les Chambres françaises désirent en finir avec les discussions douanières &amp; l’incertitude des tarifs, &amp; le Gouvernement, qui n’a plus le droit, comme sous l’Empire, de conclure des traités de ce genre sans le concours du Parlement, est tenu de déférer à ce vœu des Chambres.</p>
+                <p><persName ref="https://dodis.ch/P33260">M. Tirard</persName> a continué en faisant observer que, d’ailleurs, les négociations seront simplifiées par le fait que la <placeName ref="https://dodis.ch/G13">France</placeName> désire le maintien du <emph>status quo. </emph>– Le tarif conventionnel sera pris pour base à peu près partout ou il contient des droits spécifiques. Là où il est question de droits à la valeur, on leur substituerait les taxes du tarif général nouveau, diminuées de 24%, ces taxes spécifiques étant la traduction des droits <emph>ad valorem </emph>du tarif conventionnel avec une augmentation d’un quart environ.</p>
+                <p>J’ai fait observer alors que, pour beaucoup d’articles importables, d’après le tarif conventionnel, contre paîment d’une taxe spécifique, il s’était produit depuis vingt ans des modifications de prix considérables, &amp; qu’il y aurait lieu, par suite, de revoir &amp; de débattre non seulement les articles tarifés <emph>ad valorem </emph>mais aussi les articles précédemment tarifés au poids. J’ai rappelé que des travaux d’industriels suisses des plus compétents faits en 1876/77 avaient constaté que le transfert de droits ad valorem renfermait très souvent un <emph>déguisement </emph>d’une augmentation <emph>très considérable des droits.<note>Vgl. Nr. 107, Annex.</note>
+                    </emph></p>
+                <p><persName ref="https://dodis.ch/P33260">M. Tirard</persName> a dit alors que le moment n’était pas venu d’entrer dans les détails, mais que ces détails devaient être renvoyés aux négociations elles-mêmes.</p>
+                <p>Je n’ai pas manqué de répliquer que son prédécesseur, M. Teisserenc de Bort, dans une dépêche officielle adressée au Ministre des Affaires Etrangères sous date du 6 février 1877 &amp; communiquée par ce dernier à la Légation suisse, avait donné l’assurance que la question de la révision du tarif &amp; notamment celle de la transformation des droits ad <emph>valorem </emph>en droits spécifiques «devait être étudiée <emph>contradictoirement, bona fide, </emph>etc., ce qui impliquerait des négociations très détaillées &amp; d’une longue durée.<note>Nr. 110, Annex.</note> J’ai lu en face du Ministre tout le passage de la dépêche de Tesserein [!] de Bort du 6Févr. 1877 reproduit dans mon rapport du 13 Avril a. C.<note>Nr. 110.</note></p>
+                <p><persName ref="https://dodis.ch/P33260">M. Tirard</persName> a répété que tous ces points feraient l’objet des pourparlers &amp; des négociations futures, dont l’ouverture ne pouvait tarder. – Il a annoncé qu’avec l’<placeName ref="https://dodis.ch/G14">Angleterre</placeName>, elles devaient commencer immédiatiement et que le délégué britannique allait arriver, s’il n’était déjà à <placeName ref="https://dodis.ch/G18">Paris</placeName>.</p>
+                <p>Comme Vous le voyez, Monsieur le Président, si <persName ref="https://dodis.ch/P33260">M. Tirard</persName> n’a pas dit «c’est à prendre ou à laisser» comme à <persName ref="https://dodis.ch/P33121">Lord Lyons</persName>, il n’en a pas moins été extrêmement positif sur l’urgence d’entamer les négociations, et très réservé concernant les modifications futures.</p>
+                <p>Dans cet état de choses &amp; pour répondre à deux communication récentes du Département fédéral du Commerce, il paraît qu’il y a lieu de se mettre, sans le moindre retard, à la préparation des instructions.</p>
+                <p>Dans ce but, il semblerait désirable</p>
+                <p><emph>1° </emph>de réunir &amp; de faire autographier, <emph>par industries, </emph>les diverses observations formulées par les Cantons, associations commerciales &amp; industrielles, fabricants, négociants etc <emph>en Suisse.</emph><note><orig><idno type="CH-BAR">E 13 (B)/173, 177 und 178</idno>.</orig></note></p>
+                <p><emph>2° </emph>de faire le même travail en ce qui concerne les demandes <emph>françaises, </emph>pour autant que ces demandes soient consignées dans les travaux du Comité consultatif, du Conseil supérieur du Commerce, de la Commission du tarif général des Douanes &amp; dans les débats des Chambres françaises – au moins en ce qui concerne les principaux articles du commerce franco-suisse. – De simples renvois aux pages correspondantes des publications françaises suffiront probablement.</p>
+                <p><emph>3° </emph>de réunir en un volume, sous forme de tableau synoptique, le tarif actuel des péages fédéraux<note>Vgl. das Zolltarifgesetz vom 27.8.1851 <orig>(AS 1850-1851, II, S. 555-576).</orig></note>, le tarif voté en lère délibération<note>Vgl. den Zolltarifentwurf vom 28. 6. <orig>/S7S(BBl 1878, 3, S. 517-576).</orig></note>, le tarif conventionnel francosuisse actuellement en vigueur<note><orig>AS 1863-1866, VIII, S. 241-310.</orig></note> &amp; le tarif général français <emph>nouveau.</emph><note>Vgl. <orig>Loi relative à l’établissement du tarif général des douanes.</orig> In: <orig>Journal Officiel de la <placeName ref="https://dodis.ch/G13">République française</placeName>, treizième année, N<hi>o</hi> 126. 8 Mail881, S. 2521–2536 (<idno type="CH-BAR">E 13 (B)/177</idno>).</orig></note> – En regard de chaque article, il serait utile d’indiquer le chiffre des importations &amp; exportations franco-suisses en 1879 d’après les documents français (commerce général &amp; spécial) et d’après la statistique des péages fédéraux. – Une colonne devrait contenir le taux d’évaluation de chaque Kilog. pour les marchandises taxées au poids, d’après la commission des valeurs en douane en 1879.</p>
+                <p><emph>4° </emph>de dresser un tableau des articles à rayer du tarif à l’entrée en Suisse, pour éviter que ce tarif contienne des articles qui ne figurent pas dans le tarif à l’entrée en <placeName ref="https://dodis.ch/G13">France</placeName> – on a eu le tort, en 1864, d’insérer dans le tarif B une série de marchandises qui ne figurent pas dans le tarif A &amp; de lier ainsi la Suisse lorsque la <placeName ref="https://dodis.ch/G13">France</placeName> conservait sa liberté pour les mêmes produits. J’ai en 1864 vivement insisté auprès du <emph>Départfement] </emph>fédéral du Commerce de <emph>rayer </emph>les articles dans le tarif conventionnel pour la Suisse qui ne se trouvaient pas dans le tarif conventionnel français, mais ma proposition <emph>n’a pas été adoptée. </emph>(Voir la correspondance de cette époque, et mon rapport sur la question du tabac et des spiritueux. DD.... adressé au <emph>Dép<add type="edition">[artement]</add>fédféraljdu </emph>Commerce.<note>Nicht ermittelt.</note></p>
+                <p><emph>5° </emph>de convoquer, dès l’achèvement des travaux préparatoires ci-dessus ou même sans attendre cet achèvement, les commissions qui se sont déjà occupées de la préparation des négociations, &amp; de leur soumettre à nouveau a) la question des droits sur les articles déjà tarifés au poids en 1864 b) la question de la transformation des droits <emph>ad valorem </emph>sur la base du tarif général voté par les Chambres françaises.<note>Vgl. <orig>Révision du Traité franco-suisse. Compte-rendu de la session de la Commission de Commissaires et d’Experts. 15–17 Août 1881 (<idno type="CH-BAR">E 13 (B)/178</idno>)</orig> undNr. 191, Anm. 2.</note></p>
+                <p>Tel est l’ensemble des principales mesures à prendre, semble-t-il, d’urgence en ce qui concerne la révision du traité de commerce, indépendamment de la révision des autres traités du 30 Juin 1864, révision sur laquelle il y aura lieu de revenir d’une manière spéciale.</p>
+                <p>En restant à Votre plus entière disposition pour tout ce qui concerne les travaux préparatoires, j’ai l’honneur de Vous renouveler, Monsieur le Président, les assurances de ma très haute considération.</p>
+                <p>Tout en supposant qu’une bonne partie des travaux ci-dessus indiqués se trouvent déjà préparée au bureau du <emph>Départ<add type="edition">[ement </add></emph>de Commerce, j’ai trouvé nécessaire de les mentionner dans leur ensemble.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

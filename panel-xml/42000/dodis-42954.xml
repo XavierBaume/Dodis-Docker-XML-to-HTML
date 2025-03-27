@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42954</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42954">dodis.ch/42954</ref>
+                    <title type="main">Der schweizerische Konsul in <placeName ref="https://dodis.ch/G5959">Kiew</placeName>, <persName ref="https://dodis.ch/P19846">C. Würgler</persName>, an den Bundes Präsidenten und Vorsteher des Politischen Departementes, <persName ref="https://dodis.ch/P34791">M. Ruchet</persName><note>Schreiben: <idno type="CH-BAR">E 2001 (A), Archiv-Nr. 1711</idno>.</note></title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Kiew,</placeName>
+<date when="1905-12-31"> 18./31. Dezember 1905</date>
+
+                    </dateline>
+                </opener>
+                <p><emph>
+                        <add type="edition">[...] </add>
+                    </emph>
+                </p>
+                <p>Die gegenwärtige Bewegung, die sich über ganz <placeName ref="https://dodis.ch/G10073">Russland</placeName> ausgebreitet hat und sich in den Städten durch grössere und kleinere, von Zeit zu Zeit ein tretende Unruhen, grössere Streiks etc. characterisirt, auf dem Lande aber in Raub, Vernichtung &amp; Einäscherungen des Eigentums der Gutsbesitzer etc. ausartet, hat die auswärtigen Regierungen in grosse Besorgnis um ihre Staatsangehörigen versetzt. Die meisten Mächte haben auch nicht versäumt, bei dem russischen Ministerium des Äussern, behufs Aufklärung über die Lage und die zum Schutze ihrer Staatsangehörigen zu ergreifenden Massregeln, vorstellig zu werden. Dieser gemeinsam auf die Regierung ausgeübte Druck hatte zur Folge, dass letzthin an alle Gouverneure die stricte Order erging, den Ausländern, bei eintretenden Unruhen, den nötigen Schutz angedeihen zu lassen, woraufhin die Gouverneure, ihrerseits, die Consulate schriftlich ersuchten, ihnen die genauen Adressen ihrer Landsleute namhaft zu machen. Ich für meinen Teil habe in den hiesigen, sowie in einer <placeName ref="https://dodis.ch/G5941">Charkow</placeName>er Zeitung, Annoncen einrücken lassen, mit der Aufforderung an alle Schweizerbürger um Aufgabe ihrer genauen Adressen. Die Adressen-Liste der in <placeName ref="https://dodis.ch/G5959">Kiew</placeName> lebenden Schweizerbürger und -bürgerinnen (118 an der Zahl) habe ich dem hiesigen Gouverneur bereits eingereicht; auf die <placeName ref="https://dodis.ch/G5941">Charkow</placeName>er Annonce dagegen sind mir, durch beinahe völlige Isolierung dieser Stadt, infolge anhaltender Streike und Unruhen, noch keine Nachrichten zugekommen.</p>
+                <p>Des weitern erklärte ich allen Landsleuten, dass obwohl - laut Convention - die Russische Regierung verpflichtet ist, für die persönliche Sicherheit, sowie diejenige des Eigentums der sich in <placeName ref="https://dodis.ch/G10073">Russland</placeName> aufhaltenden Schweizerbürger und -bürgerinnen, volle Garantie zu leisten, es dennoch unbestimmt ist, wie weit solche in den gegenwärtigen revolutionären Zeiten, z. B. für körperliche Verletzungen, geht und empfehle desshalb allen Landsleuten, bei Unruhen sich nicht auf die Strasse zu begeben und von Ansammlungen fern zu halten. Für den Fall aber, dass körperliche Verletzungen unserer Landsleute dennoch Vorkommen sollten, verlange ich von denselben 1. ärztliche Atteste über die Art der Verletzung, 2. klare Beschreibung des Sachverhalts und womöglich 3. Zeugen-Bescheinigung des Vorgefallenen; bei materiellen Schäden 1. die Aufführung aller beschädigten Waren, Effecten etc. und Bescheinigung der Thatsache durch möglichst competente Zeugen. Derartige Schadensersatzforderungen an die russische Regierung werde ich dann, solange die Schweizerische Gesandtschaft in <placeName ref="https://dodis.ch/G3147">St. Petersburg</placeName> nicht errichtet ist, Ihnen zur weitern Beförderung einreichen.</p>
+                <p>Was grössere Unruhen in meinem Consularbezirk anbetrifft, so sind bis jetzt die ernstesten in <placeName ref="https://dodis.ch/G5941">Charkow</placeName> vorgekommen; in welchem Masstabe jedoch dieselben dort die Schweizerbürger gefährdeten, konnte ich, infolge Isolierung der Stadt von allen Verkehrsmitteln, bis jetzt nicht in Erfahrung bringen und ist es auf alle Fälle ein Fehler der dortigen Schweizerkolonie gewesen, dass sie mich nicht auf die bevorstehenden Gefahren rechtzeitig aufmerksam gemacht hat. Ich hätte sofort die nöthigen Massnahmen beim dortigen Gouverneur getroffen, wie dies in <placeName ref="https://dodis.ch/G5959">Kiew</placeName> geschehen ist, wo bei allen ernsteren Gerüchten über bevorstehende Unruhen sofort beim Gouverneur Aufschluss erfragt wird. -</p>
+                <p>Eine grössere Schädigung erlitt bisher der Schweizerbürger <persName ref="https://dodis.ch/P34925">August von Schulthess</persName>, Pächter der Chruszczower Ökonomie, Poststation <placeName ref="https://dodis.ch/G12469">Krasnopolje</placeName>, <placeName ref="https://dodis.ch/G5941">Charkow</placeName>er Gouvernement, bei dem mehrfache Bauernüberfälle vorkamen wobei ca. 4000 Pud Heu, 4000 Pud Haferstroh, Getreide, diverse andere Produkte, Materialien und Inventar gewaltsam von den Bauern mitgenommen wurde. Herr <persName ref="https://dodis.ch/P34925">von Schulthess</persName>, sowie auch ich sind diesbezüglich beim <placeName ref="https://dodis.ch/G5941">Charkow</placeName>er Gouverneur vorstellig geworden, jedoch, leider, ohne Erfolg, indem er über zu wenig Truppen verfügt, um auf alle bedrohten Güter den nötigen militärischen Schutz zu entsenden. Herr <persName ref="https://dodis.ch/P34925">von Schulthess</persName> wird daher eine Schadenersatzforderung einreichen, die wir Ihnen nach Erhalt weitergeben werden.<note>Bezüglich Schadenersatzforderungen an die russische Regierung vgl. <orig>GBer. 1905, BBl 1906, II, S. 384, Nr. 10.</orig></note></p>
+                <p>Die Frage, ob der Moment gekommen sei, russischen Boden zu verlassen, ist schwer zu beantworten, dürfte jedoch, meines Erachtens, der Entscheidung noch nicht genügend nahe gekommen sein. Wie die jüngsten grossen Unruhen wieder zeigten, ist die Regierung, Dank der Standhaftigkeit des Militärs, doch noch stark genug, dieselben zu unterdrücken, obschon es sich frägt, für wie lange; denn trotz Repressalien, Militärdiktatur etc. wird sich das reaktionäre System nicht mehr lange halten und dem Lande auch keine geregelten Zustände mehr verschaffen können. - Allerdings wird die Regierung gezwungenermassen im letzten Momente wieder Concessionen zugestehen, das Volk hat aber das Zutrauen schon lange verloren und wird sich nicht mehr mit leeren Versprechungen, sondern nur noch mit Taten begnügen. Im Allgemeinen darf über die Situation gesagt werden, dass so ohnmächtig die Regierung auf der einen Seite ist, so unentschlossen, uneinig und unorganisirt handeln auf der ändern Seite die vielfachen Reformparteien, sodass es nicht vorauszusehen ist, ob es überhaupt und wann zum Ausbruch einer allgemeinen Revolution kommt. -</p>
+                <p>Dass es - aus diesem Grunde - den meisten Ausländern schwer fällt, <placeName ref="https://dodis.ch/G10073">Russland</placeName> jetzt schon zu verlassen, ist begreiflich, denn die wenigsten sind in der Lage ihre Geschäftsangelegenheiten momentan liquidiren zu können. Zudem darf man mit Bestimmtheit erwarten, dass nach Legung der Unruhen und mit dem Eintreten geregelter Zustände, ein grosser Aufschwung in Handel und Industrie eintreten wird. Jedenfalls gemessen die hier ansässigen Ausländer mehr Schutz und sind den Gefahren weniger ausgesetzt als die Landesangehörigen selbst.</p>
+                <p>Indem ich Ihnen dies über die gegenwärtige Lage der Dinge berichte, erlaube mir gleichzeitig bei Ihnen anzufragen, wann die Schweizerische Gesandtschaft in <placeName ref="https://dodis.ch/G3147">St. Petersburg</placeName>, deren Gründung bereits beschlossen ist, ihr Amt antreten wird, da sie gerade in den gegenwärtigen Zeiten wertvolle Dienste zu leisten im Stande wäre.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

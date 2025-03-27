@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42805</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42805">dodis.ch/42805</ref>
+                    <title type="main">Le Ministre de Suisse à <placeName ref="https://dodis.ch/G18">Paris</placeName>, Ch. <persName ref="https://dodis.ch/P5840">Lardy</persName>, au Président de la Confédération et Chef du Département politique, <persName ref="https://dodis.ch/P28812">J. Zemp</persName><note>Lettre: <idno type="CH-BAR">E 2001 (A) 627</idno>.</note></title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Paris,</placeName>
+                        <date when="1902-04-11">11 avril 1902</date>
+                    </dateline>
+                </opener>
+                <p>Il vaut toujours mieux ne pas se laisser surprendre par les événements; si donc, contre attente, l’incident <persName ref="https://dodis.ch/P34308">Silvestrelli</persName> devait donner lieu à des mesures militaires, je désirerais recevoir quelques instructions générales sur les points suivants:</p>
+                <p>I. 1) Quelles catégories d’hommes en congé à l’étranger seront appelés, à rejoindre leur corps? Tous les hommes de l’élite? ou seulement certaines classes d’âge parmi les hommes de l’élite? – <emph>Quid </emph>de la Landwehr premier Ban? – Je suppose que les hommes de la Landwehr second Ban ne sont pas appelés.</p>
+                <p>2) Quelles catégories d’officiers en congé ici devraient rejoindre leurs corps?</p>
+                <p>3) <emph>Quid </emph>de l’<placeName ref="https://dodis.ch/G896">Algérie</placeName> et des colonies?</p>
+                <p>4) Ceux de mes collaborateurs qui sont officiers ou soldats doivent-ils donner le pas à leur caractère militaire ou à leurs fonctions civiles.</p>
+                <p>Comme ils donneraient forcément la préférence à la première alternative, il faudrait que je puisse leur opposer un ordre, du moins à quelques-uns d’entre</p>
+                <p>II. Au point de vue financier, je pense qu’il y aurait lieu de remettre des bons de transport, dans les conditions du rapatriement ordinaire des indigents, à tous les hommes qui se présenteraient munis de leurs livrets militaires constatant qu’ils appartiennent aux classes appelées sous les drapeaux, et qui déclareraient ne pas pouvoir faire le voyage à leurs frais. J’ai demandé il y a huit jours et je vais recevoir 20 cahiers et bons de transport sur les lignes suisses et j’ai commandé un millier de bons sur chacune des lignes de l’Est et du PLM. Je me réserve cependant d’examiner s’il ne serait pas possible de faire deux ou trois trains spéciaux <placeName ref="https://dodis.ch/G18">Paris</placeName>–<placeName ref="https://dodis.ch/G1020">Delle</placeName> et <placeName ref="https://dodis.ch/G18">Paris</placeName>–<placeName ref="https://dodis.ch/G1032">Pontarlier</placeName> où l’on serait admis sur présentation de son livret militaire. Cela économiserait des écritures sans fin et ne coûterait peut-être pas plus cher; bien entendu je n’ai parlé de cette idée à personne mais je la formule parce que j’ai eu à diriger en août–septembre 1870 et ensuite pendant la Commune de <placeName ref="https://dodis.ch/G18">Paris</placeName> le rapatriement d’une trentaine de mille indigents suisses, bavarois et badois; nous avons eu à délivrer jusqu’à 2000 billets par jour; des trains spéciaux simplifieraient énormément la besogne si on peut leur donner une publicité préalable suffisante.</p>
+                <p>Notre caisse de Secours a quelques milliers de francs disponibles en sorte qu’à ce point de vue, il n’y a pas de question pour le moment.</p>
+                <p>Je suppose que, si l’on procède aux rapatriements individuels par billets nominatifs, nous ne devrions remettre de billets qu’aux sous-officiers et soldats qui déclareraient être hors d’état de faire le voyage à leurs frais. Dans le doute, il faudrait payer.<note>Le 17 avril 1902, le DPF répond à <persName ref="https://dodis.ch/P5840">Lardy</persName>: <orig>En vous remerciant de votre dépêche du 11 avril n<hi>o</hi> 20/02, nous avons l’honneur de vous informer que notre différend avec l’<placeName ref="https://dodis.ch/G77">Italie</placeName> n’implique pas un danger de guerre; le Département militaire ne songe donc pas, pour le moment, à prendre les mesures visées dans votre dépêche précitée (<idno type="CH-BAR">E 2001 (A) 627</idno>).</orig></note></p>
+                <p>En vous priant de voir dans la présente lettre une simple mesure de précaution administrative <emph><add type="edition">[...]</add></emph></p>
+            </div>
+        </body>
+    </text>
+</TEI>

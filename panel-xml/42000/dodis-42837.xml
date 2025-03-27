@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42837</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42837">dodis.ch/42837</ref>
+                    <title type="main">
+                        <persName ref="https://dodis.ch/P552">Max</persName> H über au Président de la Confédération et Chef du Département politique, <persName ref="https://dodis.ch/P33470">A. Deucher</persName><note>Lettre: <idno type="CH-BAR">E 2001 (A) 978</idno>. Note marginale: <orig>Copie ans Handelsdep.</orig></note></title>
+                    <unclear reason="Entity type: Place not found in section with ID:">3147</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">798</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Zürich,</placeName>
+                        <date when="1903-04-05">5. April 1903</date>
+                    </dateline>
+                </opener>
+                <p>Anlässlich von Besprechungen über <emph>die diplomatische und konsularische Vertretung der Eidgenossenschaft in <placeName ref="https://dodis.ch/G47">Asien</placeName>
+                    </emph>wurde ich zu wiederholten Malen darauf aufmerksam gemacht, dass speziell mit Bezug auf <placeName ref="https://dodis.ch/G45">Japan</placeName> mein im Jahre 1902 an Sie gerichteter, vom Schweizerischen Handels- und Industrie-Verein publizierter Bericht<note>Cf. <orig>Bericht über die Möglichkeit der Erweiterung der Handelsbeziehungen der Schweiz mit Australien und mit <placeName ref="https://dodis.ch/G29">China</placeName>. Erstattet von Dr. <persName ref="https://dodis.ch/P552">Max Huber</persName>. Datiert Dampfer Kasuga Maru, Juli 1901, und <placeName ref="https://dodis.ch/G220">Chicago</placeName>, November 1901. Mit Erlaubnis des Verfassers als Manuskript hsg. vom Vorort des Schweizerischen Handels- und Industrie-Vereins, Zürich, Berichthaus, 1902.</orig></note> einen ganz ändern Standpunkt vertrete als der vom Jahre 1901.<note><orig>Bericht über die Möglichkeit der Erweiterungen der Handelsbeziehungen der Schweiz mit <placeName ref="https://dodis.ch/G2224">Ostasien</placeName> insbesondere <placeName ref="https://dodis.ch/G45">Japan</placeName>, <placeName ref="https://dodis.ch/G52">Hongkong</placeName>, Chonchinchina, <placeName ref="https://dodis.ch/G202">Siam</placeName>, Straits Settlements und Niederländisch Indien, erstattet von <persName ref="https://dodis.ch/P552">Max Huber</persName>, April 1901, als Manuskript gedruckt, Zürich, Druck. Berichtshaus, 1901.</orig> Cf. <idno type="CH-BAR">E 2001 (A) 978</idno>.Dans ce rapport, <persName ref="https://dodis.ch/P552">Huber</persName> écrit à la page 33: <orig>Eine schweizerische Gesandtschaft in <placeName ref="https://dodis.ch/G45">Japan</placeName> könnte unmöglich irgendwelchen kommerziellen Wert haben; auch die der Grossmächte haben keinen. Diese vermeiden in kommerziellen Angelegenheiten fast jeden Druck auf <placeName ref="https://dodis.ch/G45">Japan</placeName>, weil sie die diplomatischen Beziehungen mit dieser ostasiatischen Grossmacht mehr unter dem Gesichtspunkte der hohen Politik betrachten, und sie durch energische Massregeln dem Handel ihres eigenen Landes mehr schaden würden als dem <placeName ref="https://dodis.ch/G45">Japan</placeName>s. Der Gesandte eines Landes, welches in <placeName ref="https://dodis.ch/G2224">Ostasien</placeName> politisch bedeutungslos ist, wäre mehr als jeder andere ein Spielball für die überlegene japanische Diplomatie. In <placeName ref="https://dodis.ch/G45">Japan</placeName> haben die Konsuln den grössten Teil ihrer praktischen Bedeutung verloren durch die Aufhebung der Konsular-Gerichtsbarkeit.</orig></note> Es wurde auch die Wünschbarkeit einer Darlegung dieser Abweichung gegenüber den massgebenden Behörden betont, und ich gestatte mir deshalb, Ihnen im folgenden den Widerspruch zwischen den beiden Berichten zu erklären.</p>
+                <p>1. Als ich im Herbst 1900 in <placeName ref="https://dodis.ch/G8897">Yokohama</placeName> weilte, hatte ich keine Gelegenheit, mit dem schweizerischen Generalkonsul noch mit demjenigen eines ändern Staates die für meine Berichterstattung erheblichen Fragen zu diskutieren. Aus diesem Grunde und auch deshalb, weil ich als Nichtkaufmann mich in diesen Dingen soweit möglich auf die Ansichten von Fachleuten stützen wollte, beschränkte ich mich im allgemeinen darauf, zu konstatieren wie die massgebenderen Kaufleute am Platze urtheilten. Die entschieden ablehnende Haltung der in <placeName ref="https://dodis.ch/G45">Japan</placeName> etablierten Kaufleute – wenigstens der Mehrheit derselben – erklärt sich vornehmlich daraus, dass wie ich im Bericht 1902 über <placeName ref="https://dodis.ch/G29">China</placeName> ausführte, die Interessen der überseeischen Schweizer sich keineswegs decken mit denjenigen der exportierenden Firmen, d. h. Fabrikanten in der Schweiz. Es kommt ferner hinzu, dass vielfach in kaufmännischen Kreisen, die kein Interesse an staatlicher Intervention haben, eine solche schlechthin als wertlos erklärt wird, ein Urteil, welches, weil aus der Mitte der Praktiker kommend, oft grosses Gewicht hat, grösseres oftmals, als es im konkreten Falle verdient.</p>
+                <p>2. Die ablehnende Haltung eines grossen Theils der Schweizer in <placeName ref="https://dodis.ch/G45">Japan</placeName> gegenüber dem Plan der Errichtung einer Gesandtschaft im Osten ist eine principielle, um nicht zu sagen doktrinäre; nur zum geringsten Theile scheinen Personenfragen mitzuspielen; solche werden vielfach aus bestimmten Gründen in den Vordergrund geschoben. Meine Erfahrungen, die ich in verschiedenen Schweizerkolonien gemacht habe, lassen mich die an den Konsulen geübte Kritik einigermassen skeptisch betrachten.</p>
+                <p>3. Ein dritter Grund, welcher mich aber namentlich bestimmte, meine Ansicht zu wechseln ist der, dass ich in dem Bericht von 1901 die Unkosten einer schweizerischen Gesandtschaft im Osten gegenüber denjenigen eines Generalkonsulats ganz bedeutend überschätzte und namentlich die Combination <placeName ref="https://dodis.ch/G45">Japan</placeName>s, <placeName ref="https://dodis.ch/G29">China</placeName>s und <placeName ref="https://dodis.ch/G33">Korea</placeName>s für eine gemeinschaftliche diplomatische Agentur noch gar nicht in Betracht zog. Dieser letztere Punkt, namentlich die Bearbeitung <placeName ref="https://dodis.ch/G29">China</placeName>s, ist das durchaus Ausschlaggebende in meinen Augen.</p>
+                <p><emph><add type="edition">[...]</add></emph><note>En 1905, le Conseil fédéral décide d’ouvrir une légation simultanément à St-Pétersbourg et Tokyo. Cf. DDS vol. 5, n<hi>os</hi> 84, 88, 88 annexe 1 et annexe 2.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

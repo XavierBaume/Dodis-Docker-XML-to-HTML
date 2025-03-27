@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42149</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42149">dodis.ch/42149</ref>
+                    <title type="main">Der Staatsrat des Kantons <placeName ref="https://dodis.ch/G28">Genf</placeName><note>Unterzeichnet vom Präsidenten, <orig>Michel Chauvet</orig>, und dem Kanzler, <orig>Ch</orig><add type="edition">[arles]</add> <orig>Archinard</orig>.</note> an den Bundesrat<note>Schreiben: <idno type="CH-BAR">E 21/14497</idno>.</note></title>
+                    <unclear reason="Entity type: Place not found in section with ID:">11683</unclear>
+                    <unclear reason="Entity type: Organization not found in section with ID:">20712</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Genève,</placeName>
+                        <date when="1880-01-09">9 janvier 1880</date>
+                    </dateline>
+                </opener>
+                <p>Par votre office du 12 Novembre 1879<note>Nicht abgedruckt.</note> vous attiriez notre attention sur divers articles publiés par le <emph>Journal socialiste le RévoltéoX </emph>nous demandiez de vous faire connaître s’il y avait des étrangers qui coopéraient à la rédaction, à l’expéditions et à l’impression du dit journal, et dans l’affirmative, de vous communiquer leurs noms et de vous renseigner sur l’attitude que nous avions l’intention de prendre. Nous avons l’honneur de vous transmettre le résultat de l’enquête qui a été immédiatement ouverte à ce sujet.</p>
+                <p>La composition de ce journal doit avoir lieu dans un local particulier mais, faute de matériél suffisant, l’impression se fait dans l’imprimerie du sieur Falk, citoyen genevois, établi rue du Conseil général Nr. 8.</p>
+                <p>Le Révolté se tire à 600 ou 800 exemplaires; une centaine de numéros est distribuée en ville, le reste est expédié dans l’intérieur de la Suisse et à l’étranger.</p>
+                <p>L’éditeur responsable inscrit à notre Chancellerie d’Etat se nomme <emph><persName ref="https://dodis.ch/P33823">Thomachot</persName>, citoyen genevois, </emph>exerçant la profession de menuisier et qui a son domicile dans la Commune des Eaux-vives. Au nombre des rédacteurs, nous n’avons encore trouvé que le sieur <emph><persName ref="https://dodis.ch/P33614">Levachoff</persName>, </emph>sujet <emph>russe, </emph>dont il est fait mention dans le Numéro du 1 Novembre et un nommé <emph><persName ref="https://dodis.ch/P33484">Dumartheray</persName>, </emph>d’origine <emph>française, </emph>attaché au service de la partie matérielle de la rédaction.</p>
+                <p>Nos lois et nos habitudes sur la liberté de la presse, ne nous permettront pas d’agir contre un journal, ni d’en empêcher la publication. Nous aurons soin cependant d’exercer une surveillance administrative sur les étrangers qui nous seront signalés comme collaborateurs à ce journal et de veiller à ce qu’ils soient sous permis de séjour régulier.</p>
+                <p>En ce qui concerne spécialement <persName ref="https://dodis.ch/P33614">Levachoff</persName> qui est sans permis de séjour régulier, notre Département de Justice et Police a été chargé de lui interdire de séjourner dans le Canton tant qu’il n’aurait pas régularisé sa situation.</p>
+                <p>Nous nous empresserons de vous communiquer les renseignements ultérieurs que nous pourrons obtenir.<note>Vermerk des Vorstehers des Justiz- und Polizeidepartements, <persName ref="https://dodis.ch/P32872">Anderwert</persName>, am Schluss des Schreibens: <orig>Sei nach Kenntnissnahme dieses Berichtes der Regierung von <placeName ref="https://dodis.ch/G28">Genf</placeName> hievon Vermerk am Protokoll zu nehmen, und der Sache einstweilen keine weitere Folge zu geben.</orig> Dieser Antrag mit Datum vom 17.1.1880 wurde vom Bundesrat in der Sitzung vom 23.1.1880 gutgeheissen <orig>(<idno type="CH-BAR">E 1004 1/120</idno>, Nr. 404).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42773</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42773">dodis.ch/42773</ref>
+                    <title type="main">Le Département fédéral de Justice et Police au Conseil fédéral<note>Rapport: <idno type="CH-BAR">E 22/1932</idno>.</note></title><title type="sub">II. Bericht des eidgenössischen Justiz- und Polizeidepartements an den Bundesrat, betreffend die III. Konferenz für Internationales Privatrecht im Haag</title>
+                    <unclear reason="Entity type: Place not found in section with ID:">514</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern,</placeName>
+<date when="1901-06-02"> im Juni 1901</date>
+
+                    </dateline>
+                </opener>
+                <p>An der III. Konferenz für internationales Privatrecht im Haag ist am 19. Juni 1901 durch die Staatendelegierten ein Schlussprotokoll unterzeichnet worden, welches den Entwurf von vier Konventionen (Staatsverträgen) enthält.</p>
+                <p>1. Konvention zur Regelung der internationalen Gültigkeit der Ehe.</p>
+                <p>2. Konvention zur Regelung der Scheidung und Trennung von Tisch und Bett.</p>
+                <p>3. Konvention betreffend die Vormundschaft über Minderjährige.</p>
+                <p>4. Konvention betreffend Verlassenschaften (successions), Testamente und Schenkungen von Todes wegen.</p>
+                <p>In dem von der niederländischen Regierung ausgegebenen Programm war noch eine fünfte Konvention betreffend die Wirkungen der Ehe auf den Civilstand der Ehefrau und der Kinder und auf das eheliche Güterrecht enthalten, welche sich aber bei den Konferenzverhandlungen nicht zu einem Entwürfe gestalten liess, da die Ansichten zu stark auseinander gingen.</p>
+                <p>Wir verweisen in dieser Beziehung auf das Programm, auf unsern Bericht vom 14. Mai 1900 und auf die gedruckten Verhandlungen der III. Konferenz (actes de la troisième conférence).<note>Ce rapport fut approuvé par le Conseil fédéral le 5 juin 1902 <orig>(<idno type="CH-BAR">E 1004 1/209</idno>,</orig> n<hi>o</hi>
+                        <orig>2314).</orig></note></p>
+                <p>Mit Note vom 2. Juli 1900<note>cf. n<hi>o</hi> 341.</note> übermittelte die niederländische Regierung dem Bundesrate ein beglaubigtes Exemplar des Protokolls und fünf nicht beglaubigte Exemplare.</p>
+                <p>Mit Note vom 15. Oktober 1900<note>Non reproduit.</note> übermittelte die niederländische Regierung dem Bundesrate ein beglaubigtes Exemplar des Protokolls und fünf nicht beglaubigte Exemplare.</p>
+                <p>Mit Note vom 15. Oktober 1900<note>Non reproduit.</note> machte dieselbe Regierung verschiedene Vorschläge redaktioneller Natur und beantragte, den Art. 8 der vierten Konvention betreffend erbrechtliche Verhältnisse zu streichen.</p>
+                <p>Der Bericht der Delegierten des Bundesrates, der Herren Prof. Dr. <persName ref="https://dodis.ch/P27970">Roguin</persName> in <placeName ref="https://dodis.ch/G174">Lausanne</placeName> und Prof. Dr. <persName ref="https://dodis.ch/P34187">Meili</persName> in Zürich, ist vom 29./30. November 1900<note>Voici reproduit un extrait de ce rapport, pp. 2–4: <add type="edition">[...] </add><orig>Ils</orig>
+                        <add type="edition">[les délégués]</add><orig>observent ensuite que la nature des travaux de la Conférence, et, dans une forte mesure, la manière dont beaucoup de délégués ont considéré leur rôle, ont été fort diffé- rentes que lors des deux premières Conférences de 1893 et de 1894</orig> (Cf. <orig><idno type="CH-BAR">E 22/1929</idno>, 1930;</orig> et n<hi>o</hi> 5 118 et 119). <orig>Dans ces deux premières réunions, aucun délégué n’était lié par des instructions trop étroites. Ils avaient été laissés libres d’aborder telle ou telle matière du droit plutôt que d’autres, et de souscrire, soit en leurs noms personnels, soit même comme représentants de leurs Gouvernements, à des dispositions préparées et convenues exclusivement à <placeName ref="https://dodis.ch/G88">La Haye</placeName>, et sur la valeur desquelles aucun Etat ne s’était préalablement prononcé. En deux mots, l’initiative personnelle de chaque délégation s’était manifestée en 1893 et 1894 dans une très large mesure, même d’une façon illimitée. Il en a été tout autrement en 1900. Le Gouvernement néerlandais avait à l’avance envoyé aux autres Etats un projet de programme, sur les différents articles duquel les Gouvernements s’étaient, à la suite d’études faites dans les ministères, prononcés d’une manière spéciale et formelle. Des rédactions étaient même proposées de part et d’autre. Un volume contenant le projet de programme hollandais et les observations ou propositions des autres Gouvernements avait été imprimé et se trouvait en possession de chaque délégué. Ceux-ci étaient donc en présence de propositions fermes émanées des Etats; ils ne pouvaient que soutenir la manière de voir de leur Gouvernement; la sphère laissée à leur initiative était donc extrêmement réduite. Toute proposition s’écartant de celles faites par les Etats était considérée presque comme tardive ou intempestive. Les Commissions et la Conférence surtout inclinaient à n’en guère tenir compte. Il faut ajouter à cela que beaucoup de délégués, spécialement ceux de l’<placeName ref="https://dodis.ch/G5">Allemagne</placeName>, de l’<placeName ref="https://dodis.ch/G904">Autriche-Hongrie</placeName> et de la <placeName ref="https://dodis.ch/G10073">Russie</placeName>, étaient munis d’instructions absolument détaillées, déterminant leurs propositions et leur traçant leurs votes. L’esprit qui dominait dans la conférence était plutôt celui de fonctionnaires que de délégués quelque peu indépendants. A plusieurs reprises, l’on entendit, par exemple, les représentants de l’<placeName ref="https://dodis.ch/G5">Allemagne</placeName> déclarer que leur Gouvernement tenait absolument à telle ou telle solution. Si une pareille situation avait le désavantage de faire écarter ou réduire à l’état de vœux les propositions nouvelles, elle avait le grand mérite de permettre l’élaboration de projets de conventions à peu près définitifs, et sur lesquels il est probable de réunir les adhésions de plusieurs Gouvernements. </orig>[...] <orig>(<idno type="CH-BAR">E 22/1931</idno>).</orig>
+                        <add type="edition"></add></note> datiert und langte Anfang Dezember beim Departemente ein. Es wird sich für den Bundesrat zunächst darum handeln, ob er die Konventionen ratifizieren will, sodann im Bejahungsfalle darum, bei der Bundesversammlung um Genehmigung der Ratifikation einzukommen, wodurch, wenn die Genehmigung erteilt wird, die Konventionen in für die Schweiz verbindliche Staatsverträge verwandelt würden.</p>
+                <p>Es ist vorauszuschicken, dass die vier Entwürfe durchaus selbständiger Natur sind, so dass die an der Konferenz beteiligten Staaten einzelnen davon beitreten, andere ablehnen können. Nur die beiden ersten betreffen dieselbe Materie, das Eherecht: sie sind aber so redigiert, dass auch bei ihnen getrennte Behandlung und Beschlussfassung gegeben ist.</p>
+                <p>Die Delegierten des Bundesrates sind über die Frage der Annahme geteilter Meinung. Herr Prof. Dr. <persName ref="https://dodis.ch/P34187">Meili</persName>, welcher die Konventionsentwürfe für verbesserungsfähig erachtet, ist der Ansicht, der Bundesrat solle alle vier ablehnen; er beantragt in erster Linie, der Bundesrat solle an die niederländische Regierung ein detailliertes Memorial richten, um die nach seinem Ermessen notwendigen Verbesserungen zu erlangen. Eventuell schlägt er vor, die zwei ersten Abmachungen betreffend das Eherecht und vielleicht noch die dritte betreffend Vormundschaft über Minderjährige anzunehmen; er verwirft aber des entschiedensten die vierte betreffend die erbrechtlichen T T’rhältnisse.</p>
+                <p>Herr Prof. Dr. <persName ref="https://dodis.ch/P27970">Roguin</persName> glaubt nicht an die Möglichkeit, durch diplomatische Unterhandlungen eine eingehende Veränderung der Vorschläge der Konferenz zu bewirken, und spricht sich für Annahme aller vier Konventionen aus, auch derjenigen über erbrechtliche Verhältnisse.</p>
+                <p>Wenn man zunächst das Resultat der Konferenzbeschlüsse mit dem aufgestellten Programm vergleicht, so sieht man, dass grundsätzlich das Heimatrecht, wie schon im Programm vorgesehen, überall den Sieg davongetragen hat. Die schweizerischen Delegierten sind durchgehends mit ihren Anträgen auf bessere Wahrung des Domizilprinzipes oder Milderung der Sätze des Heimatrechtes unterlegen.</p>
+                <p>Im Berichte der Delegierten steht eine Bemerkung des Herrn Prof. Dr. <persName ref="https://dodis.ch/P27970">Roguin</persName>, welche wir hervorheben möchten.</p>
+                <p>Herr <persName ref="https://dodis.ch/P27970">Roguin</persName> weist Seite 21 u. ff. des Berichtes darauf hin, dass der Sieg des Heimatprinzipes mit der allgemeinen politischen Entwicklung der zweiten Hälfte des vergangenen Jahrhunderts im Zusammenhange steht. Die Nationalitäten haben sich zu politischen Individualitäten gestaltet und das Nationalgefühl hat eine ganz ausserordentliche Steigerung erfahren. Es bestehen keine Anzeichen dafür, dass diese Bewegung rückläufig werden wird; im Gegenteil beweist das Beispiel <placeName ref="https://dodis.ch/G5">Deutschland</placeName>s, welches im Einführungsgesetz zum bürgerlichen Gesetzbuch vollständig zum Heimatprinzip übergegangen ist, dass die Bewegung zugunsten des Heimatprinzips immer noch eine fortschreitende ist.</p>
+                <p>Wir halten diesen Gedanken für richtig. Man kann die so geschaffene Sachlage bedauern, aber ändern kann man sie nicht.</p>
+                <p>Die Schweiz würde durch Ablehnung der Konventionen, welche auf Annahme bei einer Grosszahl der an der Konferenz vertretenen Staaten rechnen kann, im kontinentalen <placeName ref="https://dodis.ch/G12">Europa</placeName> ziemlich isoliert werden. Denn auch die skandinavischen Staaten, welche in ihrer internen Gesetzgebung auf dem Boden des Domizilprinzipes stehen, werden voraussichtlich zur Annahme der Konventionen gelangen (vgl. Bericht der Delegierten, Seite 19), wenigstens nach den Äusserungen, welche ihre Vertreter gegenüber unsern Konferenzdelegierten gethan haben.</p>
+                <p>Wir haben diese allgemeine Folge hier nur hervorgehoben, ohne uns über die Frage der Annahme oder Nichtannahme schon zu äussern, welche wir am Schlüsse behandeln werden.</p>
+                <p>Im einzelnen kann man zugeben, dass das Programm durch die Konferenzbeschlüsse manche Verbesserung erhalten hat; so sehen wir den Art. dwwa8<note>Article 8: <orig>Sans préjudice des dispositions faites dans les limites fixées par la loi nationale du défunt, il ne sera admis aucun prélèvement ni aucune inégalité au profit des nationaux des Etats contractants à raison de la nationalité des successibles, des légataires ou des donataires appartenant à ces Etats.</orig> Cf. <orig>Actes de la Troisième Conférence de <placeName ref="https://dodis.ch/G88">La Haye</placeName> pour le droit international privé. (29 mai – 18 juin 1900.)</orig> p. 245 <orig>(<idno type="CH-BAR">E 13 (A)/2</idno>).</orig></note> der Erbrechtskonvention, den die niederländische Regierung streichen möchte, gerade für eine Haupterrungenschaft der Konferenzbeschlüsse an.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

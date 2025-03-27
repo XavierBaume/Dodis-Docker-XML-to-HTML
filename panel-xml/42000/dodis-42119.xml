@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42119</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42119">dodis.ch/42119</ref>
+                    <title type="main">Der Bundespräsident und Vorsteher des Politischen Departements, <persName ref="https://dodis.ch/P15817">K. Schenk</persName>, an die schweizerische Gesandtschaft in <placeName ref="https://dodis.ch/G361">Rom</placeName><note>Schreiben (Kopie): <orig><idno type="CH-BAR">E 2/915</idno></orig>. Die ersten drei Abschnitte dieses Schreibens wurden auch den schweizerischen Gesandtschaften in <placeName ref="https://dodis.ch/G18">Paris</placeName> und <placeName ref="https://dodis.ch/G238">Wien</placeName> <orig>(<idno type="CH-BAR">E 2200 Wien 1/82</idno>)</orig> mitgeteilt.</note></title>
+                    <unclear reason="Entity type: Place not found in section with ID:">1982</unclear>
+                </head>
+                <opener>
+                    <add>Très-confidentielle</add>
+                    <dateline>
+                        <placeName>Berne,</placeName>
+                        <date when="1878-11-16">16 novembre 1878</date>
+                    </dateline>
+                </opener>
+                <p>Un grand nombre de journaux ont à plusieurs reprises et avec insistance parlé ces derniers temps de négociations qui seraient pendantes entre le Conseil fédéral et la Cour de <placeName ref="https://dodis.ch/G361">Rom</placeName>e, voire d’une mission à Berne tantôt du Cardinal <persName ref="https://dodis.ch/P32236">Bianchi</persName>, tantôt du Cardinal Secrétaire d’Etat <persName ref="https://dodis.ch/P33698">Nina</persName>. Nous avons l’honneur de vous informer à ce propos que, depuis l’échange de lettres qui a eu lieu entre le Conseil fédéral et le St. Siège à l’occasion du décès du pape <persName ref="https://dodis.ch/P32657">Pie IX</persName><note><orig><idno type="CH-BAR">E 2/915</idno></orig>.</note> et de l’avènement du pape <persName ref="https://dodis.ch/P33873">Léon XIII</persName><note>Vgl. Nr. 129, Annexe 1 und 2.</note>, auquel se rapporte notre dépêche du 8 Avril de cette année<note>Nicht ermittelt.</note>, il n’y a eu absolument aucun rapport entre le Gouvernement fédéral et le <placeName ref="https://dodis.ch/G712">Vatican</placeName>, dont nous n’avons reçu et auquel nous n’avons fait ni directement ni indirectement aucune communication ni officielle ni officieuse.<note>Am 28.11.1878 sah sich der Bundesrat veranlasst, den Kantonen <placeName ref="https://dodis.ch/G9092">Uri</placeName>, <placeName ref="https://dodis.ch/G4677">Schwyz</placeName>, <placeName ref="https://dodis.ch/G1889">Obwalden</placeName>, <placeName ref="https://dodis.ch/G1983">Nidwald</placeName>en, <placeName ref="https://dodis.ch/G1261">Zug</placeName>, Freiburg, Appenzell IR, <placeName ref="https://dodis.ch/G688">Tessin</placeName>und <placeName ref="https://dodis.ch/G689">Wallis</placeName> zu erklären, er lehne ihre Forderung nach Wiederaufnahme der Beziehungen zum Hl. Stuhl ab <orig>(<idno type="CH-BAR">E 1001 (E)</idno> q 1/121, Nr. 6244).</orig></note> Vous êtes autorisé, cas échéant, si l’occasion le demande, à donner connaissance de la présente déclaration au Gouvernement près duquel vous êtes accrédité.</p>
+                <p>Il nous serait par contre du plus haut intérêt de savoir à quoi nous en tenir au sujet de ces tentatives de rapprochement de la part du St. Siège sur lesquelles la presse revient souvent: nous vous prions en conséquence confidentiellement et pour autant toutefois que cela vous paraîtra possible, de bien vouloir nous renseigner sur le degré de créance qu’on peut donner à ces bruits, et au cas où il y aurait quelque chose de positif à cet égard, nous faire savoir ce qu’il y a de vrai dans cette prétendue mission du Cardinal <persName ref="https://dodis.ch/P32236">Bianchi</persName> ou du Cardinal <persName ref="https://dodis.ch/P33698">Nina</persName>, et éventuellement aussi quel en serait le but, en un mot quelles sont les dispositions actuelles de la</p>
+                <p>Cour de <placeName ref="https://dodis.ch/G361">Rom</placeName>e et ses intentions probables à ce sujet.</p>
+                <p>Nous nous rendons fort bien compte des difficultés qu’il y a à vous procurer ces informations délicates qui sortent de la sphère de votre Légation <emph>[...]<note>Es folgt die Grussformel.</note>.</emph></p>
+            </div>
+        </body>
+    </text>
+</TEI>

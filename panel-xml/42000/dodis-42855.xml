@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42855</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42855">dodis.ch/42855</ref>
+                    <title type="main">Le Consul général de Suisse à Yokohama, <persName ref="https://dodis.ch/P19126">P. Ritter</persName>, au Chef du Département du Commerce, de l’Industrie et de lAgriculture, <persName ref="https://dodis.ch/P22605">L. Forrer</persName><note>Lettre: <idno type="CH-BAR">E 2001 A 1042</idno>.</note></title>
+                    <unclear reason="Entity type: Person not found in section with ID:">22033</unclear>
+                    <unclear reason="Entity type: Person not found in section with ID:">34100</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">247</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">281</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">75</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">3147</unclear>
+                    <unclear reason="Entity type: Place not found in section with ID:">9449</unclear>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Moskau,</placeName>
+                        <date when="1903-12-30">30. Dezember 1903</date>
+                    </dateline>
+                </opener>
+                <p>Ich habe mehrere Tage in Petersburg zugebracht und ich erlaube mir, Ihnen – gemäss dem Ihnen bei meinem Abschiedbesuche gemachten Anerbieten – meine Eindrücke betr. eine diplomatische Vertretung in dieser Stadt kurz zu skizzieren.</p>
+                <p>Ich bin mit diversen Empfehlungen versehen dort angekommen, habe in einigen Schweizerfamilien Mahlzeiten eingenommen und der Einladung des Präsidenten der schweizerischen Hülfsgesellschaft zur Theilnahme am Weihnachtsfeste Folge geleistet. Dieses Fest, Christbaumbescherung, Dîner und Ball, fand im deutschen Club statt und ich hatte bei diesem Anlasse Gelegenheit, Schweizer aller Gesellschaftsklassen kennen zu lernen.</p>
+                <p>Diesen Herren erschien ich, als offizieller Vertreter der Schweiz aus <placeName ref="https://dodis.ch/G45">Japan</placeName>, im jetzigen Zeitpunkt doppelt interessant, einestheils betr. Äusserung meiner Ansicht über die Lage im fernen Osten, anderntheils weil man dachte, dass ich etwas Näheres über das Schicksal der von der dortigen Schweizerkolonie vor 9 Monaten nach Bern eingegebenen Petition betr. die diplomatische Vertretung der Eidgenossenschaft in <placeName ref="https://dodis.ch/G10073">Russland</placeName><note>Reproduit en annexe au présent document.</note> anzugeben vermöge.</p>
+                <p>Die Gründe warum die Landsleute einen Gesandten wünschen, werden wohl in dieser Petition ausgeführt sein. Nach allen Aussagen scheint es ein dringendes Bedürfnis und auch der Herzenswunsch der Kolonie zu sein, einen politischen Vertreter zu erhalten, aber nicht einen Berufskonsul.</p>
+                <p>Unsern kaufmännischen Konsul, Herrn <persName ref="https://dodis.ch/P22031">Schinz</persName>, habe ich besucht und viele Urtheile über ihn gehört. Herr <persName ref="https://dodis.ch/P22031">Schinz</persName> hat seit 25 Jahren sehr viel für die Kolonie gethan. Es wird dies allseitig dankbar anerkannt. Jetzt ist Herr <persName ref="https://dodis.ch/P22031">Schinz</persName> aber krank und zwar ernstlich krank. Er leidet augenscheinlich an Gehirnerweichung und dürfte sich eigentlich gar nicht mehr zeigen. Er hat abstossende Gewohnheiten angenommen und das Gedächtnis verloren. Er hängt jedoch stets noch an seiner Konsulswürde, während seine Frau es einsieht und es mir auch gesagt hat, dass er so bald als möglich zurücktreten müsste. Einen neuen kaufmännischen Konsul zu finden, ist wie die Dinge jetzt liegen wohl fast eine Unmöglichkeit. Das Bleiben im Amte des Herrn <persName ref="https://dodis.ch/P22031">Schinz</persName> kann nur noch eine Frage von Monaten sein.</p>
+                <p>Die beiden Schweizer-Gesellschaften in Petersburg sind <emph>sehr </emph>reich (sie haben vor nicht langer Zeit über 1 Million Rubel geerbt) und ich bin überzeugt, dass, falls man nur leise anklopfen würde, sie eventuell einen Beitrag an die Kosten der neuen Gesandtschaft gerne leisten würden. Das Vermögen besteht theilweise aus werthvollen Terrains und Häusern und es könnten vielleicht z.B. die Kanzleiräume der Legation, falls ein Geldbeitrag als unannehmbar erscheinen würde, dort untergebracht werden.</p>
+                <p>Es wollte mir scheinen, dass für einen Gesandten ein enormes und fruchtbares Arbeitsfeld in diesem Lande und seinen Provinzen erstehen dürfte, sofern der richtige Mann für den Posten gefunden werden kann. Ich hatte bis jetzt nur mit Schweizerkolonien im fernen Osten (<placeName ref="https://dodis.ch/G45">Japan</placeName>, <placeName ref="https://dodis.ch/G29">China</placeName> und <placeName ref="https://dodis.ch/G201">Indien</placeName>) zu thun gehabt und war nicht gewohnt so grossen Patriotismus zu finden, wie ich ihn hier in Petersburg angetroffen habe. Die Kolonie sei etwa 1200 Personen stark, diejenige in <placeName ref="https://dodis.ch/G21">Moskau</placeName> noch grösser.</p>
+                <p>Das Leben in Petersburg (wie auch in <placeName ref="https://dodis.ch/G21">Moskau</placeName>) sei sehr theuer. Die Herren in Petersburg, welche sich mit der Gesandtschaftsfrage speziell befasst haben, glauben, dass der schweizerische Gesandte, ohne grosse Sprünge machen zu wollen, sich ein Budget von ca. 70–80000 Franken machen müsste. Es dürfte also der Posten mit dem Sekretär und den Schreibern leicht Fr. 100000 kosten.</p>
+                <p>Die Wohnung (eine Etage) stellt sich allein auf 13–15000 Frs. (5–6000 Rubel); das Leben ist im Vergleiche mit ändern Ländern grossartig und der Russe der guten Gesellschaft mehr als large. Dabei rollt der Rubel hier genau so, oder noch leichter als unser Franken.</p>
+                <p>Wenn ich mir eine Meinungsäusserung erlauben darf, so sollten diese relativ hohen Kosten kein Hinderungsgrund für die Schaffung dieses Postens sein, hat doch die Schweiz auch für die ändern Länder von jeher Männer gefunden, welche ihr als Minister Intelligenz und Vermögen zur Verfügung gestellt haben.</p>
+                <p>Ich werde auf der Reise durch <placeName ref="https://dodis.ch/G290">Sibirien</placeName> und die Manchurei so viel als möglich beobachten und Ihnen später darüber auch gerne wieder berichten.</p>
+                <p>Die Kälte hier ist schon ziemlich gross (–18°), doch sollen wir um den Baikal-See ungefähr –40° R. finden. Es liegt hier noch wenig Schnee und die Schlittbahn ist noch nicht gut.</p>
+                <p>Der Truppentransporte wegen fahren die Züge nach dem Osten unregelmässig, doch hoffen wir morgen Abend wegfahren zu können.<note>Déjà en 1890, <persName ref="https://dodis.ch/P5840">Lardy</persName> se prononce en faveur de l’ouverture d’une légation à St-Pétersbourg. Cf. n<hi>o</hi> 20. Cf. aussi le Memorandum de <persName ref="https://dodis.ch/P552">Max Huber</persName> du 24.9. 1900 intitulé: <orig>Bericht über die Möglichkeit Schweizerischen Exportes nach <placeName ref="https://dodis.ch/G10073">Russland</placeName>, insbesondere <placeName ref="https://dodis.ch/G290">Sibirien</placeName>,</orig> 42 p. <orig>(<idno type="CH-BAR">E 2001 (A) 978</idno>).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

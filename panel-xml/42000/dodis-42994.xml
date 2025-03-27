@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42994</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42994">dodis.ch/42994</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 30. Juli 1906<note><idno type="CH-BAR">E 1004 1/225</idno>. Beginn: 18.15 Uhr. Abwesend: <persName ref="https://dodis.ch/P33689">Müller</persName>.</note></title><title type="sub">4247. Handelsvertrags-Unterhandlungen mit Frankreich</title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Handelsdepartement. </placeName>Mündlich</dateline>
+                </opener>
+                <p>Herr Bundespräsident <persName ref="https://dodis.ch/P22605">Forrer</persName> teilt mit, dass ihm soeben der französische Botschafter, Herr <persName ref="https://dodis.ch/P34757">Revoil</persName>, eröffnet habe:</p>
+                <p>Die französische Regierung mache aus dem dégrèvement du droit sur les moulinés nicht mehr eine Bedingung für die Herabsetzung der Seidenzölle.</p>
+                <p>Sie nehme das schweizerische Begehren von Fr. 250 für schwarze Seide an, könne aber für farbige Seide nicht unter Fr. 325 heruntergehen.</p>
+                <p>Die französische Regierung nehme auch das schweizerische Begehren von Fr. 600 für broderie en bande, gemäss der schweizerischen Note vom 29. Juli<note>Nr. 138.</note>, an, sie könne aber für broderies chimiques nicht unter Fr. 1050 heruntergehen.</p>
+                <p>Der Status quo solle bis zum Austausch der Ratifikationen fortdauern.</p>
+                <p>Nach Anhörung des Vorstehers des Handelsdepartements, Herrn Bundesrat <persName ref="https://dodis.ch/P33470">Deucher</persName>, und nach Schluss der Beratung wird auf den Antrag des Herrn <persName ref="https://dodis.ch/P33470">Deucher</persName>
+                    <emph>einstimmig beschlossen: </emph></p>
+                <p>Es seien diese Vorschläge der französischen Regierung anzunehmen, immerhin unter der Voraussetzung, dass die schweizerische Redaktion für die broderies chimiques (Note vom 2. Juli)<note>Nicht abgedruckt.</note> französischerseits angenommen und die Ratifikationen spätestens bis 20. November ausgetauscht werden.</p>
+                <p>Der französische Botschafter soll vom Herrn Bundespräsidenten ersucht werden, heute noch seine Erklärungen schriftlich einzureichen, und der Herr Bundespräsident wird ermächtigt, noch heute abend die Erklärung des Bundesrates dem Herrn Botschafter zu übergeben<note>Die Einigung wurde am gleichen Abend durch Notenaustausch zwischen Bundespräsident <persName ref="https://dodis.ch/P22605">Forrer</persName> und Botschafter <persName ref="https://dodis.ch/P34757">Revoil</persName> abgeschlossen. Dabei übernahm letzterer mündlich die Verpflichtung, dass Frankreich zuerst ratifizieren werde. Von Bundespräsident <persName ref="https://dodis.ch/P22605">Forrer</persName> über die Einigung benachrichtigt, schrieb Nationalrat <persName ref="https://dodis.ch/P17395">Frey</persName> am 31. Juli 1906 aus <placeName ref="https://dodis.ch/G13052">Unterterzen</placeName> zurück: <add type="edition">[...]</add> <orig>Ohne dass darin eigentliche Kritik enthalten sein soll, habe ich doch den Eindruck bekommen, dass einige Mitglieder des Bundesrates entschiedener gewesen wären, wenn sie völlige Klarheit und Sicherheit in der Sache gehabt hätten. Völlig ist wohl zu viel gesagt, denn das gibt es auch da nicht; aber immerhin ist es sehr nützlich, genau zu wissen, worauf es ankommt. Item, wenn die bundesrätlichen Beschlüsse ganz durchgegangen wären, so hätte man sich noch schliesslich mit einem blauen Auge davon gemacht; nach der Depesche von heute früh, haben wir deren zwei. Aber freilich: der Bruch ist vermieden. Höchst verdächtig ist mir die späte Ratifikation.</orig>
+                        <add type="edition">[...] </add><orig>(<idno type="CH-BAR">E 13 (B)/185</idno>).</orig></note>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

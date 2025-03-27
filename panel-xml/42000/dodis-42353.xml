@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42353</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42353">dodis.ch/42353</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 29. Mai 1888<note><orig><idno type="CH-BAR">E 1004 1/153</idno></orig>. Abwesend: <persName ref="https://dodis.ch/P27911">Hammer</persName>, <persName ref="https://dodis.ch/P33212">Ruchonnet</persName>.</note></title><title type="sub">2456. Viehverkehr mit <placeName ref="https://dodis.ch/G31">Österreich</placeName></title>
+                </head>
+                <opener>
+                    <dateline>Industrie- und Landwirtschaftsdepartement</dateline>
+                </opener>
+                <p>Das Industrie- und Landwirtschaftsdepartement erstattet Bericht über die Stellung, welche die herwärtigen Bevollmächtigten für die Handelsvertragsunterhandlungen mit <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn bezüglich des Übereinkommens behufs Verhinderung der Ausbreitung von Tierseuchen durch den Viehverkehr<note><orig>AS 1883–1884, 7, S. 142-156.</orig></note> einnehmen sollen. Es kommt zu folgenden Schlussfolgerungen:</p>
+                <p>1. Schon vor dem Abschluss der Konvention war der Viehverkehr <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarns nach der Schweiz ein verhältnismässig bedeutender, derjenige der Schweiz nach <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn verhältnismässig gering.</p>
+                <p>2. Nach dem Abschluss der Konvention hat mit der Eröffnung der <placeName ref="https://dodis.ch/G1085">Arlberg</placeName>bahn die Einfuhr von Rindvieh und Schweinen aus <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn in die Schweiz, namentlich aber der Transit von Schafen und Schweinen ganz bedeutende Dimensionen angenommen, während die Ausfuhr aller Viehgattungen aus der Schweiz nach <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn abnahm und gegenwärtig ganz unbedeutend ist.</p>
+                <p>3.<placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn hat von Anfang an grossen Wert auf das Zustandekommen der Konvention gelegt; die tatsächlichen Verhältnisse haben dargetan, dass diesem Lande aus derselben wesentliche Vorteile erwachsen sind und fernerhin erwachsen werden. Das Fortbestehen der vertraglichen Abmachungen vom 31. März 1883 oder deren Aufhebung kann somit für <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn keine Frage untergeordneter Natur sein.</p>
+                <p>4.Vom landwirtschaftlichen Standpunkte aus betrachtet hat die Schweiz gar kein Interesse an der Fortdauer der Konvention; im Hinblik auf die Viehseuchenpolizei ist im Gegenteil eine möglichst baldige Kündigung derselben angezeigt, wie dies schon die Gesellschaft schweizerischer Landwirte in ihrer Eingabe an die Bundesversammlung<note>Nicht ermittelt.</note> im Jahr 1886 vorgeschlagen hat.</p>
+                <p>5. Das schweizerische Landwirtschaftsdepartement ist daher der Ansicht, es sei diese Kündigung ins Auge zu fassen, und es stellt dasselbe den Antrag, es möchte, damit die Möglichkeit derselben gewahrt bleibe, die Konvention beim Abschluss des Handelsvertrages nicht als Kampfmittel benüzt und derselben bei diesem Anlass überhaupt nicht Erwähnung getan werden.</p>
+                <p>Der in Ziffer 5 der Schlussfolgerungen gestellte Antrag wird vom Bundesrat zum Beschluss erhoben.</p>
+                <p>Der Bericht soll vorläufig noch auf dem Kanzleitisch verbleiben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

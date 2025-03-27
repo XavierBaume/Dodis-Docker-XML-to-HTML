@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42144</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42144">dodis.ch/42144</ref>
+                    <title type="main">
+                        <objectType>Protokoll </objectType>der Sitzung des Bundesrates vom 15. Juli 1879<note><idno type="CH-BAR">E 1004 1/118</idno>. Abwesend: Droz.</note></title><title type="sub">3898. Schweizerische Ansiedler in Russisch-<placeName ref="https://dodis.ch/G234">Rumänien</placeName></title>
+                </head>
+                <opener>
+                    <dateline>Justiz- und Polizeidepartement. Antrag vom <date when="1879-07-08">8. Juli 1879</date>
+                    </dateline>
+                </opener>
+                <p>Mit 2. Schreiben vom 19. Juni<note>Das 2. Schreiben vom 19. Juni/1. Juli 1879 ist in <idno type="CH-BAR">E 2/162</idno>.– Zum 1. Schreiben vgl. <orig><idno type="CH-BAR">E 1004 1/118</idno>, Nr. 3897.</orig></note> gibt der <emph>Nähmliche</emph><note>Der schweizerische Generalkonsul in <placeName ref="https://dodis.ch/G3147">St. Petersburg</placeName>, <persName ref="https://dodis.ch/P21885">E. Dupont</persName>.</note> davon Kenntniss, dass die Schweizer-Kolonisten in <placeName ref="https://dodis.ch/G8296">Chabag</placeName> (Südrussland), welche seiner Zeit wegen Verweigerung der Leistung des Militärdiensts aus <placeName ref="https://dodis.ch/G10073">Russland</placeName> ausgewiesen worden sind (zu vergl. <emph>Y<add type="edition">[rotokoll </add></emph>vom 15. Februar 1875)<note><orig><idno type="CH-BAR">E 1004 1/100</idno>, Nr. 857.</orig></note> seither einen Güterkomplex des wirklichen Staatsraths <persName ref="https://dodis.ch/P33656">Manassli</persName> in <placeName ref="https://dodis.ch/G97">Bessarabien</placeName> gepachtet und bereits Saaten auf demselben angelegt haben. Da nun jener Theil <placeName ref="https://dodis.ch/G234">Rumänien</placeName>s zufolge des <placeName ref="https://dodis.ch/G25">Berlin</placeName>er-Friedens vom Juni 1878 an <placeName ref="https://dodis.ch/G10073">Russland</placeName> gefallen ist, so stehe fraglichen Ansiedlern eine abermalige Ausweisung bevor. Wirklich habe dann der Generalgouverneur von <placeName ref="https://dodis.ch/G97">Bessarabien</placeName>, <persName ref="https://dodis.ch/P33828">Todtleben</persName>, diese unterm 15. Mai auch verhängt, auf Verwendung des Konsulats in <placeName ref="https://dodis.ch/G1661">Odessa</placeName> aber den Aufschub auf 3 Monate gewährt. Herr <persName ref="https://dodis.ch/P21885">Dupont</persName> begleitet zugleich Abschrift der Note<note><idno type="CH-BAR">E 2/162</idno>.</note> ein, durch welche er unterm gleichen Datum sich bei der kaiserl. Regierung für Belassung unserer Landsleute an ihrem jezigen Aufenthaltsorte verwendet. Er ersucht seine bezüglichen Schritte durch den russischen Gesandten bei der Eidgenossenschaft in Bern unterstüzen zu lassen.</p>
+                <p>Zufolge Antrags wird beschlossen:</p>
+                <p>Das Generalkonsulat in <placeName ref="https://dodis.ch/G3147">St. Petersburg</placeName> wird unter Verdankung seiner bisherigen Bemühungen eingeladen, bei der russischen Regierung auch noch im Namen des Bundesraths sich für Gestattung des fernem Aufenthalts der fraglichen Kolonisten in <placeName ref="https://dodis.ch/G97">Bessarabien</placeName> zu verwenden. Dabei möge er mit Nachdruk sich auf den schweizerischrussischen Niederlassungsvertrag vom 26./14. December 1872<note><orig>AS 1872-1874, XI, S. 376-393.</orig> Vgl. auch den <orig>GBer. 1878 (BBl 1879, 2, S. 580).</orig></note> stüzen, der diesfalls allein massgebend sein müsse und der durch das beliebige Wegweisen arbeitsamer und friedlicher Leute verlezt werde.<note>Mit Note vom 31. 7.1879 <orig>(<idno type="CH-BAR">E 2/162</idno>)</orig> hielt die russische Regierung fest, dass der Niederlassungsvertrag vom 26./14.12.1872für den vorliegenden Fall gegenstandslos sei, da die Ausweisung sich auf ein in Kraft befindliches Reglement stütze. Der Bundesrat erklärte hierauf, in dieser Angelegenheit nichts weiter unternehmen zu können <orig>(<idno type="CH-BAR">E 1004 1/118</idno>, Nr. 4878).</orig></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

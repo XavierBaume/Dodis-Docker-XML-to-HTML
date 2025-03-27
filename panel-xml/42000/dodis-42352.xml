@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42352</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42352">dodis.ch/42352</ref>
+                    <title type="main">Memorandum des Departements des Auswärtigen<note><idno type="CH-BAR">E 13(B)/236</idno>. Das nicht Unterzeichnete Memorandum wurde wahrscheinlich von Ph. <persName ref="https://dodis.ch/P33852">Willi</persName>, dem Chef der Handelsabteilung im Departement des Auswärtigen verfasst.</note></title><title type="sub">EXPOSÉ BETR. DEN STAND DER HANDELSVERTRAGS­UNTERHANDLUNGEN</title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>
+                            <add type="edition">Bern, </add>
+                        </placeName>
+                        <date when="1900-05-16">16. Mai 1888<note>;Laut Stempel des Departements des Auswärtigen.</note>;</date>
+                    </dateline>
+                </opener>
+                <p>Über Handelsverträge wird zur Zeit hauptsächlich mit <placeName ref="https://dodis.ch/G77">Italien</placeName>, <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn, <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und <placeName ref="https://dodis.ch/G75">Belgien</placeName> unterhandelt. Was letztem Staat betrifft, so handelt es sich nur um einen Meistbegünstigungsvertrag an Stelle der täglich kündbaren Meistbegünstigungserklärung vom Jahr 1879.<note><orig>AS 1879, 4, S. 365 und 447.</orig></note> Die belgische Regierung hat im vergangenen Jahre einen Vertragsentwurf eingereicht der einiger Modifikationen bedarf. Die hierauf bezüglichen Vorschläge des Bundesrathes werden zur Zeit von der genannten Regierung geprüft. Dringlichkeit ist nicht vorhanden, doch ist anzunehmen dass der neue Vertrag noch im laufenden Jahre perfekt werde.<note>Vgl. die Botschaft des Bundesrates und den Vertragstext in: <orig>BBl 1889,</orig> 4, <orig>S. 319–330.</orig></note></p>
+                <p>Sehr schwierig und komplizirt ist die Sachlage betr. die 3 genannten Nachbarstaaten. Unsere Handelsbeziehungen mit denselben sind so mannigfaltig und die Zölle sind in den letzten Jahren hüben und drüben so gesteigert worden, dass durch blosse Meistbegünstigungsverträge die gegenseitigen Beziehungen nicht befriedigend geregelt werden können. Dem Zustandekommen der Konventionaltarife welche wir anstreben, stehen aber ganz eigenartige Schwierigkeiten entgegen. Jeder der 3 Staaten mit welchen wir unterhandeln, ist zugleich in Unterhandlungen mit ändern, kommerziell und politisch für ihn wichtigeren Staaten begriffen: so <placeName ref="https://dodis.ch/G77">Italien</placeName> mit <placeName ref="https://dodis.ch/G13">Frankreich</placeName>, <placeName ref="https://dodis.ch/G31">Österreich</placeName>-Ungarn mit <placeName ref="https://dodis.ch/G5">Deutschland</placeName> und umgekehrt. So lange sich diese über ihre künftigen Konventionaltarife nicht verständigt haben, machen sie der Schweiz keine wesentlichen Zollkonzessionen, die sie unter sich auszutauschen beabsichtigen. Unserseits aber können wir keine Verträge abschliessen, deren Vortheile nur auf der Voraussetzung beruhen würden dass für diese oder jene unserer Hauptexportartikel in Bälde Zollerleichterungen zwischen den Gegenkontrahenten und <emph>dritten </emph>Staaten vereinbart u. uns kraft der Meistbegünstigungsklausel zu Gute kommen werden. Schon mehr als ein Mal, und besonders gegenüber <placeName ref="https://dodis.ch/G5">Deutschland</placeName>, hat man sich in solchen Voraussetzungen getäuscht.</p>
+                <p>Gestützt darauf, dass eine lange Dauer des gegenwärtigen französisch-italienischen Zollkrieges in kommerzieller u.politischer Beziehung unberechenbare Folgen haben könnte, darf auf eine baldige Verständigung zwischen <placeName ref="https://dodis.ch/G13">Frankreich</placeName> und <placeName ref="https://dodis.ch/G77">Italien</placeName> gehofft werden; an eine solche würde sich voraussichtlich sofort auch der Abschluss unseres eigenen Handelsvertrags mit <placeName ref="https://dodis.ch/G77">Italien</placeName> schliessen.</p>
+                <p><emph>
+                        <placeName ref="https://dodis.ch/G5">Deutschland</placeName>
+                    </emph>u. <emph><placeName ref="https://dodis.ch/G31">Österreich</placeName>
+                    </emph>wünschen mit einander seit Jahren einen umfassenden Konventionaltarif – wenn nicht eine Zollunion, zu vereinbaren. Unterhandlungen hierüber sind wiederholt begonnen worden und gescheitert, so auch wieder vor einigen Monaten. Momentan herrscht desshalb eine Spannung zwischen beiden Reichen, welche jedes derselben verhindert, der Schweiz Zollreduktionen zu konzediren, von welchen der andere in Folge der provisorischen Meistbegünstigung in erheblichem Masse profitiren könnte. Unter den wichtigsten Interessen welche wir gegenüber <placeName ref="https://dodis.ch/G31">Österreich</placeName> und <placeName ref="https://dodis.ch/G5">Deutschland</placeName> zu verfechten haben, befinden sich aber viele welche auch diese Staaten untereinander sehr nahe angehen. Ferner stehen <placeName ref="https://dodis.ch/G31">Österreich</placeName> sowohl wie <placeName ref="https://dodis.ch/G5">Deutschland</placeName> in einem Meistbegünstigungsverhältniss zu <emph><placeName ref="https://dodis.ch/G13">Frankreich</placeName>
+                    </emph>welches sie mehr oder weniger hindert, sich gegenseitig oder andern Staaten Vortheile einzuräumen die für <placeName ref="https://dodis.ch/G13">Frankreich</placeName> erheblichen Werth besässen.</p>
+                <p>Was bei dieser Sachlage bis jetzt gethan werden konnte, ist geschehen. Ein gewisses <emph>Minimum </emph>von Erleichterungen für den schweizerischen Export nach den fraglichen Nachbarländern dürfte, namentlich auch dank unseren Kampfzöllen<note>Vgl. die <orig>Botschaft des Bundesrathes an die Bundesversammlung, betreffend Abänderung des Zolltarifgesetzes vom 26. Juni 1884. Vom 19. November 1886 (BBl 1886, 3, S. 1045–1095)</orig> und das <orig>Bundesgesetz betreffend Abänderung des Zolltarifgesetzes vom 26. Juni 1884. Vom 17. Dezember. 1887 (BBl 1887, 4, S. 879-894).</orig></note>, doch durchgesetzt werden können. Die Unterhandlungen mit <placeName ref="https://dodis.ch/G31">Österreich</placeName> werden zu diesem Zwecke in den nächsten Wochen beginnen. Was <placeName ref="https://dodis.ch/G5">Deutschland</placeName> betrifft, werden die Unterhandlungen im laufenden Jahre ebenfalls wieder betrieben werden und es ist die Annahme erlaubt, dass von beiden Staaten einige Zugeständnisse gemacht werden, welche den Abschluss eines Vertrages ermöglichen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

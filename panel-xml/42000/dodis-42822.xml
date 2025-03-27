@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>dodis.ch/42822</title>
+                <author>
+                    <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</orgName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses | Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland | Dodis</publisher>
+                <date when="2022-09-16">2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cf. note 1</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Automatically transformed from the printed volumes. If you find any mistake, please send us an e-mail: dodis@dodis.ch</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>https://www.dodis.ch/editorialDecl</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2022-09-16">Last change</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="https://dodis.ch/42822">dodis.ch/42822</ref>
+                    <title type="main">Le Chef du Département du Commerce, de l’Industrie et de l’Agriculture, <persName ref="https://dodis.ch/P33470">W. Deucher</persName>, au Ministre de Suisse à Berlin, A. <persName ref="https://dodis.ch/P27913">Roth</persName><note>Lettre (Copie): <idno type="CH-BAR">E 13(B)/161</idno>.</note></title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern,</placeName>
+                        <date when="1902-12-20">20. Dezember 1902</date>
+                    </dateline>
+                </opener>
+                <p>Unser Schreiben vom 16. dies<note>Non reproduit.</note> hat sich mit dem von Ihnen unterm gleichen Datum an das Politische Departement gerichteten Berichte<note>Non reproduit.</note>, von welchem uns eine Kopie zugestellt worden ist, gekreuzt. Heute erhielten wir ferner ihr geschätztes Schreiben vom 18. dies.<note>Non reproduit.</note></p>
+                <p>Wir haben demselben mit grossem Interesse entnommen, dass die Kaiserliche Regierung die Verträge überhaupt nicht künden werde, sondern beabsichtige, im gegebenen Zeitpunkt bei den Vertragsregierungen Unterhandlungen zum Zwecke einer Revision der bestehenden Verträge zu beantragen, wobei letztere im Sinne von Artikel 11 unseres Vertrages<note>Il s’agit de l’article 11 du traité de commerce conclu entre l’<placeName ref="https://dodis.ch/G5">Allemagne</placeName> et la Suisse le 10 décembre 1891: <orig>Le présent traité entrera en vigueur le 1<hi>er</hi> février 1892 et restera exécutoire jusqu’au 31 décembre 1903. Dans le cas où aucune des parties contractantes n’aurait notifié à l’autre, douze mois avant la fin de cette période, son intention de faire cesser les effets du traité, il demeurera obligatoire jusqu’à l’expiration d’une année à partir du jour où l’une ou l’autre des parties contractantes l’aura dénoncé. Les parties contractantes se réservent le droit d’introduire dans ce traité, d’un commun accord, toute modification qui ne serait pas en opposition avec son esprit et ses principes et dont l’utilité serait démontrée par l’expérience</orig> (RO, 1892, vol. 12, pp. 488-489).</note> die formelle Basis der Unterhandlungen bilden würden.</p>
+                <p>Wir haben vorläufig den Eindruck, dass durch diesen unerwarteten Plan der Kaiserlichen Regierung<note>Dans sa lettre du 16 décembre 1902, <persName ref="https://dodis.ch/P27913">Roth</persName> écrit à ce propos: <add type="edition">[...] </add><orig>Dieser Verzicht auf Kündigung dürfte nicht zum mindesten darauf zurückzuführen sein, dass auf seiten der kaiserlichen Regierung, was den Reichstag betrifft, in welchem ein grosser Teil der jetzigen Mehrheit bei Anlass der Beratungen über die neuen Handelsverträge wieder successive zur Opposition übergehen dürfte, vorderhand eine erklärt pessimistische Stimmung herrschen soll, bzw. dass die Regierung sich für jene Verhandlungen auf harte Kämpfe gefasst macht und nicht riskieren will, für den Fall der Ablehnung dieses oder jenes Vertrages durch vorzeitige Kündigung der bestehenden Verträge sich der Gefahr des Eintrittes eines Vacuums auszusetzen <add type="edition">[...] </add>(<idno type="CH-BAR">E 13 (B)/161</idno>).</orig></note>, der uns die plötzliche Nachgiebigkeit der letztem im Reichstage erst erklärlich macht, eine ausserordentliche Erleichterung der ganzen internationalen Situation in Sachen der Verträge geschaffen und eine ruhige Einleitung und Durchführung der Unterhandlungen gestattet wird. Eine bisher allgemein befürchtete schroffe Kündung der Verträge durch die Deutsche Regierung hätte sofort eine Erregtheit verursacht, die für das ganze bevorstehende Vertragswerk von grossem Schaden gewesen wäre. Der Modus der Revision gewährt auch dem Handel während der Übergangsperiode eine grössere Sicherheit.</p>
+                <p><emph><add type="edition">[...]</add></emph><note>La DFCIA demande à Roth de lui faire parvenir les textes du tarif allemand de 1902.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>
