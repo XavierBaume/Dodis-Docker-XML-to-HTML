@@ -40,7 +40,8 @@ Extraire tous les résultats HTML dans un .zip
     
     docker run -p 8000:8000 xml-to-html-service --> Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
     
-    curl -X POST http://localhost:8000/convert-folder-recursive/ \
+```bash
+curl -X POST http://localhost:8000/convert-folder-recursive/ \
   -H "Content-Type: application/json" \
   -d '{"folder_path": "/app/panel-xml"}'
   
