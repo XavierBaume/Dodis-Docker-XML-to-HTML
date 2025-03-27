@@ -20,19 +20,20 @@ Extraire tous les résultats HTML dans un .zip
     docker stop <CONTAINER_id> + docker rm <CONTAINER_id> --> libérer un port
     docker info
 
-## Structure du projet de container 
-xml-to-html-service
-├── app
-│ ├── main.py--> Script FastAPI avec endpoints
-├── converted/ --> dossier et sous-dossiers convertis en .html
-├── panel-xml/
-├── .dockerignore
-├── converted.zip  --> dossier converted/ zippé
-├── Dockerfile --> Instructions de construction du conteneur
-├── dodis-61431.xml --> Fichier XML d'entrée
-├── README.md
-├── requirements.txt --> Liste des dépendances Python
-└── xml_to_html.xsl --> Script XSLT pour la transformation
+
+## Structure du projet
+
+- `app/`
+  - `main.py` — Script FastAPI avec endpoints
+- `converted/` — Dossier et sous-dossiers convertis en `.html`
+- `converted.zip` — Version zippée du dossier `converted/`
+- `panel-xml/`
+- `.dockerignore`
+- `Dockerfile` — Instructions de construction du conteneur
+- `dodis-61431.xml` — Fichier XML d'entrée
+- `README.md`
+- `requirements.txt` — Liste des dépendances Python
+- `xml_to_html.xsl` — Script XSLT pour la transformation
 
 ## Commandes d'exécution
     docker build -t xml-to-html-service --> Construction de l'image Docker
