@@ -35,21 +35,15 @@ xml-to-html-service
 └── xml_to_html.xsl --> Script XSLT pour la transformation
 
 ## Commandes d'exécution
-1. Construction de l'image Docker
-   
-    docker build -t xml-to-html-service 
-
-3. Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
-   
-    docker run -p 8000:8000 xml-to-html-service
-
-5. Appel API de conversion
-   
+    docker build -t xml-to-html-service --> Construction de l'image Docker
+    
+    docker run -p 8000:8000 xml-to-html-service --> Lancement du conteneur (OK ? Lancement sans volume car problème de permission)
+    
     curl -X POST http://localhost:8000/convert-folder-recursive/ \
   -H "Content-Type: application/json" \
-  -d '{"folder_path": "/app/panel-xml"}'
-
-Réponse attendue : {"converted": 1251, "output_dir": "/app/converted"}
+  -d '{"folder_path": "/app/panel-xml"}' --> Appel API de conversion
+  
+  Réponse attendue : {"converted": 1251, "output_dir": "/app/converted"}
 
 4. Récupérer les fichiers en local
 docker ps --> trouver <CONTAINER_id>
